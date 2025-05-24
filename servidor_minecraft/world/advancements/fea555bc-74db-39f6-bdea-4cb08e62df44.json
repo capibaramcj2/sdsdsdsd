@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2025-05-23 22:22:15 +0000"
@@ -254,6 +260,12 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-05-23 22:36:36 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-05-24 00:43:00 +0000"
     },
     "done": true
   },
@@ -485,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-24 00:45:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/dagger_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:19:15 +0000"
@@ -629,6 +647,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_aquatic_life": {
     "criteria": {
       "has_magic_scroll": "2025-05-23 22:37:25 +0000"
@@ -637,7 +661,9 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_chest": "2025-05-23 22:36:36 +0000"
+      "opened_barrel": "2025-05-24 00:43:25 +0000",
+      "opened_chest": "2025-05-23 22:36:36 +0000",
+      "opened_cart": "2025-05-24 00:43:00 +0000"
     },
     "done": false
   },
@@ -696,6 +722,12 @@
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-24 00:49:34 +0000"
     },
     "done": true
   },
@@ -855,6 +887,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:21:12 +0000"
@@ -882,6 +920,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_wool": {
     "criteria": {
       "has_stick": "2025-05-23 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-05-24 00:43:17 +0000"
     },
     "done": true
   },
@@ -1155,6 +1199,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-23 23:57:21 +0000"
@@ -1248,6 +1298,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-05-23 22:37:55 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-24 00:43:17 +0000"
     },
     "done": true
   },
@@ -1426,6 +1482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-24 00:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-23 22:22:55 +0000"
@@ -1459,6 +1521,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-23 23:58:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
     },
     "done": true
   },
@@ -1798,6 +1866,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/redstone_root": {
+    "criteria": {
+      "has_item": "2025-05-24 00:49:34 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-05-23 22:20:49 +0000"
@@ -1900,6 +1974,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2025-05-23 22:20:55 +0000"
@@ -1921,6 +2001,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
     "criteria": {
       "has_leather": "2025-05-23 22:35:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
     },
     "done": true
   },
@@ -2003,9 +2089,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/altar_pillar": {
     "criteria": {
       "has_stones": "2025-05-23 23:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-24 00:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-24 00:49:34 +0000"
     },
     "done": true
   },
@@ -2048,6 +2152,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:19:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
     },
     "done": true
   },
@@ -2135,6 +2245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-05-24 00:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:21:12 +0000"
@@ -2213,6 +2329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-24 00:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-23 22:15:40 +0000"
@@ -2222,6 +2344,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-05-23 23:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-24 00:49:34 +0000"
     },
     "done": true
   },
@@ -2351,6 +2479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-24 00:49:34 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/totem_top": {
     "criteria": {
       "has_obsidian": "2025-05-23 22:36:40 +0000"
@@ -2378,6 +2512,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-05-24 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
     },
     "done": true
   },
@@ -2426,6 +2566,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-05-24 00:12:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
     },
     "done": true
   },
@@ -2525,6 +2671,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-24 00:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-23 23:57:21 +0000"
@@ -2573,6 +2725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-24 00:45:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
     "criteria": {
       "has_bow": "2025-05-23 23:25:58 +0000"
@@ -2582,6 +2740,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-05-23 22:20:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
     },
     "done": true
   },
@@ -2639,6 +2803,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-05-23 22:20:49 +0000"
@@ -2654,6 +2824,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-23 23:27:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-05-24 00:50:25 +0000"
     },
     "done": true
   },
@@ -2813,6 +2989,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-23 22:19:15 +0000"
@@ -2834,6 +3016,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-23 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-24 00:49:34 +0000"
     },
     "done": true
   },
@@ -2897,6 +3085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-24 00:49:34 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/altar_tip": {
     "criteria": {
       "has_iron": "2025-05-23 22:26:24 +0000"
@@ -2933,6 +3127,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-05-23 22:19:21 +0000"
@@ -2948,6 +3148,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/spear_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-24 00:45:07 +0000"
     },
     "done": true
   },
@@ -3125,6 +3331,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-24 00:49:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
     "criteria": {
       "has_stick": "2025-05-23 22:19:21 +0000"
@@ -3161,6 +3379,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/weapontable/crucifix_enhanced": {
     "criteria": {
       "iron": "2025-05-23 22:26:24 +0000"
@@ -3179,6 +3403,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-23 22:26:24 +0000"
@@ -3188,6 +3418,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-23 23:58:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-24 00:50:05 +0000"
     },
     "done": true
   },

@@ -7556,3 +7556,48 @@ java.lang.NullPointerException: null
 [24May2025 00:41:57.828] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24May2025 00:41:57.836] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [24May2025 00:42:23.409] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:42:24.557] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:42:25.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:42:26.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:42:27.326] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:42:28.026] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:42:28.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 00:42:28.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:42:28.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 00:42:29.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:42:30.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:42:31.259] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:42:33.976] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:42:44.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 00:42:44.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:42:44.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 00:42:46.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:42:46.905] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:43:00.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Tunnel Treasures]
+[24May2025 00:43:17.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Amateur Archaeologist]
+[24May2025 00:43:17.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Vampire Diaries]
+[24May2025 00:43:25.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Barrel Booty]
+[24May2025 00:43:35.207] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:43:35.860] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 00:43:35.860] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:43:35.860] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 00:43:36.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:44:01.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valorxnt has made the advancement [Tunnel Treasures]
+[24May2025 00:44:35.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valorxnt has made the advancement [Crops of the Wild]
+[24May2025 00:45:54.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:45:55.330] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:45:56.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:45:56.722] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:45:57.302] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 00:45:57.302] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:45:57.302] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 00:46:57.848] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24May2025 00:46:57.856] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24May2025 00:47:01.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
+[24May2025 00:47:15.756] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 00:47:15.756] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 00:47:21.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Sweet Dreams]
+[24May2025 00:47:33.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 00:51:57.734] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24May2025 00:51:57.742] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24May2025 00:52:24.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valorxnt has made the advancement [Amateur Archaeologist]
