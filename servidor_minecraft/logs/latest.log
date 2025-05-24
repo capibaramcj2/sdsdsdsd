@@ -236,3 +236,57 @@ java.lang.NullPointerException: null
 [24May2025 20:01:43.206] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton'/2781, l='ServerLevel[world]', x=-7703.70, y=25.00, z=8098.49] to SunkenSkeletonEntity['Sunken Skeleton'/5715, l='ServerLevel[world]', x=-7703.70, y=25.00, z=8098.49]
 [24May2025 20:02:25.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Cobweb Entanglement]
 [24May2025 20:03:05.400] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Mason'/4036, l='ServerLevel[world]', x=227.99, y=79.00, z=-2428.25] died, message: 'Mason hit the ground too hard'
+[24May2025 20:04:04.231] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj was kicked for floating too long!
+[24May2025 20:04:04.232] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Flying is not enabled on this server
+[24May2025 20:04:04.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
+[24May2025 20:04:04.307] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[24May2025 20:04:17.028] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2282532d
+[24May2025 20:04:17.046] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:40961] logged in with entity id 7355 at (410.7315331710371, 32.50133597911215, -2553.2433308828295)
+[24May2025 20:04:17.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
+[24May2025 20:04:17.157] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 20:04:17.158] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 20:04:17.162] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
+[24May2025 20:04:33.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[24May2025 20:05:29.003] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite'/8212, l='ServerLevel[world]', x=425.26, y=30.66, z=-2587.40]
+[24May2025 20:05:29.003] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite Stairs'/8214, l='ServerLevel[world]', x=424.61, y=30.72, z=-2588.73]
+[24May2025 20:05:29.004] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Brick Wall'/8215, l='ServerLevel[world]', x=425.50, y=31.47, z=-2589.32]
+[24May2025 20:05:29.004] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Trapped Chest'/8218, l='ServerLevel[world]', x=425.62, y=31.32, z=-2587.60]
+[24May2025 20:05:42.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Cobweb Entanglement]
+[24May2025 20:06:29.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 20:06:31.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
+[24May2025 20:06:45.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 20:07:38.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
+[24May2025 20:07:47.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 did not like the sun
+[24May2025 20:07:47.672] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[24May2025 20:07:51.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 20:07:54.034] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-7911, y=33, z=7645} BlockPos{x=-7911, y=34, z=7645}
+[24May2025 20:07:54.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 20:07:55.427] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-7912, y=36, z=7645} BlockPos{x=-7912, y=35, z=7645}
+[24May2025 20:08:15.669] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-7913, y=37, z=7630} BlockPos{x=-7913, y=36, z=7630}
+[24May2025 20:08:15.721] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-7913, y=37, z=7630} BlockPos{x=-7913, y=36, z=7630}
+[24May2025 20:08:29.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 20:09:40.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[24May2025 20:09:55.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 20:10:30.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to leonardo412351]
+[24May2025 20:10:31.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Eye Spy]
+[24May2025 20:10:33.026] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-7711, y=19, z=7438} but found not block entity block Block{minecraft:stone} at location
+[24May2025 20:10:33.027] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-7711, y=19, z=7438}
+[24May2025 20:10:33.027] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-7708, y=17, z=7437} but found not block entity block Block{minecraft:stone} at location
+[24May2025 20:10:33.027] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-7708, y=17, z=7437}
+[24May2025 20:10:42.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 20:11:39.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 20:12:01.370] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 20:12:01.370] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 20:12:02.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [The End?]
+[24May2025 20:12:03.396] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Scanning for legacy world dragon fight...
+[24May2025 20:12:03.409] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Found that the dragon has not yet been killed in this world.
+[24May2025 20:13:21.315] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Brick Wall'/12514, l='ServerLevel[world]', x=-7773.64, y=31.35, z=8386.27]
+[24May2025 20:13:21.315] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Brick Wall'/12514, l='ServerLevel[world]', x=-7773.64, y=31.35, z=8386.27]
+[24May2025 20:13:21.315] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite'/12516, l='ServerLevel[world]', x=-7774.52, y=30.25, z=8388.44]
+[24May2025 20:13:21.316] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite'/12516, l='ServerLevel[world]', x=-7774.52, y=30.25, z=8388.44]
+[24May2025 20:13:21.316] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Mossy Stone Bricks'/12517, l='ServerLevel[world]', x=-7775.37, y=30.69, z=8387.45]
+[24May2025 20:13:21.316] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Mossy Stone Bricks'/12517, l='ServerLevel[world]', x=-7775.37, y=30.69, z=8387.45]
+[24May2025 20:13:21.316] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Trapped Chest'/12518, l='ServerLevel[world]', x=-7774.45, y=31.68, z=8388.53]
+[24May2025 20:13:21.317] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Trapped Chest'/12518, l='ServerLevel[world]', x=-7774.45, y=31.68, z=8388.53]
+[24May2025 20:13:21.317] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite Stairs'/12519, l='ServerLevel[world]', x=-7773.46, y=30.46, z=8387.59]
+[24May2025 20:13:21.317] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite Stairs'/12519, l='ServerLevel[world]', x=-7773.46, y=30.46, z=8387.59]

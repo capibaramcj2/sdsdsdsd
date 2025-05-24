@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-24 20:02:25 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:34:40 +0000"
@@ -422,6 +428,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/flanged_mace_silver": {
     "criteria": {
       "has_silver_ingot": "2025-05-23 23:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-24 20:07:11 +0000"
     },
     "done": true
   },
@@ -524,6 +536,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-23 23:09:44 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-05-24 20:07:11 +0000"
     },
     "done": true
   },
@@ -680,6 +698,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/katana_netherite_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-24 20:07:11 +0000"
     },
     "done": true
   },
@@ -1915,6 +1939,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_netherite_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-24 20:07:11 +0000"
     },
     "done": true
   },
@@ -3245,6 +3275,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
     "criteria": {
       "has_stick": "2025-05-23 22:29:54 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-24 20:02:25 +0000"
     },
     "done": true
   },

@@ -2311,6 +2311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-24 20:02:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
@@ -2679,6 +2685,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_spider_dungeon": "2025-05-24 20:05:42 +0000",
       "in_better_skeleton_dungeon": "2025-05-24 00:53:32 +0000"
     },
     "done": false
@@ -3082,6 +3089,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-05-24 20:01:13 +0000"
     },
     "done": true
   },
@@ -3496,8 +3509,10 @@
       "minecraft:giant_tree_taiga": "2025-05-23 23:40:05 +0000",
       "minecraft:taiga_hills": "2025-05-24 16:32:30 +0000",
       "minecraft:desert": "2025-05-24 18:04:01 +0000",
+      "minecraft:birch_forest": "2025-05-24 20:00:32 +0000",
       "minecraft:beach": "2025-05-24 18:00:32 +0000",
       "minecraft:river": "2025-05-23 22:17:13 +0000",
+      "minecraft:birch_forest_hills": "2025-05-24 20:00:44 +0000",
       "minecraft:wooded_mountains": "2025-05-23 23:22:05 +0000",
       "minecraft:wooded_hills": "2025-05-23 22:20:06 +0000",
       "minecraft:giant_tree_taiga_hills": "2025-05-24 16:33:06 +0000",
@@ -4302,6 +4317,18 @@
   "vampirism:recipes/vampirism/vampire/vampire_clothing_legs": {
     "criteria": {
       "has_heart": "2025-05-23 23:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-24 20:02:09 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-24 20:05:42 +0000"
     },
     "done": true
   },
