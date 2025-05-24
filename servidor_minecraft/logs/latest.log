@@ -575,3 +575,105 @@ java.lang.NullPointerException: null
 [24May2025 17:52:09.513] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
 [24May2025 17:52:09.514] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
 [24May2025 17:52:44.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to capibaramcj]
+[24May2025 17:53:55.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Penteconter]
+[24May2025 17:55:36.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 didn't want to live in the same world as Zombie
+[24May2025 17:55:36.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Killed 100 entities]
+[24May2025 17:55:36.898] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 17:55:59.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to leonardo412351]
+[24May2025 17:56:09.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Amateur Archaeologist]
+[24May2025 17:57:23.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Magic Writing]
+[24May2025 17:57:28.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set the time to 13000]
+[24May2025 17:59:00.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [...And My Axe!]
+[24May2025 17:59:13.175] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/75228, l='ServerLevel[world]', x=669.50, y=132.50, z=-571.58] died, message: 'Farmer was slain by capibaramcj'
+[24May2025 17:59:13.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Neighborhood Brawl]
+[24May2025 17:59:23.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [The Most Useful Key]
+[24May2025 17:59:33.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has reached the goal [A Fast Comeback]
+[24May2025 17:59:56.944] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 moved too quickly! -6.241927977574619,-3.3750001341103513,-7.287340590917324
+[24May2025 18:00:23.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Not the Olympic Type]
+[24May2025 18:00:41.679] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Mason'/75011, l='ServerLevel[world]', x=611.48, y=132.00, z=-558.40] died, message: 'Mason was slain by capibaramcj'
+[24May2025 18:00:49.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [The Bender of the 15th Century]
+[24May2025 18:00:58.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Mine? Mine? Mine?]
+[24May2025 18:01:17.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [The Fourth Horseman]
+[24May2025 18:01:29.602] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/75215, l='ServerLevel[world]', x=603.00, y=129.00, z=-532.34] died, message: 'Toolsmith was slain by capibaramcj'
+[24May2025 18:01:57.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [A Terrible Fortress]
+[24May2025 18:01:59.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Nightmare Fuel]
+[24May2025 18:02:09.122] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
+[24May2025 18:02:09.132] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 18:02:10.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of Piglin
+[24May2025 18:02:10.358] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 18:02:42.902] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1041, y=31, z=-524} but found not block entity block Block{minecraft:cave_air} at location
+[24May2025 18:02:42.902] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1041, y=31, z=-524}
+[24May2025 18:02:42.903] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1040, y=34, z=-548} but found not block entity block Block{minecraft:stone} at location
+[24May2025 18:02:42.903] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1040, y=34, z=-548}
+[24May2025 18:03:39.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Into Fire]
+[24May2025 18:03:52.841] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1010, y=30, z=-204} but found not block entity block Block{minecraft:stone} at location
+[24May2025 18:03:52.842] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1010, y=30, z=-204}
+[24May2025 18:03:52.842] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=997, y=26, z=-200} but found not block entity block Block{minecraft:stone} at location
+[24May2025 18:03:52.843] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=997, y=26, z=-200}
+[24May2025 18:04:58.396] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Prime9977 moved too quickly! 9.617658359052143,0.0,-3.052934886964465
+[24May2025 18:04:58.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2599ms or 51 ticks behind
+[24May2025 18:06:47.083] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for TranslatableComponent{key='entity.dungeons_mobs.necromancer', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[24May2025 18:11:34.687] [Server thread/WARN] [de.teamlapen.vampirism.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 78796
+[24May2025 18:12:25.917] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 18:12:25.941] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 18:12:27.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj died because of Ferrous Wroughtnaut
+[24May2025 18:12:27.249] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 18:12:28.462] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:12:28.462] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:13:17.217] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 18:13:17.236] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 18:13:18.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj died because of Ferrous Wroughtnaut
+[24May2025 18:13:18.383] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 18:13:19.657] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:13:19.657] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:13:30.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to 1200.5, 23.5, -371.5]
+[24May2025 18:13:47.271] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 18:13:47.292] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 18:13:53.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj died because of Ferrous Wroughtnaut
+[24May2025 18:13:53.923] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 18:13:55.469] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:13:55.470] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:14:15.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
+[24May2025 18:15:24.758] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 18:15:24.775] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 18:15:25.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj died because of Ferrous Wroughtnaut
+[24May2025 18:15:25.929] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 18:15:27.156] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:15:27.156] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:15:27.367] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
+[24May2025 18:15:27.387] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 18:15:28.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of Ferrous Wroughtnaut
+[24May2025 18:15:28.593] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 18:15:36.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
+[24May2025 18:17:00.707] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
+[24May2025 18:17:00.725] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 18:17:01.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of Ferrous Wroughtnaut
+[24May2025 18:17:01.931] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 18:17:04.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
+[24May2025 18:17:45.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has completed the challenge [Subspace Bubble]
+[24May2025 18:17:45.914] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-7299, y=17, z=8508}
+[24May2025 18:17:45.915] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-7298, y=17, z=8507}
+[24May2025 18:17:45.915] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-7298, y=18, z=8508}
+[24May2025 18:17:55.588] [Worker-Main-14/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24May2025 18:17:55.590] [Worker-Main-14/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24May2025 18:17:59.996] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-7151, y=30, z=8489} but found not block entity block Block{minecraft:stone} at location
+[24May2025 18:17:59.997] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-7151, y=30, z=8489}
+[24May2025 18:17:59.997] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-7145, y=37, z=8488} but found not block entity block Block{minecraft:granite} at location
+[24May2025 18:17:59.997] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=-7145, y=37, z=8488}
+[24May2025 18:18:00.079] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-7151, y=33, z=8498} but found not block entity block Block{minecraft:cave_air} at location
+[24May2025 18:18:00.079] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-7151, y=33, z=8498}
+[24May2025 18:18:11.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has completed the challenge [The Bigger They Are...]
+[24May2025 18:19:30.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has completed the challenge [Centennial]
+[24May2025 18:20:21.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Crops of the Wild]
+[24May2025 18:23:10.779] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 18:23:10.782] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 18:23:13.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj died because of Skeleton
+[24May2025 18:23:13.385] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 18:23:14.742] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:23:14.742] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:23:50.919] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 18:23:50.935] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 18:23:52.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj died because of Wither Skeleton
+[24May2025 18:23:52.139] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 18:23:53.751] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:23:53.751] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!

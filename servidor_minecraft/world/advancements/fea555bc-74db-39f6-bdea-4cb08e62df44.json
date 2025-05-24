@@ -906,8 +906,10 @@
       "minecraft:creeper": "2025-05-24 17:41:42 +0000",
       "minecraft:witch": "2025-05-23 22:43:25 +0000",
       "minecraft:wither_skeleton": "2025-05-24 17:26:23 +0000",
+      "minecraft:cave_spider": "2025-05-24 18:11:35 +0000",
       "minecraft:piglin": "2025-05-24 01:15:31 +0000",
       "minecraft:stray": "2025-05-24 17:03:48 +0000",
+      "minecraft:silverfish": "2025-05-24 18:11:29 +0000",
       "minecraft:zombie": "2025-05-23 22:23:02 +0000"
     },
     "done": false
@@ -1149,6 +1151,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:21:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 17:59:13 +0000"
     },
     "done": true
   },
@@ -1494,6 +1502,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/quiver_bolt_small": {
+    "criteria": {
+      "has_bolt": "2025-05-24 18:00:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-05-24 01:02:04 +0000"
@@ -1746,6 +1760,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-24 18:00:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:halberd": {
     "criteria": {
       "has_halberd": "2025-05-24 14:14:39 +0000"
@@ -1805,8 +1825,11 @@
       "minecraft:forest": "2025-05-23 22:16:36 +0000",
       "minecraft:mountains": "2025-05-23 23:19:02 +0000",
       "minecraft:taiga": "2025-05-23 23:37:40 +0000",
+      "minecraft:desert_hills": "2025-05-24 18:04:03 +0000",
       "minecraft:giant_tree_taiga": "2025-05-23 23:40:05 +0000",
       "minecraft:taiga_hills": "2025-05-24 16:32:30 +0000",
+      "minecraft:desert": "2025-05-24 18:04:01 +0000",
+      "minecraft:beach": "2025-05-24 18:00:32 +0000",
       "minecraft:river": "2025-05-23 22:17:13 +0000",
       "minecraft:wooded_mountains": "2025-05-23 23:22:05 +0000",
       "minecraft:wooded_hills": "2025-05-23 22:20:06 +0000",
@@ -2044,6 +2067,12 @@
     },
     "done": true
   },
+  "spartanweaponry:heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-05-24 18:00:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2025-05-24 16:06:24 +0000"
@@ -2098,6 +2127,12 @@
   "botania:recipes/botania/petal_pink": {
     "criteria": {
       "has_item": "2025-05-24 16:50:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-05-24 18:19:30 +0000"
     },
     "done": true
   },
@@ -3488,6 +3523,12 @@
     },
     "done": true
   },
+  "spartanweaponry:javelin": {
+    "criteria": {
+      "has_javelin": "2025-05-24 18:00:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-05-23 22:19:21 +0000"
@@ -3770,6 +3811,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
+    "criteria": {
+      "has_bow": "2025-05-24 18:00:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/quiver_arrow_small": {
     "criteria": {
       "has_arrow": "2025-05-23 22:42:09 +0000"
@@ -4022,6 +4069,12 @@
     },
     "done": true
   },
+  "spartanweaponry:lance": {
+    "criteria": {
+      "has_lance": "2025-05-24 18:01:17 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/altar_tip": {
     "criteria": {
       "has_iron": "2025-05-23 22:26:24 +0000"
@@ -4235,6 +4288,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt_diamond": {
+    "criteria": {
+      "has_bow": "2025-05-24 18:00:49 +0000"
     },
     "done": true
   },
@@ -4481,6 +4540,12 @@
   "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/sky": {
     "criteria": {
       "has_item": "2025-05-24 17:01:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-05-24 17:59:00 +0000"
     },
     "done": true
   },

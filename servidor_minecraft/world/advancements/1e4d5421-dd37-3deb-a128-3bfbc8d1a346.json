@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/javelin_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:23:26 +0000"
@@ -158,6 +164,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-05-23 23:09:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/hammer_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -311,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 22:36:37 +0000"
@@ -320,6 +338,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-05-24 16:28:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -461,6 +485,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/halberd_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-05-23 22:19:11 +0000"
@@ -539,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-24 18:18:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/dagger_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:34:40 +0000"
@@ -608,6 +650,18 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:51:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/katana_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -701,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-24 17:57:01 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-05-24 17:43:25 +0000",
@@ -765,6 +825,12 @@
       "minecraft:zombie": "2025-05-23 22:40:00 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -850,6 +916,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/scythe_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/lance_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:23:26 +0000"
@@ -898,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-24 16:46:53 +0000"
@@ -937,6 +1015,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:51:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "interact": "2025-05-24 18:01:59 +0000"
     },
     "done": true
   },
@@ -982,6 +1066,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/spear_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:51:47 +0000"
@@ -1024,6 +1114,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/rapier_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 22:36:37 +0000"
@@ -1060,6 +1156,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:34:40 +0000"
@@ -1069,6 +1171,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-24 16:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -1147,6 +1255,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/lance_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 22:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -1276,6 +1390,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 17:59:33 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-05-23 22:14:53 +0000"
@@ -1366,6 +1486,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-05-24 18:18:11 +0000"
+    },
+    "done": true
+  },
   "vampirism:hunter/betrayal": {
     "criteria": {
       "kill": "2025-05-24 16:40:19 +0000"
@@ -1432,6 +1558,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-23 22:34:40 +0000"
@@ -1471,6 +1603,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-05-23 22:34:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/lance_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -1559,6 +1697,7 @@
       "minecraft:mountains": "2025-05-23 22:31:02 +0000",
       "minecraft:taiga": "2025-05-23 22:18:13 +0000",
       "minecraft:giant_tree_taiga": "2025-05-24 16:39:01 +0000",
+      "minecraft:desert": "2025-05-24 18:14:16 +0000",
       "minecraft:beach": "2025-05-23 22:22:29 +0000",
       "minecraft:river": "2025-05-23 22:16:54 +0000",
       "minecraft:wooded_mountains": "2025-05-23 22:39:02 +0000",
@@ -1625,6 +1764,12 @@
   "vampirism:recipes/food/general/garlic_bread": {
     "criteria": {
       "has_bread": "2025-05-23 22:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-24 18:18:42 +0000"
     },
     "done": true
   },
@@ -1724,9 +1869,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2025-05-24 16:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -1754,6 +1911,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-24 17:53:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-05-23 22:42:01 +0000"
@@ -1770,7 +1933,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-24 17:13:34 +0000",
       "minecraft:nether_wastes": "2025-05-24 16:47:34 +0000",
-      "minecraft:soul_sand_valley": "2025-05-24 17:06:42 +0000"
+      "minecraft:soul_sand_valley": "2025-05-24 17:06:42 +0000",
+      "minecraft:basalt_deltas": "2025-05-24 17:56:31 +0000"
     },
     "done": false
   },
@@ -1897,6 +2061,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:51:47 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/netherite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -2086,6 +2256,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/saber_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-05-23 22:17:10 +0000"
@@ -2161,6 +2337,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-05-24 17:18:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -2242,6 +2424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:23:26 +0000"
@@ -2257,6 +2445,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 22:36:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/longbow_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -2305,6 +2499,12 @@
   "vampirism:recipes/vampirism/vampire/altar_pillar": {
     "criteria": {
       "has_stones": "2025-05-23 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-24 18:18:42 +0000"
     },
     "done": true
   },
@@ -2398,6 +2598,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/glaive_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-23 22:34:40 +0000"
@@ -2407,6 +2613,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_diamond": {
     "criteria": {
       "has_diamond": "2025-05-23 22:41:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/boomerang_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -2470,6 +2682,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-24 17:57:23 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/grave_cage": {
     "criteria": {
       "has_iron": "2025-05-23 22:23:26 +0000"
@@ -2521,6 +2739,12 @@
   "vampirism:recipes/vampirism/cursed_spruce_boat": {
     "criteria": {
       "in_water": "2025-05-23 22:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-24 18:18:42 +0000"
     },
     "done": true
   },
@@ -2632,6 +2856,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/quiver_upgrade_kit_huge": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-24 17:33:33 +0000"
@@ -2677,6 +2907,12 @@
   "botania:recipes/botania/lexicon": {
     "criteria": {
       "has_item": "2025-05-23 22:17:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-24 17:59:23 +0000"
     },
     "done": true
   },
@@ -2734,6 +2970,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-05-24 18:04:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-24 16:47:33 +0000"
@@ -2749,6 +2991,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pike_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:34:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/greatsword_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -2839,6 +3087,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-05-24 17:34:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/longsword_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -2968,6 +3222,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-05-23 22:29:54 +0000"
@@ -2983,6 +3243,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-05-24 16:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-24 18:18:42 +0000"
     },
     "done": true
   },
@@ -3094,6 +3360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-24 16:21:23 +0000"
@@ -3121,6 +3393,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-24 17:05:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/warhammer_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -3226,6 +3504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/leather_from_obi_belt": {
     "criteria": {
       "has_obi_belt": "2025-05-24 17:30:10 +0000"
@@ -3316,6 +3600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-24 17:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-23 22:16:23 +0000"
@@ -3349,6 +3639,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-23 22:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -3478,6 +3774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-24 18:18:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:23:26 +0000"
@@ -3487,6 +3789,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/longbow_silver": {
     "criteria": {
       "has_silver_ingot": "2025-05-23 23:25:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pike_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -3676,6 +3984,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-05-24 16:54:18 +0000"
@@ -3697,6 +4011,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-05-24 16:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
@@ -3733,6 +4053,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-23 22:41:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/dagger_netherite_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
     },
     "done": true
   },
