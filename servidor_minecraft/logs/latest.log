@@ -1,59 +1,58 @@
-[24May2025 01:29:48.891] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[24May2025 01:29:48.894] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.27 by Ubuntu
-[24May2025 01:29:49.259] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[24May2025 01:29:49.321] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/sdsdsdsd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[24May2025 01:29:49.972] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24May2025 01:29:50.070] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24May2025 01:29:50.077] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24May2025 01:29:50.083] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24May2025 01:29:50.094] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24May2025 01:29:51.864] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
-[24May2025 01:29:51.867] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
-[24May2025 01:29:51.869] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
-[24May2025 01:29:51.878] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[24May2025 01:29:51.936] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 90 options available, 0 override(s) found
-[24May2025 01:29:51.944] [main/WARN] [mixin/]: Reference map 'cataclysm.refmap.json' for cataclysm.mixins.json could not be read. If this is a development environment you can ignore this message
-[24May2025 01:30:00.653] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[24May2025 01:30:00.659] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[24May2025 01:30:00.659] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[24May2025 01:30:00.659] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[24May2025 01:30:01.847] [modloading-worker-3/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
-[24May2025 01:30:02.381] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[24May2025 01:30:02.381] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[24May2025 01:30:02.905] [modloading-worker-3/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
-[24May2025 01:30:02.999] [modloading-worker-3/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagradditions.lib.ModCorePlugin
-[24May2025 01:30:03.807] [modloading-worker-1/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[24May2025 01:30:04.117] [modloading-worker-2/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[24May2025 01:30:04.120] [modloading-worker-2/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
-[24May2025 01:30:04.617] [modloading-worker-2/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
-[24May2025 01:30:05.082] [modloading-worker-1/INFO] [expandability/]: ExpandAbility here, who dis?
-[24May2025 01:30:06.041] [main/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Starting creation of registry for Mob Enchantments
-[24May2025 01:30:20.953] [main/INFO] [Spartan Shields/]: Registering Items
-[24May2025 01:30:20.953] [main/INFO] [Spartan Shields/]: Registered Items successfully!
-[24May2025 01:30:21.076] [main/INFO] [patchouli/]: Loaded book jsons on Thread[main,5,main] in 122 ms
-[24May2025 01:30:21.100] [main/INFO] [Spartan Weaponry/]: Registering items...
-[24May2025 01:30:21.105] [main/INFO] [Spartan Weaponry/]: Items Registered!
-[24May2025 01:30:21.530] [main/INFO] [Spartan Shields/]: Registering Enchantments
-[24May2025 01:30:21.536] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
-[24May2025 01:30:21.940] [main/INFO] [Spartan Weaponry/]: Registering Entities
-[24May2025 01:30:22.077] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[24May2025 01:30:22.078] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[24May2025 01:30:22.154] [main/WARN] [de.teamlapen.vampirism.effects.VampirismNightVisionPotion/]: -------Please ignore the following error!------
-[24May2025 01:30:22.154] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `night_vision`, expected `vampirism`. This could be a intended override, but in most cases indicates a broken mod.
-[24May2025 01:30:22.155] [main/WARN] [de.teamlapen.vampirism.effects.VampirismNightVisionPotion/]: -----------------------------------------------
-[24May2025 01:30:23.649] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[24May2025 01:30:23.673] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[24May2025 01:30:23.678] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[24May2025 01:30:23.735] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:goblin_trader, use EntityAttributeCreationEvent instead.
-[24May2025 01:30:23.735] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:vein_goblin_trader, use EntityAttributeCreationEvent instead.
-[24May2025 01:30:23.844] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[24May2025 01:30:23.866] [modloading-worker-0/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
-[24May2025 01:30:23.867] [modloading-worker-0/INFO] [Dungeon Crawl/]: minecraft:overworld
-[24May2025 01:30:23.984] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[24May2025 01:30:24.092] [modloading-worker-1/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[24May2025 01:30:24.246] [modloading-worker-1/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[24May2025 01:30:24.506] [modloading-worker-0/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[24May2025 01:30:24.506] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[24May2025 13:20:55.007] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[24May2025 13:20:55.010] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.27 by Ubuntu
+[24May2025 13:20:57.261] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[24May2025 13:20:57.725] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/sdsdsdsd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[24May2025 13:20:59.021] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[24May2025 13:20:59.119] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[24May2025 13:20:59.127] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[24May2025 13:20:59.132] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[24May2025 13:20:59.138] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[24May2025 13:21:01.197] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[24May2025 13:21:01.201] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[24May2025 13:21:01.203] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[24May2025 13:21:01.229] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[24May2025 13:21:01.301] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 90 options available, 0 override(s) found
+[24May2025 13:21:01.311] [main/WARN] [mixin/]: Reference map 'cataclysm.refmap.json' for cataclysm.mixins.json could not be read. If this is a development environment you can ignore this message
+[24May2025 13:21:13.916] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[24May2025 13:21:13.920] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[24May2025 13:21:13.920] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[24May2025 13:21:13.921] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[24May2025 13:21:15.198] [modloading-worker-3/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[24May2025 13:21:15.897] [modloading-worker-3/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[24May2025 13:21:15.898] [modloading-worker-3/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[24May2025 13:21:16.281] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[24May2025 13:21:16.352] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagradditions.lib.ModCorePlugin
+[24May2025 13:21:17.294] [modloading-worker-2/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[24May2025 13:21:17.886] [modloading-worker-2/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[24May2025 13:21:17.886] [modloading-worker-2/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
+[24May2025 13:21:18.392] [modloading-worker-2/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
+[24May2025 13:21:18.972] [modloading-worker-0/INFO] [expandability/]: ExpandAbility here, who dis?
+[24May2025 13:21:20.164] [main/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Starting creation of registry for Mob Enchantments
+[24May2025 13:21:41.529] [main/INFO] [Spartan Shields/]: Registering Items
+[24May2025 13:21:41.530] [main/INFO] [Spartan Shields/]: Registered Items successfully!
+[24May2025 13:21:41.625] [main/INFO] [patchouli/]: Loaded book jsons on Thread[main,5,main] in 88 ms
+[24May2025 13:21:41.656] [main/INFO] [Spartan Weaponry/]: Registering items...
+[24May2025 13:21:41.659] [main/INFO] [Spartan Weaponry/]: Items Registered!
+[24May2025 13:21:42.041] [main/INFO] [Spartan Shields/]: Registering Enchantments
+[24May2025 13:21:42.043] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
+[24May2025 13:21:42.739] [main/INFO] [Spartan Weaponry/]: Registering Entities
+[24May2025 13:21:42.976] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[24May2025 13:21:42.977] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[24May2025 13:21:43.239] [main/WARN] [de.teamlapen.vampirism.effects.VampirismNightVisionPotion/]: -------Please ignore the following error!------
+[24May2025 13:21:43.241] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `night_vision`, expected `vampirism`. This could be a intended override, but in most cases indicates a broken mod.
+[24May2025 13:21:43.241] [main/WARN] [de.teamlapen.vampirism.effects.VampirismNightVisionPotion/]: -----------------------------------------------
+[24May2025 13:21:45.198] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[24May2025 13:21:45.205] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[24May2025 13:21:45.213] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[24May2025 13:21:45.319] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:goblin_trader, use EntityAttributeCreationEvent instead.
+[24May2025 13:21:45.322] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:vein_goblin_trader, use EntityAttributeCreationEvent instead.
+[24May2025 13:21:45.409] [modloading-worker-2/INFO] [Dungeon Crawl/]: Common Setup
+[24May2025 13:21:45.419] [modloading-worker-2/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
+[24May2025 13:21:45.422] [modloading-worker-2/INFO] [Dungeon Crawl/]: minecraft:overworld
+[24May2025 13:21:45.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[24May2025 13:21:45.802] [modloading-worker-2/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[24May2025 13:21:45.889] [modloading-worker-1/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[24May2025 13:21:46.173] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=goblintraders
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
@@ -77,162 +76,225 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334) ~[?:?]
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:145) ~[forge:?]
 	... 3 more
-[24May2025 01:30:24.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
-[24May2025 01:30:24.519] [Thread-1/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Starting version check at https://maxanier.de/projects/vampirism/versions.json
-[24May2025 01:30:24.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: UP_TO_DATE Current: 1.2.6 Target: null
-[24May2025 01:30:24.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24May2025 01:30:24.699] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[24May2025 01:30:24.700] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[24May2025 01:30:24.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 6.9.6 Target: null
-[24May2025 01:30:24.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://maxanier.de/projects/vampirism/versions.json
-[24May2025 01:30:24.760] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[24May2025 01:30:24.810] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for guardvillagers:guard, use EntityAttributeCreationEvent instead.
-[24May2025 01:30:24.811] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:creeper_minion, use EntityAttributeCreationEvent instead.
-[24May2025 01:30:24.811] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:endersoul_clone, use EntityAttributeCreationEvent instead.
-[24May2025 01:30:24.812] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_creeper, use EntityAttributeCreationEvent instead.
-[24May2025 01:30:24.813] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_enderman, use EntityAttributeCreationEvent instead.
-[24May2025 01:30:24.813] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_skeleton, use EntityAttributeCreationEvent instead.
-[24May2025 01:30:24.814] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_snow_golem, use EntityAttributeCreationEvent instead.
-[24May2025 01:30:24.814] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_zombie, use EntityAttributeCreationEvent instead.
-[24May2025 01:30:24.815] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:spider_pig, use EntityAttributeCreationEvent instead.
-[24May2025 01:30:25.171] [main/INFO] [de.teamlapen.vampirism.core.ModFeatures/]: Replacing vanilla village structure separation settings for the overworld dimension preset
-[24May2025 01:30:25.179] [modloading-worker-1/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[24May2025 01:30:25.179] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[24May2025 01:30:25.181] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[24May2025 01:30:25.182] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[24May2025 01:30:25.253] [modloading-worker-0/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[24May2025 01:30:25.280] [modloading-worker-2/INFO] [Waila/]: Registered plugin at net.blay09.mods.waystones.compat.WailaProvider
-[24May2025 01:30:25.295] [modloading-worker-2/INFO] [Waila/]: Registered plugin at com.blakebr0.mysticalagriculture.compat.HwylaCompat
-[24May2025 01:30:25.410] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[24May2025 13:21:46.186] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[24May2025 13:21:46.221] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: UP_TO_DATE Current: 1.2.6 Target: null
+[24May2025 13:21:46.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24May2025 13:21:46.248] [modloading-worker-3/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[24May2025 13:21:46.253] [Thread-1/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Starting version check at https://maxanier.de/projects/vampirism/versions.json
+[24May2025 13:21:46.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[24May2025 13:21:46.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[24May2025 13:21:46.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 6.9.6 Target: null
+[24May2025 13:21:46.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://maxanier.de/projects/vampirism/versions.json
+[24May2025 13:21:46.514] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[24May2025 13:21:46.624] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for guardvillagers:guard, use EntityAttributeCreationEvent instead.
+[24May2025 13:21:46.627] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:creeper_minion, use EntityAttributeCreationEvent instead.
+[24May2025 13:21:46.627] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:endersoul_clone, use EntityAttributeCreationEvent instead.
+[24May2025 13:21:46.627] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_creeper, use EntityAttributeCreationEvent instead.
+[24May2025 13:21:46.628] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_enderman, use EntityAttributeCreationEvent instead.
+[24May2025 13:21:46.628] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_skeleton, use EntityAttributeCreationEvent instead.
+[24May2025 13:21:46.628] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_snow_golem, use EntityAttributeCreationEvent instead.
+[24May2025 13:21:46.629] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_zombie, use EntityAttributeCreationEvent instead.
+[24May2025 13:21:46.632] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:spider_pig, use EntityAttributeCreationEvent instead.
+[24May2025 13:21:47.183] [main/INFO] [de.teamlapen.vampirism.core.ModFeatures/]: Replacing vanilla village structure separation settings for the overworld dimension preset
+[24May2025 13:21:47.184] [modloading-worker-1/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[24May2025 13:21:47.187] [modloading-worker-3/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[24May2025 13:21:47.199] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[24May2025 13:21:47.199] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[24May2025 13:21:47.237] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[24May2025 01:30:25.422] [modloading-worker-2/INFO] [Waila/]: Registered plugin at snownee.jade.JadePlugin
-[24May2025 01:30:25.423] [modloading-worker-2/INFO] [Waila/]: Registered plugin at snownee.jade.JadeClientPlugin
-[24May2025 01:30:25.431] [modloading-worker-2/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[24May2025 01:30:25.434] [modloading-worker-2/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[24May2025 01:30:25.440] [main/INFO] [de.teamlapen.vampirism.core.ModFeatures/]: Replacing vanilla village structure separation settings for the overworld dimension preset
-[24May2025 01:30:32.434] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24May2025 01:30:33.671] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[24May2025 01:30:33.673] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24May2025 01:30:33.678] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24May2025 01:30:33.679] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[24May2025 01:30:33.681] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24May2025 01:30:33.716] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, SkyVillage_1.0.0_1.16.5.jar, mowziesmobs-1.5.27.jar, BetterDungeons-1.16.4-1.2.1.jar, Cucumber-1.16.5-4.1.12.jar, Philips ruins 1.16.5-2.8.jar, jei-1.16.5-7.8.0.1009.jar, dungeons_mobs-1.16.5-2.2.3.jar, goblintraders-1.7.3-1.16.5.jar, stalwart-dungeons-1.16.5-1.1.7.jar, Waystones_1.16.5-7.6.4.jar, XaerosWorldMap_1.39.4_Forge_1.16.5.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, NaturesCompass-1.16.5-1.9.1-forge.jar, Artifacts-1.16.5-2.10.6.jar, YungsApi-1.16.4-Forge-13.jar, DungeonCrawl-1.16.5-2.3.12.jar, MutantBeasts-1.16.4-1.1.3.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, guardvillagers-1.16.5.1.2.6.jar, ExplorersCompass-1.16.5-1.1.2-forge.jar, travellersboots-1.16.x-1.4.3.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, CataclysmWeaponery1.0.2-1.16.5.jar, JustEnoughResources-1.16.5-0.12.1.128.jar, Paraglider-1.16.5-1.3.2.14.jar, forge-1.16.5-36.2.42-universal.jar, embeddium-0.3.18+mc1.16.5.jar, MysticalAgriculture-1.16.5-4.2.6.jar, MysticalAgradditions-1.16.5-4.2.4.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, TConstruct-1.16.5-3.3.4.335.jar, FarmersDelight-1.16.5-0.6.0.jar, BiomesOPlenty-1.16.5-13.1.0.477-universal.jar, Jade-1.16.4-2.8.3.jar, Botania-1.16.5-420.3.jar, L_Enders Cataclysm-0.48 Changed Theme -1.16.5.jar, curios-forge-1.16.5-4.1.0.0.jar, SpartanShields-1.16.5-2.1.2.jar, Patchouli-1.16.4-53.3.jar, Mantle-1.16.5-1.6.157.jar, Xaeros_Minimap_25.2.6_Forge_1.16.5.jar, elevatorid-1.16.5-1.7.13.jar, tombstone-1.16.5-6.9.6.jar, BetterStrongholds-1.16.4-1.2.1.jar, swiaf-1.16.5-1.1.2.jar, SpartanWeaponry-1.16.5-2.2.2.jar, appleskin-forge-mc1.16.x-2.5.1.jar, Vampirism-1.16.5-1.9.10.jar, VampiresNeedUmbrellas-1.16.5-1.1.5.jar, lootr-1.16.5-0.2.19.51.jar, Aquaculture-1.16.5-2.1.23.jar, expandability-2.0.1-forge.jar, BetterMineshafts-Forge-1.16.4-2.0.4.jar, geckolib-forge-1.16.5-3.0.106.jar, dungeons_libraries-1.16.5-1.0.6.jar
-[24May2025 01:30:37.473] [Worker-Main-4/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 0 items blood values
-[24May2025 01:30:37.473] [Worker-Main-5/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 0 entities blood values
-[24May2025 01:30:37.521] [Worker-Main-6/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 0 fluids blood values
-[24May2025 01:30:37.972] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/aluminum_ingot as it's serializer returned null
-[24May2025 01:30:38.000] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
-[24May2025 01:30:38.037] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/constantan_ingot as it's serializer returned null
-[24May2025 01:30:38.053] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/tungsten_ingot as it's serializer returned null
-[24May2025 01:30:38.115] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/mithril_ingot as it's serializer returned null
-[24May2025 01:30:38.136] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/tin_ingot as it's serializer returned null
-[24May2025 01:30:38.143] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
-[24May2025 01:30:38.157] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/iridium_ingot as it's serializer returned null
-[24May2025 01:30:38.160] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/zinc_ingot as it's serializer returned null
-[24May2025 01:30:38.203] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/bronze_ingot as it's serializer returned null
-[24May2025 01:30:38.212] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/invar_ingot as it's serializer returned null
-[24May2025 01:30:38.218] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/gems/ruby as it's serializer returned null
-[24May2025 01:30:38.241] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/niter as it's serializer returned null
-[24May2025 01:30:38.262] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/chrome_ingot as it's serializer returned null
-[24May2025 01:30:38.367] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/electrum_ingot as it's serializer returned null
-[24May2025 01:30:38.373] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/silicon as it's serializer returned null
-[24May2025 01:30:38.415] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/gems/apatite as it's serializer returned null
-[24May2025 01:30:38.431] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/brass_ingot as it's serializer returned null
-[24May2025 01:30:38.472] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/saltpeter as it's serializer returned null
-[24May2025 01:30:38.480] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/steel_ingot as it's serializer returned null
-[24May2025 01:30:38.619] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/titanium_ingot as it's serializer returned null
-[24May2025 01:30:38.685] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/rubber as it's serializer returned null
-[24May2025 01:30:38.707] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/platinum_ingot as it's serializer returned null
-[24May2025 01:30:38.716] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/sulfur as it's serializer returned null
-[24May2025 01:30:38.723] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/lead_ingot as it's serializer returned null
-[24May2025 01:30:38.728] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/graphite_ingot as it's serializer returned null
-[24May2025 01:30:38.731] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/uranium_ingot as it's serializer returned null
-[24May2025 01:30:38.742] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
-[24May2025 01:30:38.751] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/nickel_ingot as it's serializer returned null
-[24May2025 01:30:38.773] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 37 recipes
-[24May2025 01:30:40.106] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[24May2025 01:30:40.168] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[24May2025 01:30:40.565] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[24May2025 01:30:41.102] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[24May2025 01:30:41.426] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3569 advancements
-[24May2025 01:30:41.432] [Worker-Main-5/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Beginning loading of data for data loader: ancient/mob_ancient_data
-[24May2025 01:30:41.434] [Worker-Main-5/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Data loader for ancient/mob_ancient_data loaded 1 finalized objects
-[24May2025 01:30:41.435] [Worker-Main-5/INFO] [Dungeon Crawl/]: Loading data...
-[24May2025 01:30:42.254] [Worker-Main-5/INFO] [Dungeon Crawl/]: Done.
-[24May2025 01:30:42.311] [Worker-Main-5/INFO] [de.teamlapen.vampirism.player.skills.SkillTree/]: Loaded 53 skill nodes
-[24May2025 01:30:42.321] [Worker-Main-5/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 12 convertibles
-[24May2025 01:30:42.321] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: summon
-[24May2025 01:30:42.322] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for summon loaded 8 jsons
-[24May2025 01:30:42.323] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: material/weapon
-[24May2025 01:30:42.323] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for material/weapon loaded 0 jsons
-[24May2025 01:30:42.324] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: material/armor
-[24May2025 01:30:42.325] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for material/armor loaded 2 jsons
-[24May2025 01:30:42.328] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/melee
-[24May2025 01:30:42.328] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/melee loaded 0 jsons
-[24May2025 01:30:42.329] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/armor
-[24May2025 01:30:42.329] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/armor loaded 15 jsons
-[24May2025 01:30:42.329] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/bow
-[24May2025 01:30:42.329] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/bow loaded 0 jsons
-[24May2025 01:30:42.329] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/crossbow
-[24May2025 01:30:42.330] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/crossbow loaded 0 jsons
-[24May2025 01:30:42.334] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: elite_mob
-[24May2025 01:30:42.335] [Worker-Main-5/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for elite_mob loaded 6 finalized objects
-[24May2025 01:30:42.337] [Worker-Main-5/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 1 ms
-[24May2025 01:30:42.356] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 55 materials in 17.40554 ms
-[24May2025 01:30:42.401] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 146 stats loaded for 73 materials in 45.349075 ms
-[24May2025 01:30:42.485] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 62 traits loaded for 73 materials in 79.4761 ms
-[24May2025 01:30:42.516] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 15 station slot layouts in 22.738403 ms
-[24May2025 01:30:48.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[24May2025 01:30:48.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24May2025 01:30:48.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24May2025 01:30:48.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24May2025 01:30:48.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24May2025 01:30:48.498] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[24May2025 01:30:48.572] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24May2025 01:30:48.572] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24May2025 01:30:48.573] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24May2025 01:30:48.573] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24May2025 01:30:48.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24May2025 01:30:48.998] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.infamous.dungeons_mobs.entities.summonables.ConstructEntity from class com.infamous.dungeons_mobs.entities.redstone.RedstoneMineEntity
-[24May2025 01:30:49.034] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityVoidWorm from class com.github.alexthe666.alexsmobs.entity.EntityVoidPortal
-[24May2025 01:30:49.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24May2025 01:30:50.037] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24May2025 01:30:50.038] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24May2025 01:30:50.199] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
-[24May2025 01:30:50.462] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1293 ms
-[24May2025 01:30:50.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.876s)! For help, type "help"
-[24May2025 01:30:50.516] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
-[24May2025 01:30:50.520] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[24May2025 01:30:50.520] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[24May2025 01:31:20.211] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@20731010
-[24May2025 01:31:20.259] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:46447] logged in with entity id 765 at (211.66238089960615, 90.02442408821369, 699.6149556040493)
-[24May2025 01:31:20.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 01:31:20.390] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 01:32:46.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has reached the goal [Skyslime Island]
-[24May2025 01:38:15.690] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[24May2025 01:38:15.693] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[24May2025 01:42:53.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Pic-A-Nic Basket?]
-[24May2025 01:43:28.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Sky of Beginning]
-[24May2025 01:43:48.842] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1111, y=35, z=1017} but found not block entity block Block{minecraft:stone} at location
-[24May2025 01:43:48.842] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1111, y=35, z=1017}
-[24May2025 01:43:48.843] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1104, y=31, z=1014} but found not block entity block Block{minecraft:stone} at location
-[24May2025 01:43:48.843] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1104, y=31, z=1014}
-[24May2025 01:43:48.843] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1108, y=38, z=1007} but found not block entity block Block{minecraft:stone} at location
-[24May2025 01:43:48.844] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1108, y=38, z=1007}
-[24May2025 01:43:48.844] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1106, y=31, z=1007} but found not block entity block Block{minecraft:gravel} at location
-[24May2025 01:43:48.844] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:gravel} but failed at location BlockPos{x=1106, y=31, z=1007}
-[24May2025 01:44:39.539] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 moved wrongly!
-[24May2025 01:44:39.635] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=969, y=70, z=992} BlockPos{x=972, y=69, z=992}
-[24May2025 01:44:39.788] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=969, y=70, z=992} BlockPos{x=970, y=72, z=992}
-[24May2025 01:44:39.838] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=969, y=70, z=992} BlockPos{x=970, y=70, z=992}
-[24May2025 01:45:22.604] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1203, y=29, z=1185} but found not block entity block Block{minecraft:stone} at location
-[24May2025 01:45:22.604] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1203, y=29, z=1185}
-[24May2025 01:46:19.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Barrel Booty]
-[24May2025 01:50:51.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Who You Gonna Call?]
-[24May2025 01:51:14.241] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1101, y=64, z=900} BlockPos{x=1100, y=62, z=900}
-[24May2025 01:52:35.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [A Bigger Blade]
-[24May2025 02:09:50.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [What a Deal!]
+[24May2025 13:21:47.286] [modloading-worker-3/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[24May2025 13:21:47.316] [modloading-worker-2/INFO] [Waila/]: Registered plugin at net.blay09.mods.waystones.compat.WailaProvider
+[24May2025 13:21:47.328] [modloading-worker-2/INFO] [Waila/]: Registered plugin at com.blakebr0.mysticalagriculture.compat.HwylaCompat
+[24May2025 13:21:47.378] [modloading-worker-2/INFO] [Waila/]: Registered plugin at snownee.jade.JadePlugin
+[24May2025 13:21:47.379] [modloading-worker-2/INFO] [Waila/]: Registered plugin at snownee.jade.JadeClientPlugin
+[24May2025 13:21:47.400] [modloading-worker-2/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[24May2025 13:21:47.407] [modloading-worker-2/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[24May2025 13:21:47.422] [main/INFO] [de.teamlapen.vampirism.core.ModFeatures/]: Replacing vanilla village structure separation settings for the overworld dimension preset
+[24May2025 13:21:57.235] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24May2025 13:21:58.620] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[24May2025 13:21:58.626] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24May2025 13:21:58.627] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24May2025 13:21:58.632] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[24May2025 13:21:58.638] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24May2025 13:21:58.673] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, SkyVillage_1.0.0_1.16.5.jar, mowziesmobs-1.5.27.jar, BetterDungeons-1.16.4-1.2.1.jar, Cucumber-1.16.5-4.1.12.jar, Philips ruins 1.16.5-2.8.jar, jei-1.16.5-7.8.0.1009.jar, dungeons_mobs-1.16.5-2.2.3.jar, goblintraders-1.7.3-1.16.5.jar, stalwart-dungeons-1.16.5-1.1.7.jar, Waystones_1.16.5-7.6.4.jar, XaerosWorldMap_1.39.4_Forge_1.16.5.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, NaturesCompass-1.16.5-1.9.1-forge.jar, Artifacts-1.16.5-2.10.6.jar, YungsApi-1.16.4-Forge-13.jar, DungeonCrawl-1.16.5-2.3.12.jar, MutantBeasts-1.16.4-1.1.3.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, guardvillagers-1.16.5.1.2.6.jar, ExplorersCompass-1.16.5-1.1.2-forge.jar, travellersboots-1.16.x-1.4.3.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, CataclysmWeaponery1.0.2-1.16.5.jar, JustEnoughResources-1.16.5-0.12.1.128.jar, Paraglider-1.16.5-1.3.2.14.jar, forge-1.16.5-36.2.42-universal.jar, embeddium-0.3.18+mc1.16.5.jar, MysticalAgriculture-1.16.5-4.2.6.jar, MysticalAgradditions-1.16.5-4.2.4.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, TConstruct-1.16.5-3.3.4.335.jar, FarmersDelight-1.16.5-0.6.0.jar, BiomesOPlenty-1.16.5-13.1.0.477-universal.jar, Jade-1.16.4-2.8.3.jar, Botania-1.16.5-420.3.jar, L_Enders Cataclysm-0.48 Changed Theme -1.16.5.jar, curios-forge-1.16.5-4.1.0.0.jar, SpartanShields-1.16.5-2.1.2.jar, Patchouli-1.16.4-53.3.jar, Mantle-1.16.5-1.6.157.jar, Xaeros_Minimap_25.2.6_Forge_1.16.5.jar, elevatorid-1.16.5-1.7.13.jar, tombstone-1.16.5-6.9.6.jar, BetterStrongholds-1.16.4-1.2.1.jar, swiaf-1.16.5-1.1.2.jar, SpartanWeaponry-1.16.5-2.2.2.jar, appleskin-forge-mc1.16.x-2.5.1.jar, Vampirism-1.16.5-1.9.10.jar, VampiresNeedUmbrellas-1.16.5-1.1.5.jar, lootr-1.16.5-0.2.19.51.jar, Aquaculture-1.16.5-2.1.23.jar, expandability-2.0.1-forge.jar, BetterMineshafts-Forge-1.16.4-2.0.4.jar, geckolib-forge-1.16.5-3.0.106.jar, dungeons_libraries-1.16.5-1.0.6.jar
+[24May2025 13:22:03.846] [Worker-Main-5/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 0 entities blood values
+[24May2025 13:22:03.890] [Worker-Main-4/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 0 fluids blood values
+[24May2025 13:22:03.906] [Worker-Main-6/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 0 items blood values
+[24May2025 13:22:04.672] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/aluminum_ingot as it's serializer returned null
+[24May2025 13:22:04.711] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
+[24May2025 13:22:04.744] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/constantan_ingot as it's serializer returned null
+[24May2025 13:22:04.756] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/tungsten_ingot as it's serializer returned null
+[24May2025 13:22:04.797] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/mithril_ingot as it's serializer returned null
+[24May2025 13:22:04.821] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/tin_ingot as it's serializer returned null
+[24May2025 13:22:04.825] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
+[24May2025 13:22:04.852] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/iridium_ingot as it's serializer returned null
+[24May2025 13:22:04.853] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/zinc_ingot as it's serializer returned null
+[24May2025 13:22:04.922] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/bronze_ingot as it's serializer returned null
+[24May2025 13:22:04.935] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/invar_ingot as it's serializer returned null
+[24May2025 13:22:04.957] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/gems/ruby as it's serializer returned null
+[24May2025 13:22:05.000] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/niter as it's serializer returned null
+[24May2025 13:22:05.027] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/chrome_ingot as it's serializer returned null
+[24May2025 13:22:05.096] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/electrum_ingot as it's serializer returned null
+[24May2025 13:22:05.099] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/silicon as it's serializer returned null
+[24May2025 13:22:05.146] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/gems/apatite as it's serializer returned null
+[24May2025 13:22:05.168] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/brass_ingot as it's serializer returned null
+[24May2025 13:22:05.202] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/saltpeter as it's serializer returned null
+[24May2025 13:22:05.205] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/steel_ingot as it's serializer returned null
+[24May2025 13:22:05.221] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/titanium_ingot as it's serializer returned null
+[24May2025 13:22:05.365] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/rubber as it's serializer returned null
+[24May2025 13:22:05.420] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/platinum_ingot as it's serializer returned null
+[24May2025 13:22:05.438] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/sulfur as it's serializer returned null
+[24May2025 13:22:05.453] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/lead_ingot as it's serializer returned null
+[24May2025 13:22:05.461] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/graphite_ingot as it's serializer returned null
+[24May2025 13:22:05.470] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/uranium_ingot as it's serializer returned null
+[24May2025 13:22:05.480] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
+[24May2025 13:22:05.485] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/nickel_ingot as it's serializer returned null
+[24May2025 13:22:05.508] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 37 recipes
+[24May2025 13:22:07.146] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[24May2025 13:22:07.237] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[24May2025 13:22:07.946] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[24May2025 13:22:08.694] [Worker-Main-4/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[24May2025 13:22:09.075] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3569 advancements
+[24May2025 13:22:09.089] [Worker-Main-4/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Beginning loading of data for data loader: ancient/mob_ancient_data
+[24May2025 13:22:09.091] [Worker-Main-4/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Data loader for ancient/mob_ancient_data loaded 1 finalized objects
+[24May2025 13:22:09.092] [Worker-Main-4/INFO] [Dungeon Crawl/]: Loading data...
+[24May2025 13:22:10.477] [Worker-Main-4/INFO] [Dungeon Crawl/]: Done.
+[24May2025 13:22:10.608] [Worker-Main-4/INFO] [de.teamlapen.vampirism.player.skills.SkillTree/]: Loaded 53 skill nodes
+[24May2025 13:22:10.617] [Worker-Main-4/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 12 convertibles
+[24May2025 13:22:10.617] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: summon
+[24May2025 13:22:10.618] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for summon loaded 8 jsons
+[24May2025 13:22:10.619] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: material/weapon
+[24May2025 13:22:10.620] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for material/weapon loaded 0 jsons
+[24May2025 13:22:10.620] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: material/armor
+[24May2025 13:22:10.621] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for material/armor loaded 2 jsons
+[24May2025 13:22:10.621] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/melee
+[24May2025 13:22:10.621] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/melee loaded 0 jsons
+[24May2025 13:22:10.621] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/armor
+[24May2025 13:22:10.621] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/armor loaded 15 jsons
+[24May2025 13:22:10.622] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/bow
+[24May2025 13:22:10.622] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/bow loaded 0 jsons
+[24May2025 13:22:10.622] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/crossbow
+[24May2025 13:22:10.622] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/crossbow loaded 0 jsons
+[24May2025 13:22:10.628] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: elite_mob
+[24May2025 13:22:10.629] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for elite_mob loaded 6 finalized objects
+[24May2025 13:22:10.630] [Worker-Main-4/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 0 ms
+[24May2025 13:22:10.657] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 55 materials in 26.638325 ms
+[24May2025 13:22:10.742] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 146 stats loaded for 73 materials in 84.371704 ms
+[24May2025 13:22:10.843] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 62 traits loaded for 73 materials in 100.59063 ms
+[24May2025 13:22:10.878] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 15 station slot layouts in 26.713615 ms
+[24May2025 13:22:17.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[24May2025 13:22:17.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24May2025 13:22:17.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24May2025 13:22:17.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24May2025 13:22:17.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24May2025 13:22:17.550] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[24May2025 13:22:17.690] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24May2025 13:22:17.690] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24May2025 13:22:17.690] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24May2025 13:22:17.690] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24May2025 13:22:17.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24May2025 13:22:18.210] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.infamous.dungeons_mobs.entities.summonables.ConstructEntity from class com.infamous.dungeons_mobs.entities.redstone.RedstoneMineEntity
+[24May2025 13:22:18.267] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityVoidWorm from class com.github.alexthe666.alexsmobs.entity.EntityVoidPortal
+[24May2025 13:22:18.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24May2025 13:22:19.627] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24May2025 13:22:19.627] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24May2025 13:22:19.628] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24May2025 13:22:19.954] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 60%
+[24May2025 13:22:20.157] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1708 ms
+[24May2025 13:22:20.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.449s)! For help, type "help"
+[24May2025 13:22:20.429] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
+[24May2025 13:22:20.434] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[24May2025 13:22:20.434] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[24May2025 13:22:31.485] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3975d76e
+[24May2025 13:22:31.540] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:60319] logged in with entity id 770 at (352.38099085744346, 63.0, -775.8657437295983)
+[24May2025 13:22:31.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
+[24May2025 13:22:31.706] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
+[24May2025 13:22:31.808] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@6d8fe20c (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 13:22:31.809] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@53ee77eb (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 13:22:43.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj was slain by Imperial Teri
+[24May2025 13:22:43.301] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 13:22:49.248] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@6d8fe20c (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 13:22:49.248] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@53ee77eb (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 13:25:29.897] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 13:25:29.899] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 13:27:34.316] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3ba1080c
+[24May2025 13:27:34.341] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:58449] logged in with entity id 1759 at (1351.1852324254276, 70.0, 849.0027858189419)
+[24May2025 13:27:34.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
+[24May2025 13:27:35.539] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
+[24May2025 13:28:02.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to 140.5, 64.5, -887.5]
+[24May2025 13:28:43.512] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=1349, y=70, z=850}
+[24May2025 13:29:26.359] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:28.360] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:30.359] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:32.363] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:34.361] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:36.356] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:38.361] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:40.370] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:42.363] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:44.356] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:46.358] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:48.358] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:50.363] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:52.362] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:54.361] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:56.357] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:29:58.362] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:30:00.361] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:30:02.365] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:30:04.356] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:30:06.360] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:30:08.364] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:30:10.369] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:30:12.362] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:30:14.357] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:30:16.370] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:30:18.360] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:30:59.365] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:01.361] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:03.371] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:05.366] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:07.360] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:09.361] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:11.363] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:13.367] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:15.358] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:17.365] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:19.364] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:21.362] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:23.377] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:25.369] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:27.361] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:29.365] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:31.366] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:33.368] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:35.360] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:37.359] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:39.364] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:41.362] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:43.360] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:45.362] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:47.375] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:49.360] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:51.359] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:53.359] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:55.357] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:57.370] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:31:58.281] [Server thread/WARN] [de.teamlapen.vampirism.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 2103
+[24May2025 13:31:59.357] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:32:01.363] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:32:03.364] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:32:05.358] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:32:07.360] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:32:09.360] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:32:11.358] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:32:13.383] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:32:15.359] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[24May2025 13:33:37.857] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Toolsmith'/4768, l='ServerLevel[world]', x=1343.41, y=64.00, z=806.40] died, message: 'death.attack.blood_loss.player'
+[24May2025 13:35:10.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has reached the goal [Statue's Bargain]
+[24May2025 13:39:15.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Bat Mode]
+[24May2025 13:41:20.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Ol' Betsy]

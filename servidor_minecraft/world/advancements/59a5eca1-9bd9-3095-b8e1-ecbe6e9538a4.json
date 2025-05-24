@@ -4089,6 +4089,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-24 02:09:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-05-24 00:02:00 +0000"
@@ -4176,6 +4182,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/lance_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:19:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2025-05-24 13:37:42 +0000"
     },
     "done": true
   },
@@ -4515,6 +4527,12 @@
     },
     "done": true
   },
+  "paraglider:statues_bargain": {
+    "criteria": {
+      "bargain": "2025-05-24 13:35:10 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/altar_tip": {
     "criteria": {
       "has_iron": "2025-05-23 22:23:37 +0000"
@@ -4536,6 +4554,12 @@
   "vampirism:recipes/vampirism/vampire/blood_container": {
     "criteria": {
       "has_iron": "2025-05-23 22:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-24 13:41:20 +0000"
     },
     "done": true
   },
