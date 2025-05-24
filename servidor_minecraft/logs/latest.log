@@ -393,3 +393,20 @@ java.lang.NullPointerException: null
 [24May2025 16:29:57.794] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
 [24May2025 16:30:18.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has completed the challenge [Centennial]
 [24May2025 16:30:18.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [A Strange Grave Dust]
+[24May2025 16:34:57.017] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 moved too quickly! 0.5973950524285101,-10.80819063487482,-0.3979893234802603
+[24May2025 16:34:57.560] [Server thread/WARN] [tombstone/]: The death event of the player leonardo412351 was canceled by another mod
+[24May2025 16:34:57.604] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[24May2025 16:35:34.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set the time to 13000]
+[24May2025 16:35:53.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
+[24May2025 16:36:17.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 hit the ground too hard
+[24May2025 16:36:17.051] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[24May2025 16:37:03.833] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=699, y=19, z=-960}
+[24May2025 16:38:19.556] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
+[24May2025 16:38:19.586] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 16:38:21.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has reached the goal [Strong or Careful]
+[24May2025 16:38:21.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of capibaramcj
+[24May2025 16:38:21.365] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 16:38:28.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
+[24May2025 16:39:00.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
+[24May2025 16:39:56.605] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=784, y=29, z=-859} but found not block entity block Block{minecraft:cave_air} at location
+[24May2025 16:39:56.606] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=784, y=29, z=-859}
