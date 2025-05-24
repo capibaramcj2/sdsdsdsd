@@ -3891,9 +3891,9 @@
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
+  "spartanweaponry:recipes/spartanweaponry.basic/longbow_netherite_smithing": {
     "criteria": {
-      "travelled": "2025-05-24 18:56:22 +0000"
+      "has_netherite_ingot": "2025-05-24 18:38:47 +0000"
     },
     "done": true
   },
@@ -3903,9 +3903,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/longbow_netherite_smithing": {
+  "minecraft:nether/fast_travel": {
     "criteria": {
-      "has_netherite_ingot": "2025-05-24 18:38:47 +0000"
+      "travelled": "2025-05-24 18:56:22 +0000"
     },
     "done": true
   },
