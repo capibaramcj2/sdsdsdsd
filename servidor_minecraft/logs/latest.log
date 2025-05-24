@@ -64,3 +64,12 @@
 [24May2025 00:31:26.711] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj moved wrongly!
 [24May2025 00:31:27.465] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@87f2d51 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
 [24May2025 00:31:27.465] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5f0c1e7c (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 00:32:20.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has reached the goal [Strong or Careful]
+[24May2025 00:32:20.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 was slain by Silverfish
+[24May2025 00:32:20.972] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[24May2025 00:33:30.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valorxnt was slain by Paul the Hunter
+[24May2025 00:33:30.968] [Server thread/INFO] [tombstone/]: The player Valorxnt has successfully been saved
+[24May2025 00:36:17.117] [Server thread/WARN] [tombstone/]: The death event of the player Valorxnt was canceled by another mod
+[24May2025 00:36:17.118] [Server thread/INFO] [tombstone/]: The player Valorxnt has successfully been saved
+[24May2025 00:38:10.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valorxnt was slain by capibaramcj
+[24May2025 00:38:10.910] [Server thread/INFO] [tombstone/]: The player Valorxnt has successfully been saved

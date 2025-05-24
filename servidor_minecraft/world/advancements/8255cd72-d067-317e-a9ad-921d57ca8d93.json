@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-24 00:41:48 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:43:39 +0000"
@@ -368,6 +374,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-23 23:42:29 +0000",
+      "beef": "2025-05-24 00:32:41 +0000",
       "mutton": "2025-05-23 22:58:25 +0000",
       "bread": "2025-05-23 22:37:52 +0000"
     },
@@ -478,6 +485,12 @@
   "vampirism:main/root": {
     "criteria": {
       "main": "2025-05-23 22:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-24 00:41:48 +0000"
     },
     "done": true
   },
@@ -775,6 +788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-24 00:41:48 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:35:38 +0000"
@@ -935,6 +954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-24 00:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-24 00:07:53 +0000"
@@ -989,6 +1014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-24 00:41:48 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-05-23 22:33:13 +0000"
@@ -1040,6 +1071,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-24 00:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-24 00:41:48 +0000"
     },
     "done": true
   },
@@ -1166,6 +1203,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_wool": {
     "criteria": {
       "has_stick": "2025-05-23 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-24 00:41:48 +0000"
     },
     "done": true
   },
@@ -1421,6 +1464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-24 00:41:48 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/first_blood": {
     "criteria": {
       "flower": "2025-05-23 23:55:04 +0000"
@@ -1634,6 +1683,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-23 22:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-24 00:41:48 +0000"
     },
     "done": true
   },
@@ -2050,6 +2105,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-05-23 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-05-24 00:41:48 +0000"
     },
     "done": true
   },
