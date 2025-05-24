@@ -370,3 +370,146 @@ java.lang.NullPointerException: null
 [24May2025 20:34:12.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
 [24May2025 20:34:19.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax was shot by Skeleton
 [24May2025 20:34:19.963] [Server thread/INFO] [tombstone/]: The player TheTrimax has successfully been saved
+[24May2025 20:36:12.408] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj was kicked for floating too long!
+[24May2025 20:36:12.458] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Flying is not enabled on this server
+[24May2025 20:36:12.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
+[24May2025 20:36:24.114] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@557dbe0b
+[24May2025 20:36:24.126] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:44437] logged in with entity id 24067 at (-846.5977784380838, 66.16610926093821, 711.4056051565904)
+[24May2025 20:36:24.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
+[24May2025 20:36:24.154] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
+[24May2025 20:36:24.259] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 20:36:24.260] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 20:36:26.962] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 was kicked for floating too long!
+[24May2025 20:36:27.008] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Flying is not enabled on this server
+[24May2025 20:36:27.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
+[24May2025 20:36:43.768] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1bd4e3b5
+[24May2025 20:36:43.783] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:58425] logged in with entity id 24233 at (-852.6022735812145, 63.17675927506424, 564.9938277525281)
+[24May2025 20:36:43.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
+[24May2025 20:36:43.817] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
+[24May2025 20:38:06.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
+[24May2025 20:38:17.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 20:38:28.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
+[24May2025 20:38:30.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 20:38:30.611] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj was kicked for floating too long!
+[24May2025 20:38:30.658] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Flying is not enabled on this server
+[24May2025 20:38:30.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
+[24May2025 20:38:43.013] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@70b86332
+[24May2025 20:38:43.024] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:47041] logged in with entity id 25514 at (-840.8372032269883, 60.7967356006687, 638.8827527505765)
+[24May2025 20:38:43.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
+[24May2025 20:38:43.054] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
+[24May2025 20:38:43.126] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 20:38:43.127] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 20:39:15.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Take Aim]
+[24May2025 20:39:16.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 20:39:57.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax was shot by Skeleton
+[24May2025 20:39:57.211] [Server thread/INFO] [tombstone/]: The player TheTrimax has successfully been saved
+[24May2025 20:40:05.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 20:40:11.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Ashes 'n Bones]
+[24May2025 20:40:21.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 20:40:23.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has reached the goal [Enderslime Island]
+[24May2025 20:40:37.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has reached the goal [Chain Death]
+[24May2025 20:40:37.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax was shot by Skeleton
+[24May2025 20:40:37.965] [Server thread/INFO] [tombstone/]: The player TheTrimax has successfully been saved
+[24May2025 20:40:39.756] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TheTrimax lost connection: Disconnected
+[24May2025 20:40:39.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax left the game
+[24May2025 20:40:48.812] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@76dfb7b5
+[24May2025 20:40:48.823] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TheTrimax[/127.204.212.124:49601] logged in with entity id 26380 at (165.5, 50.0, -277.5)
+[24May2025 20:40:48.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax joined the game
+[24May2025 20:40:48.837] [Server thread/INFO] [Waila/]: Syncing config to TheTrimax (f3f574d6-b28a-36f8-b4ef-d285bf2bcc2c)
+[24May2025 20:41:13.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 20:41:27.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 20:43:40.065] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
+[24May2025 20:43:40.067] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 20:43:41.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of leonardo412351
+[24May2025 20:43:41.329] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 20:44:09.562] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-87, y=69, z=-156} BlockPos{x=-84, y=64, z=-163}
+[24May2025 20:44:27.031] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-87, y=69, z=-156} BlockPos{x=-85, y=65, z=-165}
+[24May2025 20:44:27.171] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-87, y=69, z=-156} BlockPos{x=-85, y=64, z=-165}
+[24May2025 20:44:27.274] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-87, y=69, z=-156} BlockPos{x=-86, y=64, z=-164}
+[24May2025 20:44:27.314] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-87, y=69, z=-156} BlockPos{x=-86, y=64, z=-165}
+[24May2025 20:45:26.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 20:45:38.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 20:46:55.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [The City at the End of the Game]
+[24May2025 20:47:00.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Disme A Dozen]
+[24May2025 20:47:11.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
+[24May2025 20:47:11.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [The City at the End of the Game]
+[24May2025 20:47:24.017] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6e819afb
+[24May2025 20:47:24.025] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pngadeeber21[/127.228.184.36:35869] logged in with entity id 29725 at (240.78846842720554, 41.0, 748.1539901438167)
+[24May2025 20:47:24.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 joined the game
+[24May2025 20:47:24.069] [Server thread/INFO] [Waila/]: Syncing config to pngadeeber21 (d7ca879d-53b2-348f-8f1d-342f879506ff)
+[24May2025 20:47:28.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to leonardo412351]
+[24May2025 20:47:58.519] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pngadeeber21 lost connection: Disconnected
+[24May2025 20:47:58.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 left the game
+[24May2025 20:49:04.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Vampire Diaries]
+[24May2025 20:49:04.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Diamonds!]
+[24May2025 20:49:06.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has completed the challenge [Free Willy]
+[24May2025 20:49:07.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Stone Age]
+[24May2025 20:49:18.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has reached the goal [Bone Crusher]
+[24May2025 20:49:22.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Amateur Archaeologist]
+[24May2025 20:50:30.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Suit Up]
+[24May2025 20:51:18.059] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@18d9db32
+[24May2025 20:51:18.065] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pngadeeber21[/127.228.184.36:43503] logged in with entity id 31600 at (240.78846842720554, 41.0, 748.1539901438167)
+[24May2025 20:51:18.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 joined the game
+[24May2025 20:51:18.091] [Server thread/INFO] [Waila/]: Syncing config to pngadeeber21 (d7ca879d-53b2-348f-8f1d-342f879506ff)
+[24May2025 20:51:53.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> estoy comiendo esprn
+[24May2025 20:52:15.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> profe
+[24May2025 20:52:20.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> es de un amigo no malpiense xd
+[24May2025 20:52:29.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> jajajajaja
+[24May2025 20:53:05.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Quite the Renovation]
+[24May2025 20:53:52.616] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 was kicked for floating too long!
+[24May2025 20:53:52.667] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Flying is not enabled on this server
+[24May2025 20:53:52.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
+[24May2025 20:54:05.727] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7dd2879f
+[24May2025 20:54:05.738] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:39053] logged in with entity id 33320 at (-863.227340838364, -101.53518796636412, 199.36780679180697)
+[24May2025 20:54:05.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
+[24May2025 20:54:05.746] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
+[24May2025 20:54:12.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 fell out of the world
+[24May2025 20:54:12.236] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[24May2025 20:54:22.137] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[24May2025 20:54:22.180] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[24May2025 20:54:22.182] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 moved too quickly! 0.0,-23.25676438890794,0.0
+[24May2025 20:54:26.100] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[24May2025 20:54:26.533] [Server thread/INFO] [explorerscompass/]: Search succeeded: 1930 radius, 9729 samples
+[24May2025 20:54:46.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind

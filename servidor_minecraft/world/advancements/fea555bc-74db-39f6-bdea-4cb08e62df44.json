@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-24 20:30:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/greatsword_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 23:13:27 +0000"
@@ -392,7 +398,8 @@
   "tconstruct:world/slime_collector": {
     "criteria": {
       "sky": "2025-05-24 17:01:43 +0000",
-      "earth": "2025-05-24 16:38:04 +0000"
+      "earth": "2025-05-24 16:38:04 +0000",
+      "ender": "2025-05-24 20:40:32 +0000"
     },
     "done": false
   },
@@ -825,6 +832,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/ender/congealed": {
+    "criteria": {
+      "has_item": "2025-05-24 20:40:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-23 22:26:31 +0000"
@@ -954,6 +967,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-05-23 22:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-05-24 20:47:58 +0000"
     },
     "done": true
   },
@@ -2197,6 +2216,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-24 20:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-23 22:35:29 +0000"
@@ -2689,6 +2714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-05-24 20:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:26:24 +0000"
@@ -2753,6 +2784,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-05-24 20:47:58 +0000"
     },
     "done": true
   },
@@ -3019,6 +3056,7 @@
       "minecraft:witch": "2025-05-23 22:43:25 +0000",
       "minecraft:wither_skeleton": "2025-05-24 17:26:23 +0000",
       "minecraft:ender_dragon": "2025-05-24 20:24:44 +0000",
+      "minecraft:shulker": "2025-05-24 20:48:05 +0000",
       "minecraft:cave_spider": "2025-05-24 18:11:35 +0000",
       "minecraft:piglin": "2025-05-24 01:15:31 +0000",
       "minecraft:stray": "2025-05-24 17:03:48 +0000",
@@ -3027,6 +3065,12 @@
       "minecraft:zombie": "2025-05-23 22:23:02 +0000"
     },
     "done": false
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/ender/slimeblock": {
+    "criteria": {
+      "has_item": "2025-05-24 20:40:32 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
@@ -3133,6 +3177,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold_betterstrongholds": "2025-05-24 20:01:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/ender": {
+    "criteria": {
+      "has_item": "2025-05-24 20:40:32 +0000"
     },
     "done": true
   },
@@ -3418,6 +3468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/ender": {
+    "criteria": {
+      "has_item": "2025-05-24 20:40:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/katana_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:26:24 +0000"
@@ -3439,6 +3495,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-05-23 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/slime/ender/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2025-05-24 20:40:46 +0000"
     },
     "done": true
   },
@@ -3790,6 +3852,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 23:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-05-24 20:47:58 +0000"
     },
     "done": true
   },
@@ -4526,6 +4594,12 @@
     },
     "done": true
   },
+  "tconstruct:world/ender_island": {
+    "criteria": {
+      "found_island": "2025-05-24 20:40:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-24 16:03:53 +0000"
@@ -4667,6 +4741,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quiver_upgrade_kit_large": {
     "criteria": {
       "has_diamond": "2025-05-24 01:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-05-24 20:30:34 +0000"
     },
     "done": true
   },
@@ -4874,6 +4954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-05-24 20:47:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-05-23 22:11:58 +0000"
@@ -4937,6 +5023,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
     "criteria": {
       "has_stick": "2025-05-23 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-05-24 20:47:58 +0000"
     },
     "done": true
   },
