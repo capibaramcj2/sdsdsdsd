@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/coffin_pink": {
+    "criteria": {
+      "has_wool": "2025-05-24 01:12:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/boomerang_silver": {
     "criteria": {
       "has_silver_ingot": "2025-05-23 23:10:01 +0000"
@@ -356,6 +362,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-05-24 01:12:05 +0000"
     },
     "done": true
   },
@@ -763,6 +775,7 @@
       "minecraft:skeleton": "2025-05-23 22:40:34 +0000",
       "minecraft:spider": "2025-05-23 22:22:54 +0000",
       "minecraft:witch": "2025-05-23 22:43:25 +0000",
+      "minecraft:piglin": "2025-05-24 01:15:31 +0000",
       "minecraft:zombie": "2025-05-23 22:23:02 +0000"
     },
     "done": false
@@ -830,6 +843,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/halberd_silver": {
     "criteria": {
       "has_silver_ingot": "2025-05-23 23:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-05-24 01:12:05 +0000"
     },
     "done": true
   },
@@ -1686,6 +1705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-05-24 01:12:05 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/alchemy_table/plant_oil": {
     "criteria": {
       "has_wheat_seeds": "2025-05-23 22:15:57 +0000"
@@ -1757,6 +1782,13 @@
       "in_water": "2025-05-23 22:20:49 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-05-24 01:15:20 +0000",
+      "minecraft:soul_sand_valley": "2025-05-24 01:14:32 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_iron": {
     "criteria": {
@@ -1950,6 +1982,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-24 01:14:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:19:15 +0000"
@@ -2001,6 +2039,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-05-24 01:12:37 +0000"
     },
     "done": true
   },
@@ -2257,6 +2301,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/coffin_brown": {
+    "criteria": {
+      "has_wool": "2025-05-24 01:12:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-24 00:50:05 +0000"
@@ -2314,6 +2364,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-05-24 01:12:37 +0000"
     },
     "done": true
   },
@@ -2731,6 +2787,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-24 01:14:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-05-24 00:31:40 +0000"
@@ -3100,6 +3162,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-23 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-05-24 01:12:37 +0000"
     },
     "done": true
   },
