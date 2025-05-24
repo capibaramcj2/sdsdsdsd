@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/monocle": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/cross": {
     "criteria": {
       "has_planks": "2025-05-24 20:23:33 +0000"
@@ -323,6 +329,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-05-24 20:31:27 +0000"
@@ -398,6 +410,18 @@
   "spartanweaponry:recipes/spartanweaponry.modded/pike_silver": {
     "criteria": {
       "has_silver_ingot": "2025-05-24 20:49:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/forest_eye": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },
@@ -497,6 +521,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_iron": "2025-05-24 20:31:03 +0000"
@@ -589,6 +619,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 20:30:40 +0000"
@@ -667,9 +703,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-24 21:03:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },
@@ -769,6 +817,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_wood": {
     "criteria": {
       "has_wood": "2025-05-24 20:23:33 +0000"
@@ -778,6 +832,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/halberd_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },
@@ -796,6 +856,18 @@
   "vampirism:recipes/vampirism/vampire/garlic_finder": {
     "criteria": {
       "has_garlic": "2025-05-24 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },
@@ -820,6 +892,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },
@@ -997,6 +1075,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mining_ring": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-05-24 20:31:03 +0000"
@@ -1042,6 +1126,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-24 21:01:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/pump": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },
@@ -1142,6 +1232,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-24 20:31:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/swap_ring": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },
@@ -1385,6 +1481,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/fire_place": {
     "criteria": {
       "has_logs": "2025-05-24 20:23:29 +0000"
@@ -1505,6 +1607,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manasteel_axe": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 20:30:40 +0000"
@@ -1532,6 +1640,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-05-24 20:40:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/sextant": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },
@@ -1581,6 +1695,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-24 20:26:28 +0000",
       "cooked_beef": "2025-05-24 20:45:13 +0000",
+      "baked_potato": "2025-05-24 21:11:18 +0000",
       "potato": "2025-05-24 20:27:51 +0000",
       "golden_apple": "2025-05-24 20:28:06 +0000",
       "carrot": "2025-05-24 20:36:06 +0000"
@@ -1602,6 +1717,12 @@
   "vampirism:recipes/vampirism/hunter/crossbow_arrow_from_vanilla": {
     "criteria": {
       "has_arrow": "2025-05-24 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },
@@ -1935,6 +2056,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/bauble_box": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-05-24 20:20:30 +0000"
@@ -2007,6 +2134,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-05-24 21:01:10 +0000"
@@ -2064,6 +2197,18 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-05-24 20:23:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/dodge_ring": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-24 21:11:32 +0000"
     },
     "done": true
   },
@@ -2133,6 +2278,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 20:30:40 +0000"
@@ -2154,6 +2305,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-05-24 20:42:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },
@@ -2190,6 +2347,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-05-24 20:40:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },
@@ -2238,6 +2401,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_diamond": {
     "criteria": {
       "has_diamond": "2025-05-24 20:49:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },
@@ -2322,6 +2491,12 @@
   "vampirism:recipes/vampirism/hunter/crossbow_arrow_normal": {
     "criteria": {
       "has_iron_ingot": "2025-05-24 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },
@@ -2472,6 +2647,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/greatsword_wood": {
     "criteria": {
       "has_wood": "2025-05-24 20:23:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_normal": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },
@@ -2721,6 +2902,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/weapontable/crucifix_enhanced": {
     "criteria": {
       "iron": "2025-05-24 20:31:03 +0000"
@@ -2742,6 +2929,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-24 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/travel_belt": {
+    "criteria": {
+      "has_item": "2025-05-24 21:06:46 +0000"
     },
     "done": true
   },

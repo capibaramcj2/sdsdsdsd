@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "lootr:1shulker": {
+    "criteria": {
+      "opened_shulker": "2025-05-24 21:08:48 +0000"
+    },
+    "done": true
+  },
   "mutantbeasts:root": {
     "criteria": {
       "killed_something": "2025-05-23 22:16:21 +0000"
@@ -818,6 +824,7 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-05-24 17:43:25 +0000",
+      "opened_shulker": "2025-05-24 21:08:48 +0000",
       "opened_chest": "2025-05-23 22:23:20 +0000"
     },
     "done": false
@@ -982,6 +989,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/lance_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:23:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-05-24 21:08:55 +0000"
     },
     "done": true
   },
@@ -1210,6 +1223,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 22:36:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-05-24 21:06:31 +0000"
     },
     "done": true
   },
@@ -1480,6 +1499,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-05-23 22:14:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/quiver_bolt_small": {
+    "criteria": {
+      "has_bolt": "2025-05-24 21:08:55 +0000"
     },
     "done": true
   },
@@ -1988,6 +2013,12 @@
   "vampirism:recipes/vampirism/vampire/chandelier": {
     "criteria": {
       "has_string": "2025-05-23 22:35:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2025-05-24 21:06:31 +0000"
     },
     "done": true
   },
@@ -3309,6 +3340,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-05-24 21:10:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
     "criteria": {
       "has_stick": "2025-05-23 22:29:54 +0000"
@@ -4200,6 +4237,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_netherite_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-05-24 21:06:31 +0000"
     },
     "done": true
   },

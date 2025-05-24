@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-24 21:11:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2025-05-23 22:59:56 +0000"
@@ -254,6 +260,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/saber_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:52:33 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-05-24 21:14:38 +0000"
     },
     "done": true
   },
@@ -717,6 +729,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-24 21:11:12 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/item_med_chair": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 23:40:49 +0000"
@@ -816,6 +834,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 23:40:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-24 21:04:54 +0000"
     },
     "done": true
   },
@@ -930,6 +954,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
     "criteria": {
       "has_bow": "2025-05-23 23:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-24 21:13:20 +0000"
     },
     "done": true
   },
@@ -1553,6 +1583,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-24 21:13:20 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-05-23 22:50:46 +0000"
@@ -1594,6 +1630,12 @@
       "has_stick": "2025-05-23 23:34:30 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-24 21:11:13 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/barbecue_stick": {
     "criteria": {

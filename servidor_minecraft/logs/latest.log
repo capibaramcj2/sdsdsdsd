@@ -568,3 +568,89 @@ java.lang.NullPointerException: null
 [24May2025 21:04:19.178] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
 [24May2025 21:04:44.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
 [24May2025 21:04:54.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [Close Quarters]
+[24May2025 21:05:11.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <capibaramcj> explored compass
+[24May2025 21:05:44.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 fell from a high place
+[24May2025 21:05:44.071] [Server thread/INFO] [tombstone/]: The player pngadeeber21 has successfully been saved
+[24May2025 21:06:04.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> rompiste las camas hdp
+[24May2025 21:06:11.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Smash And Bash!]
+[24May2025 21:06:24.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [A Cut Above the Rest]
+[24May2025 21:06:31.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Blade of the Samurai]
+[24May2025 21:06:31.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Tip of the Spear]
+[24May2025 21:06:31.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Hunt and Gather]
+[24May2025 21:06:36.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> ptmr
+[24May2025 21:07:02.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Bounty Box]
+[24May2025 21:07:05.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Straightening the Scythes]
+[24May2025 21:07:05.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Hunt and Gather]
+[24May2025 21:07:18.722] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Disconnected
+[24May2025 21:07:18.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
+[24May2025 21:07:32.182] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6a7a799c
+[24May2025 21:07:32.192] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:39513] logged in with entity id 43755 at (-570.6638851554635, 60.32360926093821, 2433.0657668863137)
+[24May2025 21:07:32.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
+[24May2025 21:07:32.225] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
+[24May2025 21:07:32.297] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 21:07:32.297] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 21:07:53.666] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj was kicked for floating too long!
+[24May2025 21:07:53.722] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Flying is not enabled on this server
+[24May2025 21:07:53.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
+[24May2025 21:07:57.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Imitation Air]
+[24May2025 21:08:21.578] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5d6477b2
+[24May2025 21:08:21.588] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:39067] logged in with entity id 45147 at (-574.1651743090704, 61.024424088213685, 2423.1907837690874)
+[24May2025 21:08:21.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
+[24May2025 21:08:21.619] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
+[24May2025 21:08:21.684] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 21:08:21.685] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 21:08:27.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has reached the goal [A self-respecting Soul]
+[24May2025 21:08:35.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Not the Olympic Type]
+[24May2025 21:08:36.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 21:08:48.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Bounty Box]
+[24May2025 21:08:55.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [A Cut Above the Rest]
+[24May2025 21:08:58.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Where Is The Stone Pen?]
+[24May2025 21:09:02.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has reached the goal [Greed may lead to loss]
+[24May2025 21:09:30.628] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[24May2025 21:09:30.677] [Server thread/INFO] [explorerscompass/]: Search succeeded: 419 radius, 747 samples
+[24May2025 21:09:43.470] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[24May2025 21:09:43.637] [Server thread/INFO] [explorerscompass/]: Search succeeded: 458 radius, 910 samples
+[24May2025 21:09:49.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 21:10:19.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to capibaramcj]
+[24May2025 21:10:27.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
+[24May2025 21:10:47.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> tepen
+[24May2025 21:10:50.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> tp
+[24May2025 21:11:02.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> capigay
+[24May2025 21:11:12.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [We Need to Go Deeper]
+[24May2025 21:11:18.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 burned to death
+[24May2025 21:11:18.575] [Server thread/INFO] [tombstone/]: The player pngadeeber21 has successfully been saved
+[24May2025 21:11:32.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Close Quarters]
+[24May2025 21:11:42.720] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[24May2025 21:11:42.782] [Server thread/INFO] [explorerscompass/]: Search succeeded: 214 radius, 27 samples
+[24May2025 21:11:58.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> capigay estoy en el spawn sin nada bien lejos de todo , no es divertido ctmr tepeame porfavor
+[24May2025 21:11:58.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 21:12:23.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to Prime9977]
+[24May2025 21:12:36.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 21:12:56.531] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
+[24May2025 21:12:56.532] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 21:12:57.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> a mi si tepeame perra
+[24May2025 21:12:57.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of leonardo412351
+[24May2025 21:12:57.833] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 21:13:06.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> pedu de los pedus
+[24May2025 21:13:20.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [The End?]
+[24May2025 21:13:20.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported pngadeeber21 to leonardo412351]
+[24May2025 21:13:29.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to leonardo412351]
+[24May2025 21:13:36.364] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Disconnected
+[24May2025 21:13:36.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
+[24May2025 21:13:39.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> dame comida perra
+[24May2025 21:13:40.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> me muero
+[24May2025 21:13:56.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> comida xd
+[24May2025 21:14:05.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Prime9977> ACA ABAJO
+[24May2025 21:14:16.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> tu vas trol
+[24May2025 21:14:38.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [A Ruined Citadel]
+[24May2025 21:14:51.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 was blasted by Blastling
+[24May2025 21:14:51.120] [Server thread/INFO] [tombstone/]: The player pngadeeber21 has successfully been saved
+[24May2025 21:14:56.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> tmre
+[24May2025 21:15:00.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> XD
+[24May2025 21:15:04.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> pedu denuevo p
+[24May2025 21:15:09.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Smash And Bash!]
+[24May2025 21:15:11.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Straightening the Scythes]
+[24May2025 21:15:12.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Not the Olympic Type]
+[24May2025 21:15:12.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> xfa
+[24May2025 21:15:15.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> ultima ultima
+[24May2025 21:15:19.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [A Cut Above the Rest]

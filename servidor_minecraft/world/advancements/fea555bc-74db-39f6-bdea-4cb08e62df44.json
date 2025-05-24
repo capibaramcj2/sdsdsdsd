@@ -581,6 +581,12 @@
     },
     "done": true
   },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-05-24 21:06:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_diamond": {
     "criteria": {
       "has_diamond": "2025-05-24 01:10:17 +0000"
@@ -4502,6 +4508,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/lance_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:19:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-05-24 21:10:22 +0000"
     },
     "done": true
   },
