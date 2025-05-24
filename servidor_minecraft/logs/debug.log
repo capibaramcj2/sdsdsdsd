@@ -11242,3 +11242,51 @@ java.lang.NullPointerException: null
 [24May2025 14:17:53.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
 [24May2025 14:20:24.654] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=192, y=14, z=51} BlockPos{x=193, y=14, z=51}
 [24May2025 14:20:24.701] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=192, y=14, z=51} BlockPos{x=193, y=14, z=51}
+[24May2025 14:22:20.773] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24May2025 14:22:20.783] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24May2025 14:27:03.260] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=202, y=4, z=21} BlockPos{x=201, y=4, z=20}
+[24May2025 14:27:20.615] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24May2025 14:27:20.626] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24May2025 14:27:47.054] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=204, y=8, z=4} BlockPos{x=205, y=7, z=5}
+[24May2025 14:27:47.107] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=204, y=8, z=4} BlockPos{x=205, y=7, z=5}
+[24May2025 14:27:47.156] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=204, y=8, z=4} BlockPos{x=205, y=7, z=5}
+[24May2025 14:27:47.207] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=204, y=8, z=4} BlockPos{x=205, y=7, z=5}
+[24May2025 14:27:47.255] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=204, y=8, z=4} BlockPos{x=205, y=7, z=5}
+[24May2025 14:27:47.309] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=204, y=8, z=4} BlockPos{x=205, y=7, z=5}
+[24May2025 14:27:47.358] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=204, y=8, z=4} BlockPos{x=205, y=7, z=5}
+[24May2025 14:27:47.402] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=204, y=8, z=4} BlockPos{x=205, y=7, z=5}
+[24May2025 14:27:47.457] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=204, y=8, z=4} BlockPos{x=205, y=7, z=5}
+[24May2025 14:27:49.807] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:49.856] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:49.912] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:49.950] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.008] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.053] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.102] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.157] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.215] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.257] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.307] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.356] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.407] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.452] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.499] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.552] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.610] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.656] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.705] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.758] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.802] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.860] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.906] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:50.953] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:51.008] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:51.057] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:51.107] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:51.154] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:51.202] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:51.253] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:51.306] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:51.364] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:51.406] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
+[24May2025 14:27:51.449] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=1} BlockPos{x=203, y=9, z=1}
