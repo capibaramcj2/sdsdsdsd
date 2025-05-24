@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-05-24 18:58:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/greatsword_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 22:56:35 +0000"
@@ -314,6 +320,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/halberd_netherite_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-24 15:49:12 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-24 18:58:28 +0000"
     },
     "done": true
   },
@@ -3505,6 +3517,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-05-24 19:04:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/twig_wand": {
+    "criteria": {
+      "has_item": "2025-05-24 18:58:26 +0000"
     },
     "done": true
   },

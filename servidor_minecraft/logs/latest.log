@@ -751,3 +751,48 @@ java.lang.NullPointerException: null
 [24May2025 18:53:48.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to 158.5, 38.5, 166.5]
 [24May2025 18:54:38.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
 [24May2025 18:54:49.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 18:56:08.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to 2.5, 51.5, -103.5]
+[24May2025 18:56:22.379] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:56:22.379] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:56:22.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has completed the challenge [Subspace Bubble]
+[24May2025 18:56:56.781] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[24May2025 18:56:56.834] [Server thread/INFO] [explorerscompass/]: Search failed: 0 radius, 0 samples
+[24May2025 18:58:21.399] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[24May2025 18:58:21.780] [Server thread/INFO] [explorerscompass/]: Search succeeded: 1765 radius, 1698 samples
+[24May2025 18:58:28.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Chest Slayer]
+[24May2025 18:59:12.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Blood Feeders' Home]
+[24May2025 18:59:28.828] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-419, y=23, z=-1239} but found not block entity block Block{minecraft:andesite} at location
+[24May2025 18:59:28.828] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:andesite} but failed at location BlockPos{x=-419, y=23, z=-1239}
+[24May2025 18:59:28.828] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-428, y=23, z=-1239} but found not block entity block Block{minecraft:stone} at location
+[24May2025 18:59:28.829] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-428, y=23, z=-1239}
+[24May2025 18:59:28.829] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-424, y=24, z=-1242} but found not block entity block Block{minecraft:stone} at location
+[24May2025 18:59:28.829] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-424, y=24, z=-1242}
+[24May2025 18:59:28.830] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-417, y=30, z=-1243} but found not block entity block Block{minecraft:stone} at location
+[24May2025 18:59:28.830] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-417, y=30, z=-1243}
+[24May2025 18:59:32.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-416, y=30, z=-1242} but found not block entity block Block{minecraft:stone} at location
+[24May2025 18:59:32.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-416, y=30, z=-1242}
+[24May2025 18:59:32.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-412, y=23, z=-1234} but found not block entity block Block{minecraft:cave_air} at location
+[24May2025 18:59:32.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-412, y=23, z=-1234}
+[24May2025 19:00:01.212] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-8339, y=0, z=8920} but found not block entity block Block{minecraft:bedrock} at location
+[24May2025 19:00:01.212] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-8339, y=0, z=8920}
+[24May2025 19:00:01.212] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-8341, y=0, z=8915} but found not block entity block Block{minecraft:bedrock} at location
+[24May2025 19:00:01.212] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-8341, y=0, z=8915}
+[24May2025 19:00:35.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj was frozen by Ice Dragon
+[24May2025 19:00:35.952] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 19:02:29.970] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Disconnected
+[24May2025 19:02:29.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
+[24May2025 19:04:04.686] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-8016, y=14, z=8424} but found not block entity block Block{minecraft:stone} at location
+[24May2025 19:04:04.686] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-8016, y=14, z=8424}
+[24May2025 19:04:04.686] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-8013, y=17, z=8423} but found not block entity block Block{minecraft:gravel} at location
+[24May2025 19:04:04.686] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:gravel} but failed at location BlockPos{x=-8013, y=17, z=8423}
+[24May2025 19:04:04.686] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-8015, y=14, z=8429} but found not block entity block Block{minecraft:stone} at location
+[24May2025 19:04:04.686] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-8015, y=14, z=8429}
+[24May2025 19:04:37.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Eye Spy]
+[24May2025 19:05:01.341] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-8036, y=14, z=8430} but found not block entity block Block{minecraft:stone} at location
+[24May2025 19:05:01.341] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-8036, y=14, z=8430}
+[24May2025 19:05:01.342] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-8020, y=20, z=8417} but found not block entity block Block{minecraft:stone} at location
+[24May2025 19:05:01.343] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-8020, y=20, z=8417}
+[24May2025 19:05:01.343] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-8027, y=14, z=8421} but found not block entity block Block{minecraft:stone} at location
+[24May2025 19:05:01.343] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-8027, y=14, z=8421}
+[24May2025 19:05:01.343] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-8020, y=15, z=8420} but found not block entity block Block{minecraft:stone} at location
+[24May2025 19:05:01.343] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-8020, y=15, z=8420}
