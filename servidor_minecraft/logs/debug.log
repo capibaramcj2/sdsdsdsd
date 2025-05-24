@@ -11227,3 +11227,100 @@ java.lang.NullPointerException: null
 [24May2025 17:42:20.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [24May2025 17:42:21.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [24May2025 17:42:47.010] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[24May2025 17:43:25.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Barrel Booty]
+[24May2025 17:43:52.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [The Fourth Horseman]
+[24May2025 17:44:00.439] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:44:02.096] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:44:02.944] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 17:44:02.944] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:44:02.944] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 17:44:04.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:44:05.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:44:56.544] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24May2025 17:44:56.554] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24May2025 17:46:17.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 17:46:17.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:46:56.891] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 17:46:56.891] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:46:56.892] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 17:46:58.996] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:46:59.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:47:01.300] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:47:04.282] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:47:06.496] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:47:41.343] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 17:47:41.344] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:47:42.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 17:47:42.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:47:44.793] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:47:47.504] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:48:11.486] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:48:11.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set the time to 13000]
+[24May2025 17:48:12.336] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 17:48:12.336] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:48:12.336] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 17:48:13.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 17:48:13.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:48:13.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 17:48:13.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 17:48:13.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:48:13.888] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 17:48:22.032] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:48:23.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:48:23.886] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 17:48:23.886] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:48:23.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 17:49:26.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 17:49:26.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:49:30.244] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:49:31.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 17:49:31.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 17:49:56.319] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24May2025 17:49:56.328] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24May2025 17:50:50.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Killed 100 entities]
+[24May2025 17:50:54.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj fell out of the world
+[24May2025 17:50:54.015] [Server thread/DEBUG] [tombstone/]: A new grave of the player capibaramcj was created at position [x:367, y:64, z:-793, dim:minecraft:overworld]
+[24May2025 17:50:54.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 fell out of the world
+[24May2025 17:50:54.018] [Server thread/DEBUG] [tombstone/]: A new grave of the player Prime9977 was created at position [x:-217, y:70, z:-410, dim:minecraft:overworld]
+[24May2025 17:50:54.018] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[24May2025 17:50:54.020] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[24May2025 17:50:54.020] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[24May2025 17:50:54.021] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[24May2025 17:50:54.021] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[24May2025 17:50:54.022] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[24May2025 17:50:54.022] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[24May2025 17:50:54.023] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[24May2025 17:50:54.023] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[24May2025 17:50:54.023] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[24May2025 17:50:54.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Killed 100 entities]
+[24May2025 17:50:54.023] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[24May2025 17:50:54.023] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[24May2025 17:50:54.024] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 17:50:54.024] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[24May2025 17:50:54.025] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[24May2025 17:50:54.025] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[24May2025 17:50:54.061] [Server thread/INFO] [tombstone/]: The player Prime9977 could not be saved
+[24May2025 17:50:57.122] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: capibaramcj has new faction level vampirism:vampire 4
+[24May2025 17:50:57.128] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 17:50:57.129] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 17:50:57.401] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Prime9977 has new faction level vampirism:vampire 2
+[24May2025 17:51:08.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj fell out of the world
+[24May2025 17:51:08.804] [Server thread/DEBUG] [tombstone/]: A new grave of the player capibaramcj was created at position [x:367, y:64, z:-793, dim:minecraft:overworld]
+[24May2025 17:51:08.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 fell out of the world
+[24May2025 17:51:08.823] [Server thread/DEBUG] [tombstone/]: A new grave of the player leonardo412351 was created at position [x:-548, y:68, z:895, dim:minecraft:the_nether]
+[24May2025 17:51:08.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Killed 487 entities]
+[24May2025 17:51:08.862] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 17:51:08.863] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[24May2025 17:51:11.525] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: capibaramcj has new faction level vampirism:vampire 4
+[24May2025 17:51:11.533] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 17:51:11.533] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 17:51:39.305] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: leonardo412351 has new faction level vampirism:vampire 4
+[24May2025 17:52:06.927] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 17:52:06.930] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 17:52:08.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj died because of Mutant Skeleton
+[24May2025 17:52:08.133] [Server thread/DEBUG] [tombstone/]: A new grave of the player capibaramcj was created at position [x:365, y:64, z:-827, dim:minecraft:overworld]
+[24May2025 17:52:08.134] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 17:52:09.505] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: capibaramcj has new faction level vampirism:vampire 4
+[24May2025 17:52:09.513] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 17:52:09.514] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 17:52:44.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to capibaramcj]

@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-24 17:41:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:23:37 +0000"
@@ -98,6 +104,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_the_recipe": "2025-05-23 23:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-24 17:41:28 +0000"
     },
     "done": true
   },
@@ -428,6 +440,7 @@
   "tconstruct:world/slime_collector": {
     "criteria": {
       "sky": "2025-05-24 01:33:21 +0000",
+      "magma_cream": "2025-05-24 17:41:28 +0000",
       "earth": "2025-05-24 01:32:57 +0000"
     },
     "done": false
@@ -875,6 +888,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-05-23 22:17:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/nether_grout": {
+    "criteria": {
+      "has_item": "2025-05-24 17:41:28 +0000"
     },
     "done": true
   },
@@ -1563,6 +1582,12 @@
   "vampirism:recipes/vampirism/hunter/crossbow_arrow_from_vanilla": {
     "criteria": {
       "has_arrow": "2025-05-23 22:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-24 17:41:28 +0000"
     },
     "done": true
   },
@@ -2490,6 +2515,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-24 17:41:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-23 22:19:25 +0000"
@@ -3159,6 +3190,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-23 22:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-24 17:42:40 +0000"
     },
     "done": true
   },
@@ -5004,6 +5041,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quiver_upgrade_kit_large": {
     "criteria": {
       "has_diamond": "2025-05-23 22:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-24 17:42:40 +0000"
     },
     "done": true
   },

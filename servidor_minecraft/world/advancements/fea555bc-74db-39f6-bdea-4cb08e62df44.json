@@ -903,6 +903,7 @@
       "minecraft:magma_cube": "2025-05-24 15:47:48 +0000",
       "minecraft:spider": "2025-05-23 22:22:54 +0000",
       "minecraft:piglin_brute": "2025-05-24 15:51:49 +0000",
+      "minecraft:creeper": "2025-05-24 17:41:42 +0000",
       "minecraft:witch": "2025-05-23 22:43:25 +0000",
       "minecraft:wither_skeleton": "2025-05-24 17:26:23 +0000",
       "minecraft:piglin": "2025-05-24 01:15:31 +0000",
@@ -3799,6 +3800,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/leather_from_obi_belt": {
+    "criteria": {
+      "has_obi_belt": "2025-05-24 17:47:07 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-05-23 22:11:58 +0000"
@@ -4120,6 +4127,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-24 17:48:06 +0000"
     },
     "done": true
   },
