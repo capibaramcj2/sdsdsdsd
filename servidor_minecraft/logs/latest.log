@@ -83,3 +83,20 @@
 [24May2025 00:47:21.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Sweet Dreams]
 [24May2025 00:47:33.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
 [24May2025 00:52:24.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valorxnt has made the advancement [Amateur Archaeologist]
+[24May2025 00:53:32.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [A Bone to Pick]
+[24May2025 00:54:16.808] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Valorxnt lost connection: Disconnected
+[24May2025 00:54:16.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valorxnt left the game
+[24May2025 00:57:26.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to 373.5, 64.5, -788.5]
+[24May2025 00:58:36.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Take Aim]
+[24May2025 00:59:15.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj was slain by Luminous Luna
+[24May2025 00:59:15.463] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 00:59:29.504] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@87f2d51 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 00:59:29.504] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5f0c1e7c (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 00:59:40.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to 373.5, 64.5, -788.5]
+[24May2025 01:00:58.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [We Need to Go Deeper]
+[24May2025 01:01:02.300] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.dungeons_mobs.zombified_fungus_thrower', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[24May2025 01:01:31.007] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-26, y=57, z=91} BlockPos{x=-25, y=56, z=91}
+[24May2025 01:01:31.025] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-26, y=57, z=91} BlockPos{x=-25, y=56, z=91}
+[24May2025 01:01:39.801] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-32, y=53, z=91} BlockPos{x=-31, y=53, z=91}
+[24May2025 01:01:39.851] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-32, y=53, z=91} BlockPos{x=-31, y=53, z=91}
+[24May2025 01:01:58.204] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-37, y=37, z=92} BlockPos{x=-37, y=35, z=92}
