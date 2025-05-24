@@ -677,3 +677,32 @@ java.lang.NullPointerException: null
 [24May2025 18:23:52.139] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
 [24May2025 18:23:53.751] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
 [24May2025 18:23:53.751] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:24:05.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to 1173.5, 13.5, -337.5]
+[24May2025 18:25:02.255] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
+[24May2025 18:25:02.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
+[24May2025 18:25:37.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has completed the challenge [Centennial]
+[24May2025 18:25:39.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
+[24May2025 18:25:56.070] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
+[24May2025 18:25:56.071] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 18:25:57.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of capibaramcj
+[24May2025 18:25:57.287] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 18:25:59.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
+[24May2025 18:26:32.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj burned to ashes
+[24May2025 18:26:32.977] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 18:26:36.637] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:26:36.637] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:27:39.077] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7f4c9eb2
+[24May2025 18:27:39.089] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:34725] logged in with entity id 94361 at (-7210.5999999940395, 74.80123180252525, 8476.40000000596)
+[24May2025 18:27:39.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
+[24May2025 18:27:39.120] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
+[24May2025 18:27:39.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has reached the goal [Heliomancer]
+[24May2025 18:28:24.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to 365.5, 64.5, -777.5]
+[24May2025 18:28:56.226] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7628ef9d
+[24May2025 18:29:06.892] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:29:06.892] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:29:25.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 18:29:29.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 did not like the sun
+[24May2025 18:29:29.362] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[24May2025 18:29:33.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 18:29:41.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to leonardo412351]
+[24May2025 18:33:59.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to capibaramcj]
