@@ -313,3 +313,60 @@ java.lang.NullPointerException: null
 [24May2025 20:22:25.022] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj moved too quickly! -0.5344143831891657,4.479338877713786,-9.298602626001784
 [24May2025 20:23:45.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
 [24May2025 20:23:56.320] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj moved wrongly!
+[24May2025 20:24:44.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Free the End]
+[24May2025 20:25:32.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Monster Hunter]
+[24May2025 20:25:32.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [A Strange Grave Dust]
+[24May2025 20:25:48.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has reached the goal [The Next Generation]
+[24May2025 20:25:51.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Sweet Dreams]
+[24May2025 20:25:59.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement ['X' Marks the Spot]
+[24May2025 20:26:14.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Getting an Upgrade]
+[24May2025 20:27:20.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [The End?]
+[24May2025 20:27:21.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [The End?]
+[24May2025 20:27:28.146] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 moved too quickly! -7.3651338833588085,6.832203353366751,0.3469433382847975
+[24May2025 20:27:28.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6294ms or 125 ticks behind
+[24May2025 20:27:41.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Remote Getaway]
+[24May2025 20:27:53.091] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[24May2025 20:27:53.168] [Server thread/INFO] [explorerscompass/]: Search succeeded: 1331 radius, 5050 samples
+[24May2025 20:28:45.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax was shot by Skeleton
+[24May2025 20:28:45.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Your First Grave]
+[24May2025 20:28:45.977] [Server thread/INFO] [tombstone/]: The player TheTrimax has successfully been saved
+[24May2025 20:28:51.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has reached the goal [Here They Come]
+[24May2025 20:28:59.155] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj was kicked for floating too long!
+[24May2025 20:28:59.209] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Flying is not enabled on this server
+[24May2025 20:28:59.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
+[24May2025 20:29:04.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Remote Getaway]
+[24May2025 20:29:06.962] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
+[24May2025 20:29:06.971] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 20:29:08.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of Enderman
+[24May2025 20:29:08.238] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 20:29:12.874] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@58968d57
+[24May2025 20:29:12.887] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:36065] logged in with entity id 19761 at (-900.4749122892631, 56.024424088213685, 648.266209984937)
+[24May2025 20:29:12.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
+[24May2025 20:29:12.918] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
+[24May2025 20:29:13.006] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 20:29:13.006] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 20:29:38.619] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj was kicked for floating too long!
+[24May2025 20:29:38.668] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Flying is not enabled on this server
+[24May2025 20:29:38.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
+[24May2025 20:29:50.191] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8027e8e
+[24May2025 20:29:50.205] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:46607] logged in with entity id 20021 at (-897.2668374112453, 57.7531999805212, 617.4070899169263)
+[24May2025 20:29:50.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
+[24May2025 20:29:50.235] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
+[24May2025 20:29:50.329] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 20:29:50.329] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 20:29:54.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax was shot by Skeleton
+[24May2025 20:29:54.378] [Server thread/INFO] [tombstone/]: The player TheTrimax has successfully been saved
+[24May2025 20:30:15.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[24May2025 20:30:17.296] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[24May2025 20:31:03.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Acquire Hardware]
+[24May2025 20:31:17.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 was incinerated by Dropbear
+[24May2025 20:31:17.231] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 20:32:56.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Remote Getaway]
+[24May2025 20:33:18.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Adventure Mode]
+[24May2025 20:33:19.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
+[24May2025 20:33:26.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Adventure Mode]
+[24May2025 20:34:11.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
+[24May2025 20:34:11.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Not Today, Thank You]
+[24May2025 20:34:12.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 20:34:19.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax was shot by Skeleton
+[24May2025 20:34:19.963] [Server thread/INFO] [tombstone/]: The player TheTrimax has successfully been saved

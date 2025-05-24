@@ -825,6 +825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-24 20:21:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 22:56:35 +0000"
@@ -1498,6 +1504,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-24 00:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-24 20:29:32 +0000"
     },
     "done": true
   },
@@ -2539,6 +2551,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-05-24 20:29:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:lance": {
     "criteria": {
       "has_lance": "2025-05-24 18:49:38 +0000"
@@ -2677,6 +2695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-05-24 20:29:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-23 22:50:19 +0000"
@@ -2728,6 +2752,12 @@
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-05-23 22:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-24 20:29:32 +0000"
     },
     "done": true
   },
@@ -3402,6 +3432,7 @@
       "minecraft:creeper": "2025-05-23 22:22:41 +0000",
       "minecraft:phantom": "2025-05-24 16:26:19 +0000",
       "minecraft:zombified_piglin": "2025-05-24 18:16:27 +0000",
+      "minecraft:witch": "2025-05-24 20:19:43 +0000",
       "minecraft:wither_skeleton": "2025-05-24 13:55:02 +0000",
       "minecraft:cave_spider": "2025-05-23 22:52:19 +0000",
       "minecraft:piglin": "2025-05-24 01:20:10 +0000",
@@ -3580,6 +3611,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-24 20:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-05-23 22:21:44 +0000"
@@ -3745,6 +3782,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-23 23:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-24 20:21:41 +0000"
     },
     "done": true
   },
@@ -4041,6 +4084,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_leather": {
     "criteria": {
       "has_leather": "2025-05-23 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-24 20:21:41 +0000"
     },
     "done": true
   },
@@ -5037,6 +5086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2025-05-24 20:21:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-05-23 22:42:45 +0000"
@@ -5079,9 +5134,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-24 20:29:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-23 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-24 20:29:32 +0000"
     },
     "done": true
   },
@@ -5379,6 +5446,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/coffin_light_gray": {
+    "criteria": {
+      "has_wool": "2025-05-24 20:21:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-05-24 13:41:20 +0000"
@@ -5562,6 +5635,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-23 22:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-24 20:27:20 +0000"
     },
     "done": true
   },

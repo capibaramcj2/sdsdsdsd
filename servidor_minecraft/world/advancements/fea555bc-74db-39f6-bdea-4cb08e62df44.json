@@ -446,6 +446,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-05-24 20:24:44 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_orig_recipe": "2025-05-23 23:37:03 +0000",
@@ -1026,6 +1032,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-05-24 01:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-05-24 20:25:48 +0000"
     },
     "done": true
   },
@@ -2191,6 +2203,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-05-24 20:27:41 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/pink_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-24 16:50:46 +0000"
@@ -3000,6 +3018,7 @@
       "minecraft:zombified_piglin": "2025-05-24 18:29:56 +0000",
       "minecraft:witch": "2025-05-23 22:43:25 +0000",
       "minecraft:wither_skeleton": "2025-05-24 17:26:23 +0000",
+      "minecraft:ender_dragon": "2025-05-24 20:24:44 +0000",
       "minecraft:cave_spider": "2025-05-24 18:11:35 +0000",
       "minecraft:piglin": "2025-05-24 01:15:31 +0000",
       "minecraft:stray": "2025-05-24 17:03:48 +0000",
