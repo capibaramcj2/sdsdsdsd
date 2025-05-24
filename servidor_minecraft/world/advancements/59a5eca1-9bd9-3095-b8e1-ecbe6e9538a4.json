@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-24 16:11:48 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:19:43 +0000"
@@ -2296,6 +2302,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/coffin_gray": {
+    "criteria": {
+      "has_wool": "2025-05-24 16:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-05-24 01:14:09 +0000"
@@ -3380,6 +3392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-24 16:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-23 22:19:00 +0000"
@@ -3419,6 +3437,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-05-23 22:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-24 16:11:48 +0000"
     },
     "done": true
   },

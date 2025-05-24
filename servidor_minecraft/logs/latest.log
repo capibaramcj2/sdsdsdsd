@@ -363,3 +363,19 @@ java.lang.NullPointerException: null
 [24May2025 16:07:23.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to 244.5, 65.5, -894.5]
 [24May2025 16:08:40.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Your First Receptacle]
 [24May2025 16:08:51.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Amateur Archaeologist]
+[24May2025 16:10:09.147] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@15b98628
+[24May2025 16:10:09.163] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Prime9977[/127.110.123.215:40755] logged in with entity id 24265 at (242.02872402521925, 76.0, 699.8746374768651)
+[24May2025 16:10:09.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 joined the game
+[24May2025 16:10:09.252] [Server thread/INFO] [Waila/]: Syncing config to Prime9977 (1e4d5421-dd37-3deb-a128-3bfbc8d1a346)
+[24May2025 16:10:47.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set the time to 13000]
+[24May2025 16:12:24.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> 1640
+[24May2025 16:12:27.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> 80
+[24May2025 16:12:35.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> 1155
+[24May2025 16:17:25.041] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 16:17:25.043] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 16:17:26.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj died because of Mutant Skeleton
+[24May2025 16:17:26.501] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 16:17:27.693] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 16:17:27.693] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 16:18:00.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Bloody Stream]
+[24May2025 16:19:56.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set the time to 13000]
