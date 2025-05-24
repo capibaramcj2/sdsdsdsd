@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-24 15:56:28 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/cross": {
     "criteria": {
       "has_planks": "2025-05-23 22:19:15 +0000"
@@ -1715,6 +1721,7 @@
       "minecraft:river": "2025-05-23 22:17:13 +0000",
       "minecraft:wooded_mountains": "2025-05-23 23:22:05 +0000",
       "minecraft:wooded_hills": "2025-05-23 22:20:06 +0000",
+      "minecraft:swamp": "2025-05-24 16:04:53 +0000",
       "minecraft:plains": "2025-05-23 22:11:58 +0000"
     },
     "done": false
@@ -1941,6 +1948,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-05-24 16:06:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2025-05-23 22:11:58 +0000"
@@ -1956,6 +1969,12 @@
   "vampirism:recipes/vampirism/weapontable/crucifix_ultimate": {
     "criteria": {
       "gold": "2025-05-23 22:36:51 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-24 15:56:19 +0000"
     },
     "done": true
   },
@@ -3487,6 +3506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-24 16:03:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-23 22:39:38 +0000"
@@ -3904,6 +3929,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-05-24 15:56:19 +0000"
     },
     "done": true
   },
