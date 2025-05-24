@@ -513,3 +513,58 @@ java.lang.NullPointerException: null
 [24May2025 20:54:26.100] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
 [24May2025 20:54:26.533] [Server thread/INFO] [explorerscompass/]: Search succeeded: 1930 radius, 9729 samples
 [24May2025 20:54:46.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[24May2025 20:55:02.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to capibaramcj]
+[24May2025 20:55:04.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
+[24May2025 20:55:11.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to pngadeeber21]
+[24May2025 20:55:16.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to Prime9977]
+[24May2025 20:55:28.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> q fuee
+[24May2025 20:55:31.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Ender Distancing]
+[24May2025 20:55:33.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Race Against The Clock]
+[24May2025 20:55:42.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Capsid-19]
+[24May2025 20:55:58.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 20:56:20.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Capsid-19]
+[24May2025 20:57:30.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has reached the goal [Half a flight]
+[24May2025 20:57:39.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 20:58:31.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [A Ruined Citadel]
+[24May2025 20:59:01.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Palette Swap]
+[24May2025 20:59:23.700] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TheTrimax lost connection: Disconnected
+[24May2025 20:59:23.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax left the game
+[24May2025 20:59:26.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to Prime9977]
+[24May2025 20:59:32.569] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2d92ca6c
+[24May2025 20:59:32.577] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TheTrimax[/127.204.212.124:43587] logged in with entity id 38371 at (161.7238653908691, 43.348092296770645, -287.873455668647)
+[24May2025 20:59:32.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax joined the game
+[24May2025 20:59:32.594] [Server thread/INFO] [Waila/]: Syncing config to TheTrimax (f3f574d6-b28a-36f8-b4ef-d285bf2bcc2c)
+[24May2025 20:59:35.485] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TheTrimax lost connection: Disconnected
+[24May2025 20:59:35.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax left the game
+[24May2025 20:59:36.112] [Server thread/WARN] [tombstone/]: The death event of the player leonardo412351 was canceled by another mod
+[24May2025 20:59:36.114] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[24May2025 20:59:36.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [Your First Receptacle]
+[24May2025 20:59:37.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 died because of Prime9977
+[24May2025 20:59:37.875] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[24May2025 20:59:43.928] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@265d7ccb
+[24May2025 20:59:43.936] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TheTrimax[/127.204.212.124:33455] logged in with entity id 38856 at (161.7238653908691, 43.348092296770645, -287.873455668647)
+[24May2025 20:59:43.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax joined the game
+[24May2025 20:59:43.957] [Server thread/INFO] [Waila/]: Syncing config to TheTrimax (f3f574d6-b28a-36f8-b4ef-d285bf2bcc2c)
+[24May2025 21:00:08.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to Prime9977]
+[24May2025 21:00:26.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Bounty Box]
+[24May2025 21:00:26.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has completed the challenge [Socialised Loot]
+[24May2025 21:01:57.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Will it Come Back?]
+[24May2025 21:02:03.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> viciados d mr
+[24May2025 21:02:08.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> Xd
+[24May2025 21:02:21.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> yaa
+[24May2025 21:02:24.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> tepeen
+[24May2025 21:02:29.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> ahi entro al caanal de voz
+[24May2025 21:02:40.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> estan en el end estos ñungis
+[24May2025 21:02:41.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has completed the challenge [Was that Shulker?]
+[24May2025 21:02:47.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> sumare
+[24May2025 21:03:17.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> tepea
+[24May2025 21:03:32.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to capibaramcj]
+[24May2025 21:03:32.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [A Ruined Citadel]
+[24May2025 21:03:42.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
+[24May2025 21:03:42.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [A Ruined Citadel]
+[24May2025 21:04:17.721] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
+[24May2025 21:04:17.723] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 21:04:19.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of capibaramcj
+[24May2025 21:04:19.178] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 21:04:44.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
+[24May2025 21:04:54.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [Close Quarters]

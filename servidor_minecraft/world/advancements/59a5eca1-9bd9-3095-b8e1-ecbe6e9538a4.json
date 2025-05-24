@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-05-24 21:03:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 22:56:35 +0000"
@@ -981,6 +987,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-05-24 20:55:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:23:37 +0000"
@@ -1684,6 +1696,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:23:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "trig": "2025-05-24 20:55:42 +0000"
     },
     "done": true
   },
@@ -5587,6 +5605,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/halberd_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:19:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-05-24 20:55:33 +0000"
     },
     "done": true
   },

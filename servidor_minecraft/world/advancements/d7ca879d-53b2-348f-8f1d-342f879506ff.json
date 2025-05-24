@@ -531,6 +531,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-05-24 20:59:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/club_wood": {
     "criteria": {
       "has_wood_log": "2025-05-23 22:51:59 +0000"
@@ -1233,6 +1239,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_amulet": "2025-05-24 21:03:01 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:52:33 +0000"
@@ -1356,6 +1368,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 23:40:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_amulet": "2025-05-24 21:03:01 +0000"
     },
     "done": true
   },

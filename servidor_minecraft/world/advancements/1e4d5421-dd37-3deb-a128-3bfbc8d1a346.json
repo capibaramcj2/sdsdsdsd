@@ -335,6 +335,12 @@
     },
     "done": false
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-05-24 21:03:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:34:40 +0000"
@@ -2544,6 +2550,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/scythe_silver": {
     "criteria": {
       "has_silver_ingot": "2025-05-23 23:25:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "trig": "2025-05-24 20:56:20 +0000"
     },
     "done": true
   },

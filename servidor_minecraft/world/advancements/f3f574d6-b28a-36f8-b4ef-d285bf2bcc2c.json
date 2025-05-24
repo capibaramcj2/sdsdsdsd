@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-05-24 20:58:52 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_monster_room": "2025-05-24 20:53:05 +0000"
@@ -341,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-24 21:03:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2025-05-24 20:20:30 +0000"
@@ -365,15 +377,15 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-05-24 20:50:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-24 20:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-24 20:50:30 +0000"
     },
     "done": true
   },
@@ -601,6 +613,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/brewing/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/lance_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-24 20:31:03 +0000"
@@ -610,6 +628,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-24 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-24 21:01:10 +0000"
     },
     "done": true
   },
@@ -640,6 +664,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-24 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-24 21:03:38 +0000"
     },
     "done": true
   },
@@ -709,6 +739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-24 21:01:10 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 20:31:03 +0000"
@@ -772,6 +808,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-05-24 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-05-24 20:57:51 +0000"
     },
     "done": true
   },
@@ -997,6 +1039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-24 21:01:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_shovel": "2025-05-24 20:26:14 +0000"
@@ -1071,6 +1119,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-05-24 20:54:59 +0000",
       "minecraft:taiga": "2025-05-24 20:22:04 +0000",
       "minecraft:taiga_hills": "2025-05-24 20:48:33 +0000",
       "minecraft:beach": "2025-05-24 20:42:47 +0000",
@@ -1192,21 +1241,27 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.modded/battleaxe_silver": {
-    "criteria": {
-      "has_silver_ingot": "2025-05-24 20:49:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-24 20:49:04 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/battleaxe_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-24 20:49:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-24 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-05-24 21:03:38 +0000"
     },
     "done": true
   },
@@ -1480,6 +1535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-24 21:01:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 20:31:03 +0000"
@@ -1501,6 +1562,18 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-05-24 20:25:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-24 21:02:14 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_ingot_blasting": {
+    "criteria": {
+      "has_item": "2025-05-24 20:57:51 +0000"
     },
     "done": true
   },
@@ -1595,6 +1668,12 @@
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-05-24 20:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-24 21:01:10 +0000"
     },
     "done": true
   },
@@ -1778,6 +1857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-24 21:01:10 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/grout": {
     "criteria": {
       "has_item": "2025-05-24 20:31:27 +0000"
@@ -1922,6 +2007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-24 21:01:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-24 20:26:14 +0000"
@@ -2003,6 +2094,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-24 20:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-24 21:01:10 +0000"
     },
     "done": true
   },
@@ -2108,15 +2205,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.modded/rapier_silver": {
-    "criteria": {
-      "has_silver_ingot": "2025-05-24 20:49:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-24 20:49:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/rapier_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-24 20:49:22 +0000"
     },
     "done": true
   },
@@ -2258,6 +2355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-24 21:01:10 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-24 20:49:07 +0000"
@@ -2372,6 +2475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-05-24 20:58:52 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/blood_container": {
     "criteria": {
       "has_iron": "2025-05-24 20:31:03 +0000"
@@ -2387,6 +2496,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/spear_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-24 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-24 21:02:14 +0000"
     },
     "done": true
   },
@@ -2555,6 +2670,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-24 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-05-24 21:01:10 +0000"
     },
     "done": true
   },
