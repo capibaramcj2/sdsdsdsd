@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-24 00:31:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-05-24 00:12:29 +0000"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-05-24 00:31:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/boomerang_silver": {
     "criteria": {
       "has_silver_ingot": "2025-05-23 23:10:01 +0000"
@@ -356,6 +368,12 @@
   "vampirism:main/root": {
     "criteria": {
       "main": "2025-05-23 22:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-24 00:21:11 +0000"
     },
     "done": true
   },
@@ -999,6 +1017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-05-24 00:29:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/dagger_silver": {
     "criteria": {
       "has_silver_ingot": "2025-05-23 23:10:01 +0000"
@@ -1074,6 +1098,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:26:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-05-24 00:31:40 +0000"
     },
     "done": true
   },
@@ -1840,6 +1870,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/itemfinder": {
+    "criteria": {
+      "has_item": "2025-05-24 00:31:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
     "criteria": {
       "has_stick": "2025-05-23 22:19:21 +0000"
@@ -1855,6 +1891,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-05-23 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 00:28:27 +0000"
     },
     "done": true
   },
@@ -2123,6 +2165,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 00:23:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-23 22:15:07 +0000"
@@ -2327,6 +2375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-24 00:31:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 23:13:27 +0000"
@@ -2348,6 +2402,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-05-23 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-24 00:31:40 +0000"
     },
     "done": true
   },
@@ -2426,6 +2486,12 @@
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-05-23 22:15:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-05-24 00:21:11 +0000"
     },
     "done": true
   },

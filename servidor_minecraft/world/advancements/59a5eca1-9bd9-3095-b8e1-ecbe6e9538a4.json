@@ -922,6 +922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-24 00:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-05-23 22:19:25 +0000"
@@ -1806,6 +1812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-05-24 00:28:15 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-05-23 22:17:55 +0000"
@@ -2343,7 +2355,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-23 22:26:42 +0000",
-      "mutton": "2025-05-23 22:22:56 +0000"
+      "mutton": "2025-05-23 22:22:56 +0000",
+      "golden_apple": "2025-05-24 00:24:28 +0000"
     },
     "done": false
   },
