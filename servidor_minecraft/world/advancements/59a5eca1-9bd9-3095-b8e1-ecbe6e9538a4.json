@@ -1858,6 +1858,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-05-24 15:37:11 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mushroom_10": {
     "criteria": {
       "has_item": "2025-05-23 22:38:15 +0000"
@@ -3453,8 +3459,10 @@
       "minecraft:mountains": "2025-05-23 22:31:39 +0000",
       "minecraft:taiga": "2025-05-23 22:21:32 +0000",
       "minecraft:taiga_hills": "2025-05-24 01:43:59 +0000",
+      "minecraft:birch_forest": "2025-05-24 15:41:05 +0000",
       "minecraft:beach": "2025-05-23 22:22:38 +0000",
       "minecraft:river": "2025-05-23 22:20:33 +0000",
+      "minecraft:birch_forest_hills": "2025-05-24 15:41:17 +0000",
       "minecraft:wooded_mountains": "2025-05-23 22:31:43 +0000",
       "minecraft:wooded_hills": "2025-05-23 22:18:55 +0000",
       "minecraft:plains": "2025-05-23 22:18:41 +0000"

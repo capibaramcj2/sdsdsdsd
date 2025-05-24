@@ -4047,3 +4047,108 @@ java.lang.NullPointerException: null
 [24May2025 15:38:40.677] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to mdbeec05$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
 [24May2025 15:38:40.686] [Worker-Main-4/DEBUG] [mixin/]: Mixing AssemblerMixin from vampirism.mixins.core.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
 [24May2025 15:38:45.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5213ms or 104 ticks behind
+[24May2025 15:39:04.690] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1186, y=16, z=1365} but found not block entity block Block{minecraft:stone} at location
+[24May2025 15:39:04.690] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1186, y=16, z=1365}
+[24May2025 15:39:04.690] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1192, y=16, z=1363} but found not block entity block Block{minecraft:stone} at location
+[24May2025 15:39:04.690] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1192, y=16, z=1363}
+[24May2025 15:39:04.753] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1209, y=24, z=1362} but found not block entity block Block{minecraft:dirt} at location
+[24May2025 15:39:04.754] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=1209, y=24, z=1362}
+[24May2025 15:39:06.829] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 15:39:06.829] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:39:17.716] [Worker-Main-14/DEBUG] [betterdungeons/]: Skeleton Dungeon at 889 13 1607
+[24May2025 15:39:18.288] [Worker-Main-14/DEBUG] [betterdungeons/]: Small Dungeon at 989 10 1613
+[24May2025 15:39:25.419] [Worker-Main-15/DEBUG] [betterdungeons/]: Zombie Dungeon at 807 49 1623
+[24May2025 15:39:29.043] [Worker-Main-14/DEBUG] [betterdungeons/]: Small Dungeon at 1153 32 1633
+[24May2025 15:39:29.047] [Worker-Main-15/DEBUG] [betterdungeons/]: Small Dungeon at 807 25 1629
+[24May2025 15:39:30.523] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:platypus
+[24May2025 15:39:33.034] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at 1293 14 1649
+[24May2025 15:39:52.438] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:39:53.469] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.62 and blood value 15 for entity iceandfire:hippogryph
+[24May2025 15:39:53.792] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:39:55.032] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:39:56.988] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24May2025 15:39:57.000] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24May2025 15:40:07.743] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:40:08.932] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:40:11.741] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:40:14.241] [Worker-Main-14/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (1108 | 49 | 1620).
+[24May2025 15:40:14.243] [Worker-Main-14/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[24May2025 15:40:14.245] [Worker-Main-14/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 7(0) Nodes and 5(0) Rooms
+[24May2025 15:40:14.245] [Worker-Main-14/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[24May2025 15:40:14.246] [Worker-Main-14/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 9(0) Nodes and 7(0) Rooms
+[24May2025 15:40:14.246] [Worker-Main-14/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[24May2025 15:40:14.246] [Worker-Main-14/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 9(1) Nodes and 6(0) Rooms
+[24May2025 15:40:14.246] [Worker-Main-14/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[24May2025 15:40:14.247] [Worker-Main-14/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 11(3) Nodes and 6(0) Rooms
+[24May2025 15:40:14.247] [Worker-Main-14/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[24May2025 15:40:14.247] [Worker-Main-14/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 8(0) Rooms
+[24May2025 15:40:14.252] [Worker-Main-14/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [74, 106] with a total of 387 pieces.
+[24May2025 15:40:15.380] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.24 and blood value 0 for entity alexsmobs:bald_eagle
+[24May2025 15:40:18.836] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at 1463 17 1645
+[24May2025 15:40:18.837] [Worker-Main-4/DEBUG] [betterdungeons/]: Spider Dungeon at 1438 42 1658
+[24May2025 15:40:22.559] [Worker-Main-15/DEBUG] [betterdungeons/]: Spider Dungeon at 801 47 1706
+[24May2025 15:40:27.281] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:40:32.288] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:40:34.386] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 15:40:34.386] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:40:36.435] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:40:42.278] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:40:44.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:40:45.415] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 15:40:45.482] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 15:40:46.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj died because of Giddy Blaze
+[24May2025 15:40:46.940] [Server thread/DEBUG] [tombstone/]: A new grave of the player capibaramcj was created at position [x:207, y:37, z:256, dim:minecraft:the_nether]
+[24May2025 15:40:46.941] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 15:40:48.309] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: capibaramcj has new faction level vampirism:vampire 4
+[24May2025 15:40:48.322] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 15:40:48.322] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 15:40:53.395] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at 1655 47 1655
+[24May2025 15:41:04.716] [Worker-Main-4/DEBUG] [betterdungeons/]: Skeleton Dungeon at 1673 28 1527
+[24May2025 15:41:24.665] [Worker-Main-14/DEBUG] [betterdungeons/]: Small Dungeon at 1805 16 1597
+[24May2025 15:41:36.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to 244.5, 65.5, -894.5]
+[24May2025 15:41:43.239] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 15:41:43.240] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 15:41:51.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to 207.5, 37.5, 256.5]
+[24May2025 15:41:55.430] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:41:56.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:41:56.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:44:19.787] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:44:20.087] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:44:20.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:44:21.845] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:44:22.595] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:44:49.398] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 15:44:49.398] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:44:49.398] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 15:44:51.878] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:44:52.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:44:57.081] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24May2025 15:44:57.092] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24May2025 15:46:09.484] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj moved too quickly! 4.443936934030148,-3.1799525249651452,8.509521956311232
+[24May2025 15:46:38.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 15:46:38.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:46:38.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 15:46:38.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:32.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:32.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Straddle My Ol' Saddle]
+[24May2025 15:47:34.338] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:34.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:35.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:35.741] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:36.187] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:36.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:40.075] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:40.481] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:40.631] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:41.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:41.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:41.627] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:42.285] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:48.075] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:48.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:50.282] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 15:47:50.282] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:50.283] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 15:47:56.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 15:47:56.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 15:47:56.782] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
