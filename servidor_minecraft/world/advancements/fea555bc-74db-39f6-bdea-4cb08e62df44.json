@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:21:12 +0000"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-05-23 23:27:35 +0000"
@@ -77,6 +89,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-05-23 22:35:29 +0000"
@@ -92,6 +116,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-05-23 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
     },
     "done": true
   },
@@ -329,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-05-23 22:20:49 +0000"
@@ -347,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-23 22:11:58 +0000"
@@ -362,6 +404,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2025-05-23 22:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
     },
     "done": true
   },
@@ -422,6 +470,18 @@
   "vampirism:recipes/vampirism/vampire/blood_infused_iron_ingot": {
     "criteria": {
       "has_iron": "2025-05-23 22:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
     },
     "done": true
   },
@@ -539,6 +599,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-23 22:39:42 +0000"
@@ -560,6 +626,12 @@
       "minecraft:zombie": "2025-05-23 22:23:02 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-24 00:04:01 +0000"
+    },
+    "done": true
   },
   "vampirism:recipes/vampirism/hunter/item_med_chair": {
     "criteria": {
@@ -600,6 +672,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pike_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
     },
     "done": true
   },
@@ -705,9 +783,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-05-23 22:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
     },
     "done": true
   },
@@ -726,6 +816,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:21:12 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-05-24 00:06:45 +0000"
     },
     "done": true
   },
@@ -792,6 +888,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-23 23:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
     },
     "done": true
   },
@@ -873,6 +975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-23 22:40:13 +0000"
@@ -891,9 +999,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/injection_0": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-23 22:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
     },
     "done": true
   },
@@ -972,6 +1092,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-23 23:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
     },
     "done": true
   },
@@ -1071,6 +1197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-05-23 22:26:31 +0000"
@@ -1146,6 +1278,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:26:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_amulet": "2025-05-23 23:59:17 +0000"
     },
     "done": true
   },
@@ -1252,6 +1390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-23 22:35:29 +0000"
@@ -1273,6 +1417,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/hammer_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
     },
     "done": true
   },
@@ -1462,6 +1612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-05-23 23:34:40 +0000"
@@ -1555,6 +1711,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/dagger_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 23:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
     },
     "done": true
   },
@@ -1727,6 +1895,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/brewing/common/glass/vanilla/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2025-05-23 23:13:27 +0000"
@@ -1775,6 +1949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/altar_inspiration": {
     "criteria": {
       "has_planks": "2025-05-23 22:19:15 +0000"
@@ -1796,6 +1976,12 @@
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-05-23 23:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
     },
     "done": true
   },
@@ -1826,6 +2012,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-23 23:52:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
     },
     "done": true
   },
@@ -1979,6 +2171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-23 22:39:38 +0000"
@@ -1994,6 +2192,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/dagger_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
     },
     "done": true
   },
@@ -2117,6 +2321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/saber_silver": {
     "criteria": {
       "has_silver_ingot": "2025-05-23 23:10:01 +0000"
@@ -2138,6 +2348,12 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-05-23 23:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
     },
     "done": true
   },
@@ -2186,6 +2402,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/quarterstaff_silver": {
     "criteria": {
       "has_silver_ingot": "2025-05-23 23:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
     },
     "done": true
   },
@@ -2315,6 +2537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/halberd_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:19:15 +0000"
@@ -2369,6 +2597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/quiver_arrow_small": {
     "criteria": {
       "has_arrow": "2025-05-23 22:42:09 +0000"
@@ -2378,6 +2612,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-05-23 23:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
     },
     "done": true
   },
@@ -2462,6 +2702,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-23 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_amulet": "2025-05-23 23:59:17 +0000"
     },
     "done": true
   },
@@ -2798,6 +3044,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-23 22:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-23 23:58:26 +0000"
     },
     "done": true
   },
