@@ -235,3 +235,4 @@ java.lang.NullPointerException: null
 [24May2025 01:50:51.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Who You Gonna Call?]
 [24May2025 01:51:14.241] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1101, y=64, z=900} BlockPos{x=1100, y=62, z=900}
 [24May2025 01:52:35.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [A Bigger Blade]
+[24May2025 02:09:50.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [What a Deal!]
