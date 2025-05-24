@@ -436,3 +436,35 @@ java.lang.NullPointerException: null
 [24May2025 16:59:14.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has reached the goal [A Fast Comeback]
 [24May2025 17:00:37.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Ice Bucket Challenge]
 [24May2025 17:01:08.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to leonardo412351]
+[24May2025 17:01:37.479] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 17:01:37.482] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 17:01:38.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj died because of leonardo412351
+[24May2025 17:01:38.802] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 17:01:40.073] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 17:01:40.074] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 17:01:43.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to leonardo412351]
+[24May2025 17:02:19.177] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 17:02:19.179] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 17:02:21.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj died because of leonardo412351
+[24May2025 17:02:21.778] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 17:02:22.985] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 17:02:22.985] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 17:02:25.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to leonardo412351]
+[24May2025 17:03:48.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has reached the goal [Bone Crusher]
+[24May2025 17:03:54.891] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 17:03:54.893] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 17:03:56.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj died because of leonardo412351
+[24May2025 17:03:56.658] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 17:03:57.937] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 17:03:57.937] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 17:03:59.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to leonardo412351]
+[24May2025 17:04:10.605] [Server thread/WARN] [tombstone/]: The death event of the player leonardo412351 was canceled by another mod
+[24May2025 17:04:10.642] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[24May2025 17:04:34.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to leonardo412351]
+[24May2025 17:04:37.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to capibaramcj]
+[24May2025 17:04:44.931] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Disconnected
+[24May2025 17:04:44.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
+[24May2025 17:09:03.488] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-55, y=93, z=-72} BlockPos{x=-56, y=94, z=-72}
+[24May2025 17:09:03.572] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-55, y=93, z=-72} BlockPos{x=-56, y=94, z=-72}
+[24May2025 17:09:03.588] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-55, y=92, z=-72} BlockPos{x=-56, y=94, z=-72}
+[24May2025 17:09:52.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Into Fire]

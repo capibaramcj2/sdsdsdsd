@@ -763,6 +763,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "sky": "2025-05-24 17:01:43 +0000",
       "earth": "2025-05-24 16:38:04 +0000"
     },
     "done": false
@@ -841,6 +842,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-05-24 17:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-24 16:54:02 +0000"
@@ -898,6 +905,7 @@
       "minecraft:piglin_brute": "2025-05-24 15:51:49 +0000",
       "minecraft:witch": "2025-05-23 22:43:25 +0000",
       "minecraft:piglin": "2025-05-24 01:15:31 +0000",
+      "minecraft:stray": "2025-05-24 17:03:48 +0000",
       "minecraft:zombie": "2025-05-23 22:23:02 +0000"
     },
     "done": false
@@ -2529,6 +2537,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 17:03:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-05-23 22:36:17 +0000"
@@ -3298,6 +3312,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/sky": {
+    "criteria": {
+      "has_item": "2025-05-24 17:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-05-24 16:38:04 +0000"
@@ -4060,6 +4080,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-05-24 17:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-24 00:45:07 +0000"
@@ -4123,6 +4149,12 @@
   "tconstruct:recipes/tconstruct/general/tools/modifiers/silky_cloth": {
     "criteria": {
       "has_item": "2025-05-23 23:13:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-05-24 17:01:43 +0000"
     },
     "done": true
   },
@@ -4423,6 +4455,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-23 22:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/sky": {
+    "criteria": {
+      "has_item": "2025-05-24 17:01:43 +0000"
     },
     "done": true
   },
