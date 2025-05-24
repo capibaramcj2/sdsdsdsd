@@ -23,3 +23,6 @@
 [24May2025 00:07:05.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valorxnt has made the advancement [Barrel Booty]
 [24May2025 00:09:27.768] [Server thread/WARN] [tombstone/]: The death event of the player Valorxnt was canceled by another mod
 [24May2025 00:09:27.770] [Server thread/INFO] [tombstone/]: The player Valorxnt has successfully been saved
+[24May2025 00:12:00.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Valorxnt was shot by Mutant Skeleton
+[24May2025 00:12:00.632] [Server thread/INFO] [tombstone/]: The player Valorxnt has successfully been saved
+[24May2025 00:12:02.413] [Server thread/WARN] [de.teamlapen.vampirism.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 7929

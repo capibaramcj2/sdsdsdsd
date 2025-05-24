@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-05-24 00:12:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-23 23:57:21 +0000"
@@ -98,6 +104,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-24 00:12:29 +0000"
     },
     "done": true
   },
@@ -176,6 +188,12 @@
   "vampirism:recipes/vampirism/hunter/cross": {
     "criteria": {
       "has_planks": "2025-05-23 22:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-05-24 00:12:29 +0000"
     },
     "done": true
   },
@@ -488,6 +506,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/club_wood": {
     "criteria": {
       "has_wood_log": "2025-05-23 22:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-24 00:10:47 +0000"
     },
     "done": true
   },
@@ -957,6 +981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-24 00:10:47 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-05-23 22:11:58 +0000"
@@ -1170,6 +1200,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-05-23 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-24 00:12:29 +0000"
     },
     "done": true
   },
@@ -1744,6 +1780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-24 00:15:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 23:13:27 +0000"
@@ -2267,6 +2309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-05-24 00:12:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:26:24 +0000"
@@ -2312,6 +2360,12 @@
   "farmersdelight:recipes/farmersdelight/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-05-23 23:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-24 00:12:29 +0000"
     },
     "done": true
   },
@@ -2444,6 +2498,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-05-23 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-24 00:12:29 +0000"
     },
     "done": true
   },
@@ -2624,6 +2684,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-05-23 22:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-24 00:12:29 +0000"
     },
     "done": true
   },
@@ -2999,6 +3065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-24 00:12:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/barbecue_stick": {
     "criteria": {
       "has_cooked_beef": "2025-05-23 22:38:12 +0000"
@@ -3050,6 +3122,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-23 23:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2025-05-24 00:15:07 +0000"
     },
     "done": true
   },
