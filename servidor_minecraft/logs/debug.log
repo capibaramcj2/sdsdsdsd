@@ -10961,3 +10961,284 @@ java.lang.NullPointerException: null
 [24May2025 14:11:06.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
 [24May2025 14:11:06.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [24May2025 14:11:06.877] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:11:49.694] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 14:11:49.706] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 14:12:20.729] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24May2025 14:12:20.739] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24May2025 14:13:30.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Tip of the Spear]
+[24May2025 14:13:33.623] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:13:34.459] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:13:35.206] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:13:36.051] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:13:37.450] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:14:39.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Halberdier]
+[24May2025 14:14:42.213] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:14:43.558] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:14:44.736] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:14:44.736] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:44.737] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:14:44.752] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:46.017] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:14:46.017] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:14:46.017] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:46.018] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:14:46.018] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:47.355] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:14:47.356] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:14:47.356] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:47.356] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:14:47.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:48.563] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:14:50.953] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:14:50.953] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:50.953] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:14:51.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:14:51.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:51.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:14:52.308] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:14:52.308] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:52.308] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:14:53.009] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:14:53.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:53.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:14:53.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:14:53.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:53.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:14:54.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:14:54.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:54.313] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:14:55.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:14:55.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:55.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:14:55.667] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:14:55.667] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:55.667] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:14:56.018] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:56.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:14:56.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:56.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:14:57.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:14:57.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:57.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:14:57.521] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:57.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:58.027] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:58.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:59.101] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:14:59.101] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:59.101] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:14:59.852] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:14:59.852] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:14:59.853] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:00.507] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:00.507] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:00.507] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:01.009] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:01.707] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:01.707] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:01.708] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:02.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:02.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:02.310] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:03.011] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:03.011] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:03.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:03.863] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:03.863] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:03.863] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:04.568] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:04.568] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:04.568] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:05.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:05.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:05.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:05.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:05.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:05.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:06.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:06.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:06.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:07.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:07.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:07.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:07.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:07.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:07.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:08.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:08.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:08.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:09.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:09.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:09.155] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:09.704] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:09.704] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:09.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:10.557] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:10.557] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:10.557] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:11.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:11.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:11.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:11.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:11.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:11.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:12.062] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=209, y=8, z=115} BlockPos{x=208, y=6, z=114}
+[24May2025 14:15:12.110] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=209, y=8, z=115} BlockPos{x=208, y=6, z=114}
+[24May2025 14:15:12.156] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=209, y=8, z=115} BlockPos{x=208, y=6, z=114}
+[24May2025 14:15:12.202] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=209, y=8, z=115} BlockPos{x=208, y=6, z=114}
+[24May2025 14:15:12.267] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=209, y=8, z=115} BlockPos{x=208, y=6, z=114}
+[24May2025 14:15:12.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:12.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:12.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:13.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:13.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:13.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:13.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:13.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:13.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:14.317] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:14.317] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:14.318] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:14.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:14.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:14.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:15.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:15.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:15.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:16.125] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:16.125] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:16.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:16.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:16.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:16.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:17.375] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:17.375] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:17.375] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:15:18.004] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:18.004] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:30.160] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:30.160] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:15:30.160] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:30.160] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:32.003] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:32.004] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:32.004] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:33.719] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:33.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:33.719] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:34.973] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:36.552] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:37.900] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:37.900] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:37.900] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:39.269] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:39.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:39.270] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:40.454] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:40.454] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:40.454] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:42.307] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:42.307] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:42.308] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:43.450] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:43.450] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:43.451] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:44.123] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:44.124] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:44.124] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:44.721] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:44.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:44.721] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:45.275] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:45.275] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:45.276] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:45.859] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:45.859] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:45.859] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:46.502] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:46.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:46.502] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:47.108] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:47.109] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:47.109] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:47.658] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:47.658] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:47.659] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:48.258] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:48.258] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:48.259] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:48.859] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:48.859] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:48.859] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:49.461] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:49.461] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:49.462] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:50.101] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:50.101] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:50.101] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:50.651] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:50.651] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:50.652] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:51.216] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:51.818] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:52.403] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:53.020] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:53.020] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:53.021] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:54.258] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:54.258] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:54.258] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:54.798] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:54.798] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:54.799] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:55.454] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:55.455] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:55.455] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:56.099] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:56.099] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:56.099] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:56.703] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:56.703] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:56.703] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:57.258] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:57.259] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:57.259] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:57.854] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:57.854] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:57.854] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:58.455] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:58.455] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:58.456] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:59.103] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:59.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:59.103] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:15:59.701] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:15:59.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:15:59.701] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:16:00.315] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:16:00.315] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:16:00.315] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:16:00.865] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:16:00.865] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:16:00.866] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:16:01.469] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:16:01.469] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:16:01.469] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:16:02.051] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:16:02.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:16:02.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has completed the challenge [The broken Nether's war machine]
+[24May2025 14:16:02.052] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:16:08.705] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Netherite Monstrosity
+[24May2025 14:16:08.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:16:08.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:16:08.706] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[24May2025 14:16:08.714] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:16:10.129] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 14:16:10.130] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 14:17:20.672] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24May2025 14:17:20.682] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24May2025 14:17:44.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> ya capigampi as caso
+[24May2025 14:17:53.552] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Disconnected
+[24May2025 14:17:53.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
+[24May2025 14:20:24.654] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=192, y=14, z=51} BlockPos{x=193, y=14, z=51}
+[24May2025 14:20:24.701] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=192, y=14, z=51} BlockPos{x=193, y=14, z=51}

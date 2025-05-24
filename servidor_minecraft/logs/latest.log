@@ -350,3 +350,20 @@ java.lang.NullPointerException: null
 [24May2025 14:09:37.358] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
 [24May2025 14:09:37.481] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
 [24May2025 14:09:37.503] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:11:49.694] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 14:11:49.706] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 14:13:30.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Tip of the Spear]
+[24May2025 14:14:39.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Halberdier]
+[24May2025 14:15:12.062] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=209, y=8, z=115} BlockPos{x=208, y=6, z=114}
+[24May2025 14:15:12.110] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=209, y=8, z=115} BlockPos{x=208, y=6, z=114}
+[24May2025 14:15:12.156] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=209, y=8, z=115} BlockPos{x=208, y=6, z=114}
+[24May2025 14:15:12.202] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=209, y=8, z=115} BlockPos{x=208, y=6, z=114}
+[24May2025 14:15:12.267] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=209, y=8, z=115} BlockPos{x=208, y=6, z=114}
+[24May2025 14:16:02.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has completed the challenge [The broken Nether's war machine]
+[24May2025 14:16:10.129] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 14:16:10.130] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 14:17:44.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> ya capigampi as caso
+[24May2025 14:17:53.552] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Disconnected
+[24May2025 14:17:53.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
+[24May2025 14:20:24.654] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=192, y=14, z=51} BlockPos{x=193, y=14, z=51}
+[24May2025 14:20:24.701] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=192, y=14, z=51} BlockPos{x=193, y=14, z=51}

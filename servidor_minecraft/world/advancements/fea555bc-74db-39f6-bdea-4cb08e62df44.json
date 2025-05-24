@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_diamond": {
     "criteria": {
       "has_diamond": "2025-05-24 01:10:17 +0000"
@@ -305,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_skeleton_dungeon": "2025-05-24 00:53:32 +0000"
@@ -440,6 +452,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/saber_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
     },
     "done": true
   },
@@ -966,6 +984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-23 23:34:10 +0000"
@@ -1068,6 +1092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_wool": {
     "criteria": {
       "has_stick": "2025-05-23 22:19:21 +0000"
@@ -1167,6 +1197,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/tomahawk_silver": {
     "criteria": {
       "has_silver_ingot": "2025-05-23 23:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
     },
     "done": true
   },
@@ -1596,6 +1632,12 @@
     },
     "done": true
   },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "has_halberd": "2025-05-24 14:14:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-05-23 23:07:12 +0000"
@@ -1762,6 +1804,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-05-23 23:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
     },
     "done": true
   },
@@ -1961,6 +2009,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-23 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
     },
     "done": true
   },
@@ -2279,6 +2333,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
     "criteria": {
       "has_stick": "2025-05-23 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-05-24 14:16:02 +0000"
     },
     "done": true
   },
@@ -2817,6 +2877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2025-05-23 22:21:12 +0000"
@@ -3321,6 +3387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-23 22:36:17 +0000"
@@ -3543,6 +3615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-23 22:15:07 +0000"
@@ -3693,6 +3771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/spear_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:21:12 +0000"
@@ -3807,9 +3891,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/pattern": {
     "criteria": {
       "has_item": "2025-05-23 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
     },
     "done": true
   },
@@ -3903,6 +3999,12 @@
     },
     "done": true
   },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-05-24 14:13:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-05-24 00:55:24 +0000"
@@ -3984,6 +4086,12 @@
   "vampirism:recipes/vampirism/vampire/vampire_clothing_boots": {
     "criteria": {
       "has_heart": "2025-05-23 23:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 14:17:14 +0000"
     },
     "done": true
   },
