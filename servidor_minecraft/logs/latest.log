@@ -724,3 +724,30 @@ java.lang.NullPointerException: null
 [24May2025 18:43:00.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Blood Feeders' Home]
 [24May2025 18:43:06.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
 [24May2025 18:43:16.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 18:45:35.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
+[24May2025 18:45:37.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 18:45:45.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has reached the goal [Pray to the Goddess]
+[24May2025 18:46:41.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 18:47:12.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 18:47:19.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 18:47:31.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 18:48:22.880] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
+[24May2025 18:48:22.882] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 18:48:24.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of capibaramcj
+[24May2025 18:48:24.121] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 18:48:32.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
+[24May2025 18:48:42.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to leonardo412351]
+[24May2025 18:48:58.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 18:49:38.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [The Fourth Horseman]
+[24May2025 18:50:55.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to leonardo412351]
+[24May2025 18:50:57.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 18:51:17.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has completed the challenge [Subspace Bubble]
+[24May2025 18:51:17.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to leonardo412351]
+[24May2025 18:52:55.024] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:52:55.024] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 18:53:06.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has completed the challenge [Hot Tourist Destinations]
+[24May2025 18:53:06.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [A Terrible Fortress]
+[24May2025 18:53:36.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to 2.5, 51.5, -103.5]
+[24May2025 18:53:48.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to 158.5, 38.5, 166.5]
+[24May2025 18:54:38.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 18:54:49.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]

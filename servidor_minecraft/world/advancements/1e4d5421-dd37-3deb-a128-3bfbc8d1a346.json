@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-24 18:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-23 23:18:17 +0000"
@@ -212,6 +218,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-23 22:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-24 18:52:50 +0000"
     },
     "done": true
   },
@@ -1276,6 +1288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-24 18:52:50 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-05-23 22:14:53 +0000"
@@ -1698,8 +1716,10 @@
       "minecraft:taiga": "2025-05-23 22:18:13 +0000",
       "minecraft:desert_hills": "2025-05-24 18:20:39 +0000",
       "minecraft:giant_tree_taiga": "2025-05-24 16:39:01 +0000",
+      "minecraft:taiga_hills": "2025-05-24 18:48:23 +0000",
       "minecraft:desert": "2025-05-24 18:14:16 +0000",
       "minecraft:beach": "2025-05-23 22:22:29 +0000",
+      "minecraft:dark_forest": "2025-05-24 18:51:43 +0000",
       "minecraft:river": "2025-05-23 22:16:54 +0000",
       "minecraft:wooded_mountains": "2025-05-23 22:39:02 +0000",
       "minecraft:wooded_hills": "2025-05-23 22:20:31 +0000",
@@ -2455,9 +2475,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-24 18:52:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_netherite_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-24 17:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-05-24 18:51:17 +0000"
     },
     "done": true
   },
@@ -3331,6 +3363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-24 18:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-05-24 16:21:23 +0000"
@@ -3841,6 +3879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-24 18:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-05-24 17:41:11 +0000"
@@ -3994,6 +4038,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2025-05-24 16:46:53 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-05-24 18:45:45 +0000"
     },
     "done": true
   },
