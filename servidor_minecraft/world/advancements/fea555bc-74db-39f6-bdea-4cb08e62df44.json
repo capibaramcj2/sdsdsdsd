@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-24 16:54:02 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2025-05-23 22:15:07 +0000"
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-24 16:54:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-05-24 00:12:29 +0000"
@@ -290,6 +302,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-24 16:54:02 +0000"
     },
     "done": true
   },
@@ -362,6 +380,12 @@
   "vampirism:recipes/vampirism/general/throne": {
     "criteria": {
       "has_planks": "2025-05-23 22:19:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-05-24 16:50:44 +0000"
     },
     "done": true
   },
@@ -557,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-24 16:54:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:19:15 +0000"
@@ -584,6 +614,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 23:13:27 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-05-24 16:50:46 +0000"
     },
     "done": true
   },
@@ -802,6 +838,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-23 23:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-24 16:54:02 +0000"
     },
     "done": true
   },
@@ -1388,6 +1430,12 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-05-24 16:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-05-23 23:34:40 +0000"
@@ -1547,6 +1595,12 @@
   "paraglider:recipes/paraglider/paraglider": {
     "criteria": {
       "has_stick": "2025-05-23 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-24 16:54:02 +0000"
     },
     "done": true
   },
@@ -1730,6 +1784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-24 16:54:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-05-23 22:16:36 +0000",
@@ -1857,6 +1917,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-24 16:54:02 +0000"
     },
     "done": true
   },
@@ -2016,6 +2082,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 22:26:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_pink": {
+    "criteria": {
+      "has_item": "2025-05-24 16:50:46 +0000"
     },
     "done": true
   },
@@ -2259,6 +2331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-24 16:54:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-05-23 22:20:49 +0000"
@@ -2286,6 +2364,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-05-24 14:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-24 16:54:02 +0000"
     },
     "done": true
   },
@@ -2629,6 +2713,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-05-24 00:49:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flower_bag": {
+    "criteria": {
+      "has_item": "2025-05-24 16:50:46 +0000"
     },
     "done": true
   },
@@ -3430,6 +3520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-24 16:54:02 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-05-23 23:08:47 +0000"
@@ -3556,6 +3652,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-05-24 16:50:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_diamond": {
     "criteria": {
       "has_diamond": "2025-05-24 01:10:17 +0000"
@@ -3577,6 +3679,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-05-24 13:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-24 16:54:02 +0000"
     },
     "done": true
   },
@@ -3874,6 +3982,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-24 16:50:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/altar_tip": {
     "criteria": {
       "has_iron": "2025-05-23 22:26:24 +0000"
@@ -4054,6 +4168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-24 16:54:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/halberd_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:21:12 +0000"
@@ -4195,6 +4315,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-24 00:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-24 16:54:02 +0000"
     },
     "done": true
   },

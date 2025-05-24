@@ -3501,6 +3501,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 16:59:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-05-23 22:21:50 +0000"
@@ -3693,6 +3699,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_amulet": "2025-05-24 16:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-05-24 00:32:57 +0000"
@@ -3712,6 +3724,7 @@
       "minecraft:birch_forest_hills": "2025-05-24 15:41:17 +0000",
       "minecraft:wooded_mountains": "2025-05-23 22:31:43 +0000",
       "minecraft:wooded_hills": "2025-05-23 22:18:55 +0000",
+      "minecraft:swamp": "2025-05-24 16:52:47 +0000",
       "minecraft:plains": "2025-05-23 22:18:41 +0000"
     },
     "done": false
@@ -4432,6 +4445,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-24 16:59:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:19:43 +0000"
@@ -4927,6 +4946,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-23 22:19:30 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_amulet": "2025-05-24 16:57:44 +0000"
     },
     "done": true
   },
