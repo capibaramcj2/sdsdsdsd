@@ -1011,6 +1011,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-24 19:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2025-05-23 22:19:25 +0000"
@@ -1258,6 +1264,12 @@
       "minecraft:soul_sand_valley": "2025-05-24 14:02:49 +0000",
       "minecraft:warped_forest": "2025-05-24 17:35:56 +0000",
       "minecraft:basalt_deltas": "2025-05-24 17:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-24 19:21:54 +0000"
     },
     "done": true
   },
@@ -3175,6 +3187,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-24 19:21:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-23 22:24:05 +0000"
@@ -3766,6 +3784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-24 19:21:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-05-23 22:21:50 +0000"
@@ -3886,6 +3910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-24 19:21:54 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/pump": {
     "criteria": {
       "has_item": "2025-05-24 00:41:54 +0000"
@@ -3977,6 +4007,7 @@
       "minecraft:mountains": "2025-05-23 22:31:39 +0000",
       "minecraft:taiga": "2025-05-23 22:21:32 +0000",
       "minecraft:taiga_hills": "2025-05-24 01:43:59 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-24 19:21:01 +0000",
       "minecraft:birch_forest": "2025-05-24 15:41:05 +0000",
       "minecraft:beach": "2025-05-23 22:22:38 +0000",
       "minecraft:dark_forest": "2025-05-24 18:40:14 +0000",
@@ -4307,6 +4338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-24 19:21:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 22:56:35 +0000"
@@ -4607,6 +4644,12 @@
   "vampirism:recipes/vampirism/hunter/stake": {
     "criteria": {
       "has_sticks": "2025-05-23 22:19:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/prism": {
+    "criteria": {
+      "has_item": "2025-05-24 19:21:59 +0000"
     },
     "done": true
   },

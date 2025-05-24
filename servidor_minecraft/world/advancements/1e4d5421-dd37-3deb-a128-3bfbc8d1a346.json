@@ -623,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-24 19:22:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-05-23 22:41:48 +0000"
@@ -1725,6 +1731,7 @@
       "minecraft:giant_tree_taiga": "2025-05-24 16:39:01 +0000",
       "minecraft:taiga_hills": "2025-05-24 18:48:23 +0000",
       "minecraft:desert": "2025-05-24 18:14:16 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-24 19:21:33 +0000",
       "minecraft:beach": "2025-05-23 22:22:29 +0000",
       "minecraft:dark_forest": "2025-05-24 18:51:43 +0000",
       "minecraft:river": "2025-05-23 22:16:54 +0000",

@@ -830,3 +830,9 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
+[24May2025 19:16:07.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Prime9977> murio por caballero oscuro
+[24May2025 19:16:20.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> xd
+[24May2025 19:21:52.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Tie me to the Mast]
+[24May2025 19:23:06.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Sea? Not a Problem]
+[24May2025 19:25:42.917] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
+[24May2025 19:25:42.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
