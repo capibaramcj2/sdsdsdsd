@@ -1303,6 +1303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-24 20:12:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-05-24 14:03:18 +0000"
@@ -2329,6 +2335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-05-24 20:12:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-23 23:28:55 +0000"
@@ -2380,6 +2392,12 @@
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-05-23 23:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-24 20:12:06 +0000"
     },
     "done": true
   },
@@ -2986,6 +3004,7 @@
       "minecraft:piglin": "2025-05-24 01:15:31 +0000",
       "minecraft:stray": "2025-05-24 17:03:48 +0000",
       "minecraft:silverfish": "2025-05-24 18:11:29 +0000",
+      "minecraft:enderman": "2025-05-24 20:17:24 +0000",
       "minecraft:zombie": "2025-05-23 22:23:02 +0000"
     },
     "done": false
@@ -3125,6 +3144,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-05-24 15:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-24 20:12:02 +0000"
     },
     "done": true
   },
@@ -4416,9 +4441,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-24 20:12:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-24 18:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-24 20:12:06 +0000"
     },
     "done": true
   },
@@ -4827,6 +4864,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-24 20:12:02 +0000"
     },
     "done": true
   },

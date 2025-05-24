@@ -290,3 +290,26 @@ java.lang.NullPointerException: null
 [24May2025 20:13:21.317] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Trapped Chest'/12518, l='ServerLevel[world]', x=-7774.45, y=31.68, z=8388.53]
 [24May2025 20:13:21.317] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite Stairs'/12519, l='ServerLevel[world]', x=-7773.46, y=30.46, z=8387.59]
 [24May2025 20:13:21.317] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite Stairs'/12519, l='ServerLevel[world]', x=-7773.46, y=30.46, z=8387.59]
+[24May2025 20:15:27.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 20:16:12.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 20:16:13.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 20:16:38.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 20:17:11.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 20:17:19.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 20:20:30.864] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@71d4044d
+[24May2025 20:20:30.872] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TheTrimax[/127.204.212.124:38645] logged in with entity id 15152 at (-87.5, 66.0, -179.5)
+[24May2025 20:20:30.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax joined the game
+[24May2025 20:20:30.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Easter Egg Searcher]
+[24May2025 20:20:30.925] [Server thread/INFO] [Waila/]: Syncing config to TheTrimax (f3f574d6-b28a-36f8-b4ef-d285bf2bcc2c)
+[24May2025 20:20:30.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Ice and Fire]
+[24May2025 20:21:28.270] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj moved too quickly! -7.8245941962026,13.694859411058303,-2.659388981716212
+[24May2025 20:21:34.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Knowledge of Death]
+[24May2025 20:21:34.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Easter Food]
+[24May2025 20:21:34.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Alex's Mobs]
+[24May2025 20:21:39.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 20:22:18.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Prime9977> capiss
+[24May2025 20:22:19.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Prime9977> tepeame
+[24May2025 20:22:21.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Prime9977> a quispe
+[24May2025 20:22:25.022] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj moved too quickly! -0.5344143831891657,4.479338877713786,-9.298602626001784
+[24May2025 20:23:45.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 20:23:56.320] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj moved wrongly!
