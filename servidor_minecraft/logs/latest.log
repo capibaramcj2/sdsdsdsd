@@ -215,3 +215,20 @@ java.lang.NullPointerException: null
 [24May2025 01:32:46.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has reached the goal [Skyslime Island]
 [24May2025 01:38:15.690] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [24May2025 01:38:15.693] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24May2025 01:42:53.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Pic-A-Nic Basket?]
+[24May2025 01:43:28.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Sky of Beginning]
+[24May2025 01:43:48.842] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1111, y=35, z=1017} but found not block entity block Block{minecraft:stone} at location
+[24May2025 01:43:48.842] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1111, y=35, z=1017}
+[24May2025 01:43:48.843] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1104, y=31, z=1014} but found not block entity block Block{minecraft:stone} at location
+[24May2025 01:43:48.843] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1104, y=31, z=1014}
+[24May2025 01:43:48.843] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1108, y=38, z=1007} but found not block entity block Block{minecraft:stone} at location
+[24May2025 01:43:48.844] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1108, y=38, z=1007}
+[24May2025 01:43:48.844] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1106, y=31, z=1007} but found not block entity block Block{minecraft:gravel} at location
+[24May2025 01:43:48.844] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:gravel} but failed at location BlockPos{x=1106, y=31, z=1007}
+[24May2025 01:44:39.539] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 moved wrongly!
+[24May2025 01:44:39.635] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=969, y=70, z=992} BlockPos{x=972, y=69, z=992}
+[24May2025 01:44:39.788] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=969, y=70, z=992} BlockPos{x=970, y=72, z=992}
+[24May2025 01:44:39.838] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=969, y=70, z=992} BlockPos{x=970, y=70, z=992}
+[24May2025 01:45:22.604] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1203, y=29, z=1185} but found not block entity block Block{minecraft:stone} at location
+[24May2025 01:45:22.604] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1203, y=29, z=1185}
+[24May2025 01:46:19.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Barrel Booty]
