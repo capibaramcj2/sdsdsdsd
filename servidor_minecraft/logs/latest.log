@@ -100,3 +100,13 @@
 [24May2025 01:01:39.801] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-32, y=53, z=91} BlockPos{x=-31, y=53, z=91}
 [24May2025 01:01:39.851] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-32, y=53, z=91} BlockPos{x=-31, y=53, z=91}
 [24May2025 01:01:58.204] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-37, y=37, z=92} BlockPos{x=-37, y=35, z=92}
+[24May2025 01:02:48.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Hidden in the Depths]
+[24May2025 01:03:00.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
+[24May2025 01:03:03.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 01:04:46.009] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-16, y=12, z=74} BlockPos{x=-16, y=11, z=76}
+[24May2025 01:05:04.353] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-21, y=12, z=68} BlockPos{x=-22, y=12, z=68}
+[24May2025 01:05:26.501] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-24, y=14, z=73} BlockPos{x=-24, y=13, z=72}
+[24May2025 01:05:32.363] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-24, y=16, z=79} BlockPos{x=-24, y=17, z=79}
+[24May2025 01:09:34.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[24May2025 01:10:14.753] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2, y=15, z=69} BlockPos{x=4, y=13, z=71}
+[24May2025 01:10:17.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Diamonds!]
