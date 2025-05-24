@@ -10901,3 +10901,63 @@ java.lang.NullPointerException: null
 [24May2025 13:57:58.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to capibaramcj]
 [24May2025 13:59:53.314] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@6d8fe20c (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
 [24May2025 13:59:53.314] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@53ee77eb (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 14:01:25.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [The blacksmith of the soul]
+[24May2025 14:01:31.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> manda tp
+[24May2025 14:02:21.157] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24May2025 14:02:21.165] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24May2025 14:02:26.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
+[24May2025 14:02:29.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 14:02:46.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
+[24May2025 14:02:47.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
+[24May2025 14:03:02.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
+[24May2025 14:03:06.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 14:03:18.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Hidden in the Depths]
+[24May2025 14:03:56.710] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=188, y=38, z=133} BlockPos{x=189, y=37, z=133}
+[24May2025 14:03:56.755] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=188, y=38, z=133} BlockPos{x=189, y=37, z=133}
+[24May2025 14:05:31.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
+[24May2025 14:05:32.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
+[24May2025 14:06:20.998] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 14:06:21.000] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 14:06:35.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj was incinerated by Netherite Monstrosity
+[24May2025 14:06:35.354] [Server thread/DEBUG] [tombstone/]: A new grave of the player capibaramcj was created at position [x:154, y:53, z:160, dim:minecraft:the_nether]
+[24May2025 14:06:35.357] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 14:06:37.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has reached the goal [Discreet Search]
+[24May2025 14:06:39.443] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: capibaramcj has new faction level vampirism:vampire 4
+[24May2025 14:06:39.454] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@6d8fe20c (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 14:06:39.454] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@53ee77eb (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 14:06:44.813] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@6d8fe20c (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 14:06:44.813] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@53ee77eb (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 14:07:20.859] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24May2025 14:07:20.869] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24May2025 14:09:36.360] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:36.412] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:36.452] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:36.631] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:36.652] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:36.660] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:36.804] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:36.852] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:36.853] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:36.853] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:37.018] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:37.111] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:37.130] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:37.152] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:37.307] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:37.310] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:37.326] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:37.354] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:37.358] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:37.481] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:09:37.503] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=230, y=11, z=133} BlockPos{x=232, y=15, z=134}
+[24May2025 14:10:16.660] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:10:17.256] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:10:17.664] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:10:19.875] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:10:20.421] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:11:06.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:11:06.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:11:06.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24May2025 14:11:06.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[24May2025 14:11:06.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24May2025 14:11:06.877] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
