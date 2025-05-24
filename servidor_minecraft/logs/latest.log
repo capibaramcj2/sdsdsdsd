@@ -468,3 +468,28 @@ java.lang.NullPointerException: null
 [24May2025 17:09:03.572] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-55, y=93, z=-72} BlockPos{x=-56, y=94, z=-72}
 [24May2025 17:09:03.588] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-55, y=92, z=-72} BlockPos{x=-56, y=94, z=-72}
 [24May2025 17:09:52.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Into Fire]
+[24May2025 17:12:47.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has completed the challenge [Cover Me in Debris]
+[24May2025 17:12:55.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> aprende gordo
+[24May2025 17:12:56.822] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
+[24May2025 17:12:56.825] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 17:12:58.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of Piglin
+[24May2025 17:12:58.491] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 17:13:55.027] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-16, y=66, z=87} BlockPos{x=-15, y=65, z=87}
+[24May2025 17:13:55.081] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-16, y=66, z=87} BlockPos{x=-15, y=65, z=87}
+[24May2025 17:14:13.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Prime9977> y como consigo esa wbd?
+[24May2025 17:14:20.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> tienes que tener full netherite
+[24May2025 17:14:30.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Prime9977> osea los lingotes?
+[24May2025 17:15:01.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> tienes esa webada para subir mas corazones
+[24May2025 17:15:02.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> ?
+[24May2025 17:15:04.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> avisame
+[24May2025 17:15:09.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> creo que estrba en la antigua base
+[24May2025 17:15:12.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> necesito urgente
+[24May2025 17:15:23.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Prime9977> espera que estoy recuperando mis cosas
+[24May2025 17:15:33.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> ya dale ahi voy tambien
+[24May2025 17:17:43.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 burned to ashes
+[24May2025 17:17:43.628] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 17:17:46.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> asu mare
+[24May2025 17:18:41.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has reached the goal [Chain Death]
+[24May2025 17:18:41.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 burned to ashes
+[24May2025 17:18:41.126] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
+[24May2025 17:22:13.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Nightmare Fuel]

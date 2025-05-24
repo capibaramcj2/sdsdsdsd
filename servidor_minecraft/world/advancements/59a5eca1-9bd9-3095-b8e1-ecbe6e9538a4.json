@@ -4169,6 +4169,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2025-05-24 17:16:23 +0000",
       "cooked_beef": "2025-05-23 22:26:42 +0000",
       "mutton": "2025-05-23 22:22:56 +0000",
       "golden_apple": "2025-05-24 00:24:28 +0000"
@@ -5114,6 +5115,12 @@
   "paraglider:recipes/paraglider/cosmetic/kakariko_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-05-23 22:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-05-24 17:12:47 +0000"
     },
     "done": true
   },
