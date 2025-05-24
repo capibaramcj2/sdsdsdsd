@@ -688,6 +688,12 @@
     },
     "done": true
   },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-05-24 21:15:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_diamond": {
     "criteria": {
       "has_diamond": "2025-05-23 22:41:49 +0000"

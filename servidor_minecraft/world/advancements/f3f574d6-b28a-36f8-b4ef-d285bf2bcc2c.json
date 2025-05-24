@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-24 21:15:14 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-05-24 20:25:59 +0000"
@@ -308,6 +314,12 @@
   "vampirism:main/root": {
     "criteria": {
       "second": "2025-05-24 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-24 21:15:14 +0000"
     },
     "done": true
   },
@@ -591,6 +603,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-24 20:28:13 +0000",
       "minecraft:spider": "2025-05-24 20:27:58 +0000",
+      "minecraft:stray": "2025-05-24 21:16:51 +0000",
       "minecraft:zombie": "2025-05-24 20:25:32 +0000"
     },
     "done": false
@@ -826,6 +839,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_wood": {
     "criteria": {
       "has_wood": "2025-05-24 20:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-24 21:22:04 +0000"
     },
     "done": true
   },
@@ -1069,6 +1088,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-24 21:15:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-05-24 20:31:40 +0000"
@@ -1129,6 +1154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-24 21:22:04 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/pump": {
     "criteria": {
       "has_item": "2025-05-24 21:06:46 +0000"
@@ -1174,6 +1205,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/katana_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-24 21:22:04 +0000"
     },
     "done": true
   },
@@ -1403,6 +1440,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-05-24 21:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2025-05-24 21:22:04 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/weapon_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-24 20:31:03 +0000"
@@ -1526,6 +1575,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-24 21:22:04 +0000"
     },
     "done": true
   },
@@ -1756,6 +1811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-24 21:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-24 20:30:40 +0000"
@@ -1828,6 +1889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-24 21:15:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-24 20:31:03 +0000"
@@ -1846,6 +1913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-24 21:15:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-24 20:26:14 +0000"
@@ -1861,6 +1934,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-05-24 20:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-24 21:22:04 +0000"
     },
     "done": true
   },
@@ -2338,6 +2417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-24 21:15:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-05-24 20:31:13 +0000"
@@ -2482,6 +2567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-05-24 21:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-05-24 20:49:07 +0000"
@@ -2500,6 +2591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-24 21:15:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
     "criteria": {
       "has_feather": "2025-05-24 20:26:14 +0000"
@@ -2509,6 +2606,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quiver_arrow_small": {
     "criteria": {
       "has_arrow": "2025-05-24 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-24 21:22:04 +0000"
     },
     "done": true
   },
@@ -2557,6 +2660,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-24 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-24 21:22:04 +0000"
     },
     "done": true
   },
@@ -2929,6 +3038,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-24 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-24 21:15:14 +0000"
     },
     "done": true
   },

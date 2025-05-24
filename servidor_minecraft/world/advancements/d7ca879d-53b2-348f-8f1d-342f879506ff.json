@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-05-24 21:17:16 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/cross": {
     "criteria": {
       "has_planks": "2025-05-23 22:52:33 +0000"
@@ -729,6 +735,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:shulker": "2025-05-24 21:22:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-24 21:11:12 +0000"
@@ -1125,6 +1137,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
+    "criteria": {
+      "has_bow": "2025-05-24 21:17:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/quiver_arrow_small": {
     "criteria": {
       "has_arrow": "2025-05-23 23:05:14 +0000"
@@ -1239,6 +1257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-05-24 21:18:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 23:40:49 +0000"
@@ -1317,6 +1341,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-24 21:16:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_wood": {
     "criteria": {
       "has_wood": "2025-05-23 22:52:33 +0000"
@@ -1350,6 +1380,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 23:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:shulker": "2025-05-24 21:22:01 +0000"
     },
     "done": true
   },
@@ -1523,6 +1559,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt_diamond": {
+    "criteria": {
+      "has_bow": "2025-05-24 21:17:22 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/alchemy_table/plant_oil": {
     "criteria": {
       "has_wheat_seeds": "2025-05-23 22:58:09 +0000"
@@ -1592,6 +1634,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-05-23 22:50:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-05-24 21:17:22 +0000"
     },
     "done": true
   },
@@ -1688,6 +1736,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-23 23:35:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-05-24 21:17:30 +0000"
     },
     "done": true
   },

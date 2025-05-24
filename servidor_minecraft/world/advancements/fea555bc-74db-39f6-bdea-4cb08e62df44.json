@@ -2745,6 +2745,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-05-24 21:19:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-24 16:54:02 +0000"
@@ -3379,6 +3385,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-05-24 21:20:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pike_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 23:13:27 +0000"
@@ -3751,6 +3763,12 @@
   "tombstone:adventure/easy_opening": {
     "criteria": {
       "coded_trigger": "2025-05-24 15:52:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-05-24 21:20:31 +0000"
     },
     "done": true
   },
@@ -4328,6 +4346,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_stone": {
     "criteria": {
       "has_cobblestone": "2025-05-23 22:21:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-24 21:20:15 +0000"
     },
     "done": true
   },
