@@ -379,3 +379,17 @@ java.lang.NullPointerException: null
 [24May2025 16:17:27.693] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
 [24May2025 16:18:00.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Bloody Stream]
 [24May2025 16:19:56.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set the time to 13000]
+[24May2025 16:24:28.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Bat Mode]
+[24May2025 16:25:02.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Guns and Roses]
+[24May2025 16:26:19.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Ambush]
+[24May2025 16:27:54.188] [Server thread/WARN] [tombstone/]: The death event of the player leonardo412351 was canceled by another mod
+[24May2025 16:27:54.193] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[24May2025 16:29:14.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set the time to 13000]
+[24May2025 16:29:55.338] [Server thread/WARN] [tombstone/]: The death event of the player capibaramcj was canceled by another mod
+[24May2025 16:29:55.341] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 16:29:56.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj died because of Mutant Skeleton
+[24May2025 16:29:56.629] [Server thread/INFO] [tombstone/]: The player capibaramcj has successfully been saved
+[24May2025 16:29:57.794] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@76844bfe (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 16:29:57.794] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@4bf05065 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[24May2025 16:30:18.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has completed the challenge [Centennial]
+[24May2025 16:30:18.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [A Strange Grave Dust]

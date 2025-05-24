@@ -2948,6 +2948,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-05-24 16:27:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-23 23:58:26 +0000"
