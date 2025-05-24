@@ -796,3 +796,37 @@ java.lang.NullPointerException: null
 [24May2025 19:05:01.343] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-8027, y=14, z=8421}
 [24May2025 19:05:01.343] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-8020, y=15, z=8420} but found not block entity block Block{minecraft:stone} at location
 [24May2025 19:05:01.343] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-8020, y=15, z=8420}
+[24May2025 19:05:36.035] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
+[24May2025 19:05:36.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
+[24May2025 19:06:08.328] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-7902, y=64, z=8537} BlockPos{x=-7902, y=62, z=8536}
+[24May2025 19:07:40.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Reaping What You Sow]
+[24May2025 19:08:49.180] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3a521621
+[24May2025 19:08:49.192] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:43087] logged in with entity id 115681 at (-7785.304631775808, 54.0, 8412.459150651517)
+[24May2025 19:08:49.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
+[24May2025 19:08:49.215] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
+[24May2025 19:11:44.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> -7780
+[24May2025 19:11:50.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> 8426
+[24May2025 19:15:43.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 did not like the sun
+[24May2025 19:15:43.441] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[24May2025 19:15:43.667] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
