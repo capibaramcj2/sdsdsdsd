@@ -279,3 +279,11 @@ java.lang.NullPointerException: null
 [25May2025 02:16:41.182] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
 [25May2025 02:20:27.596] [Server thread/WARN] [de.teamlapen.vampirism.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 8063
 [25May2025 02:25:00.487] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 moved too quickly! -8.265890724077849,-3.0330323890208604,-5.7564185816163445
+[25May2025 02:25:34.575] [Server thread/WARN] [tombstone/]: The death event of the player leonardo412351 was canceled by another mod
+[25May2025 02:25:34.581] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[25May2025 02:33:15.437] [Server thread/WARN] [tombstone/]: The death event of the player leonardo412351 was canceled by another mod
+[25May2025 02:33:15.439] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[25May2025 02:33:18.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 died because of Wither Skeleton
+[25May2025 02:33:18.387] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[25May2025 02:33:40.413] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/1985, l='ServerLevel[world]', x=-147.30, y=64.00, z=1893.18] died, message: 'Villager was slain by Zombie'
+[25May2025 02:34:11.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Yuck!]
