@@ -275,3 +275,7 @@ java.lang.NullPointerException: null
 [25May2025 02:13:30.237] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:37805] logged in with entity id 6092 at (-6.338733337252526, 90.37253258383986, 2032.1612211766924)
 [25May2025 02:13:30.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
 [25May2025 02:13:30.253] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
+[25May2025 02:14:40.501] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:beehive @ BlockPos{x=-49, y=64, z=2556}
+[25May2025 02:16:41.182] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[25May2025 02:20:27.596] [Server thread/WARN] [de.teamlapen.vampirism.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 8063
+[25May2025 02:25:00.487] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 moved too quickly! -8.265890724077849,-3.0330323890208604,-5.7564185816163445

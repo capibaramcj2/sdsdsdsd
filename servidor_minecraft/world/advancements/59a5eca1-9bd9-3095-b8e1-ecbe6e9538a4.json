@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-25 02:14:44 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/quartz_sunny": {
     "criteria": {
       "has_item": "2025-05-24 01:04:56 +0000"
@@ -4580,6 +4586,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-05-23 23:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2025-05-25 02:14:44 +0000"
     },
     "done": true
   },

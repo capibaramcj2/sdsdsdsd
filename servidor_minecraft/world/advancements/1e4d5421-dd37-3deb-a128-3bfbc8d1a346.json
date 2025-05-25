@@ -1187,6 +1187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-25 02:18:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/tombstone2": {
     "criteria": {
       "has_stone": "2025-05-23 22:47:48 +0000"
@@ -2249,6 +2255,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/fertilizer_dye": {
+    "criteria": {
+      "has_item": "2025-05-25 02:18:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/longbow_silver": {
     "criteria": {
       "has_silver_ingot": "2025-05-23 23:25:42 +0000"
@@ -2510,6 +2522,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_blackstone_bricks": "2025-05-24 17:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-25 02:18:29 +0000"
     },
     "done": true
   },
@@ -2911,6 +2929,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-25 02:13:59 +0000",
       "minecraft:skeleton": "2025-05-23 22:41:11 +0000",
       "minecraft:ghast": "2025-05-24 17:08:36 +0000",
       "minecraft:spider": "2025-05-23 22:35:44 +0000",
@@ -3200,6 +3219,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_wood": {
     "criteria": {
       "has_feather": "2025-05-24 17:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-05-25 02:18:22 +0000"
     },
     "done": true
   },
@@ -4735,6 +4760,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
     "criteria": {
       "has_stick": "2025-05-23 22:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-25 02:18:29 +0000"
     },
     "done": true
   },
