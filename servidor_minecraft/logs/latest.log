@@ -1,57 +1,56 @@
-[24May2025 19:53:26.247] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[24May2025 19:53:26.249] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.27 by Ubuntu
-[24May2025 19:53:26.670] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[24May2025 19:53:26.736] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/sdsdsdsd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[24May2025 19:53:27.506] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24May2025 19:53:27.597] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24May2025 19:53:27.604] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24May2025 19:53:27.612] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24May2025 19:53:27.617] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24May2025 19:53:28.903] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
-[24May2025 19:53:28.905] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
-[24May2025 19:53:28.906] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
-[24May2025 19:53:28.914] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[24May2025 19:53:28.950] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 90 options available, 0 override(s) found
-[24May2025 19:53:28.955] [main/WARN] [mixin/]: Reference map 'cataclysm.refmap.json' for cataclysm.mixins.json could not be read. If this is a development environment you can ignore this message
-[24May2025 19:53:37.836] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[24May2025 19:53:37.839] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[24May2025 19:53:37.839] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[24May2025 19:53:37.839] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[24May2025 19:53:39.045] [modloading-worker-3/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
-[24May2025 19:53:39.461] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[24May2025 19:53:39.461] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[24May2025 19:53:39.971] [modloading-worker-3/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
-[24May2025 19:53:40.023] [modloading-worker-3/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagradditions.lib.ModCorePlugin
-[24May2025 19:53:40.538] [modloading-worker-1/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[24May2025 19:53:41.024] [modloading-worker-2/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[24May2025 19:53:41.027] [modloading-worker-2/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
-[24May2025 19:53:41.548] [modloading-worker-2/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
-[24May2025 19:53:42.359] [modloading-worker-0/INFO] [expandability/]: ExpandAbility here, who dis?
-[24May2025 19:53:43.112] [main/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Starting creation of registry for Mob Enchantments
-[24May2025 19:53:58.892] [main/INFO] [Spartan Shields/]: Registering Items
-[24May2025 19:53:58.893] [main/INFO] [Spartan Shields/]: Registered Items successfully!
-[24May2025 19:53:58.980] [main/INFO] [patchouli/]: Loaded book jsons on Thread[main,5,main] in 86 ms
-[24May2025 19:53:59.004] [main/INFO] [Spartan Weaponry/]: Registering items...
-[24May2025 19:53:59.009] [main/INFO] [Spartan Weaponry/]: Items Registered!
-[24May2025 19:53:59.277] [main/INFO] [Spartan Shields/]: Registering Enchantments
-[24May2025 19:53:59.279] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
-[24May2025 19:53:59.636] [main/INFO] [Spartan Weaponry/]: Registering Entities
-[24May2025 19:53:59.751] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[24May2025 19:53:59.752] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[24May2025 19:53:59.875] [main/WARN] [de.teamlapen.vampirism.effects.VampirismNightVisionPotion/]: -------Please ignore the following error!------
-[24May2025 19:53:59.875] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `night_vision`, expected `vampirism`. This could be a intended override, but in most cases indicates a broken mod.
-[24May2025 19:53:59.876] [main/WARN] [de.teamlapen.vampirism.effects.VampirismNightVisionPotion/]: -----------------------------------------------
-[24May2025 19:54:01.276] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[24May2025 19:54:01.281] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[24May2025 19:54:01.347] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:goblin_trader, use EntityAttributeCreationEvent instead.
-[24May2025 19:54:01.349] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:vein_goblin_trader, use EntityAttributeCreationEvent instead.
-[24May2025 19:54:01.431] [modloading-worker-2/INFO] [Dungeon Crawl/]: Common Setup
-[24May2025 19:54:01.443] [modloading-worker-2/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
-[24May2025 19:54:01.443] [modloading-worker-2/INFO] [Dungeon Crawl/]: minecraft:overworld
-[24May2025 19:54:01.565] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[24May2025 19:54:01.771] [modloading-worker-1/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[24May2025 19:54:01.893] [modloading-worker-2/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[24May2025 19:54:02.099] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[25May2025 02:04:00.858] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[25May2025 02:04:00.863] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.27 by Ubuntu
+[25May2025 02:04:01.288] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[25May2025 02:04:01.376] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/sdsdsdsd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[25May2025 02:04:02.064] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[25May2025 02:04:02.156] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[25May2025 02:04:02.163] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[25May2025 02:04:02.169] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[25May2025 02:04:02.174] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[25May2025 02:04:03.492] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[25May2025 02:04:03.494] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[25May2025 02:04:03.495] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[25May2025 02:04:03.502] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[25May2025 02:04:03.533] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 90 options available, 0 override(s) found
+[25May2025 02:04:03.538] [main/WARN] [mixin/]: Reference map 'cataclysm.refmap.json' for cataclysm.mixins.json could not be read. If this is a development environment you can ignore this message
+[25May2025 02:04:11.482] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25May2025 02:04:11.496] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25May2025 02:04:11.497] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25May2025 02:04:11.497] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25May2025 02:04:12.684] [modloading-worker-1/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[25May2025 02:04:13.160] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[25May2025 02:04:13.160] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[25May2025 02:04:13.637] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[25May2025 02:04:13.662] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagradditions.lib.ModCorePlugin
+[25May2025 02:04:14.283] [modloading-worker-3/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[25May2025 02:04:14.608] [modloading-worker-3/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[25May2025 02:04:14.608] [modloading-worker-3/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
+[25May2025 02:04:14.929] [modloading-worker-3/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
+[25May2025 02:04:15.461] [modloading-worker-1/INFO] [expandability/]: ExpandAbility here, who dis?
+[25May2025 02:04:16.313] [main/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Starting creation of registry for Mob Enchantments
+[25May2025 02:04:31.807] [main/INFO] [Spartan Shields/]: Registering Items
+[25May2025 02:04:31.808] [main/INFO] [Spartan Shields/]: Registered Items successfully!
+[25May2025 02:04:31.965] [main/INFO] [patchouli/]: Loaded book jsons on Thread[main,5,main] in 156 ms
+[25May2025 02:04:31.986] [main/INFO] [Spartan Weaponry/]: Registering items...
+[25May2025 02:04:31.992] [main/INFO] [Spartan Weaponry/]: Items Registered!
+[25May2025 02:04:32.315] [main/INFO] [Spartan Shields/]: Registering Enchantments
+[25May2025 02:04:32.315] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
+[25May2025 02:04:32.878] [main/INFO] [Spartan Weaponry/]: Registering Entities
+[25May2025 02:04:33.114] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[25May2025 02:04:33.118] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[25May2025 02:04:33.283] [main/WARN] [de.teamlapen.vampirism.effects.VampirismNightVisionPotion/]: -------Please ignore the following error!------
+[25May2025 02:04:33.283] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `night_vision`, expected `vampirism`. This could be a intended override, but in most cases indicates a broken mod.
+[25May2025 02:04:33.283] [main/WARN] [de.teamlapen.vampirism.effects.VampirismNightVisionPotion/]: -----------------------------------------------
+[25May2025 02:04:34.528] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[25May2025 02:04:34.678] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:goblin_trader, use EntityAttributeCreationEvent instead.
+[25May2025 02:04:34.682] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:vein_goblin_trader, use EntityAttributeCreationEvent instead.
+[25May2025 02:04:34.765] [modloading-worker-3/INFO] [Dungeon Crawl/]: Common Setup
+[25May2025 02:04:34.773] [modloading-worker-3/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
+[25May2025 02:04:34.776] [modloading-worker-3/INFO] [Dungeon Crawl/]: minecraft:overworld
+[25May2025 02:04:34.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[25May2025 02:04:35.065] [modloading-worker-2/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[25May2025 02:04:35.155] [modloading-worker-3/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[25May2025 02:04:35.398] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=goblintraders
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
@@ -75,709 +74,204 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334) ~[?:?]
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:145) ~[forge:?]
 	... 3 more
-[24May2025 19:54:02.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
-[24May2025 19:54:02.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: UP_TO_DATE Current: 1.2.6 Target: null
-[24May2025 19:54:02.135] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24May2025 19:54:02.174] [modloading-worker-3/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[24May2025 19:54:02.185] [Thread-1/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Starting version check at https://maxanier.de/projects/vampirism/versions.json
-[24May2025 19:54:02.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[24May2025 19:54:02.369] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[24May2025 19:54:02.378] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 6.9.6 Target: null
-[24May2025 19:54:02.383] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://maxanier.de/projects/vampirism/versions.json
-[24May2025 19:54:02.484] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[24May2025 19:54:02.508] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:creeper_minion, use EntityAttributeCreationEvent instead.
-[24May2025 19:54:02.508] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:endersoul_clone, use EntityAttributeCreationEvent instead.
-[24May2025 19:54:02.508] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_creeper, use EntityAttributeCreationEvent instead.
-[24May2025 19:54:02.509] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_enderman, use EntityAttributeCreationEvent instead.
-[24May2025 19:54:02.509] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_skeleton, use EntityAttributeCreationEvent instead.
-[24May2025 19:54:02.509] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_snow_golem, use EntityAttributeCreationEvent instead.
-[24May2025 19:54:02.509] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_zombie, use EntityAttributeCreationEvent instead.
-[24May2025 19:54:02.510] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:spider_pig, use EntityAttributeCreationEvent instead.
-[24May2025 19:54:02.531] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for guardvillagers:guard, use EntityAttributeCreationEvent instead.
-[24May2025 19:54:02.842] [main/INFO] [de.teamlapen.vampirism.core.ModFeatures/]: Replacing vanilla village structure separation settings for the overworld dimension preset
-[24May2025 19:54:02.844] [modloading-worker-3/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[24May2025 19:54:02.845] [modloading-worker-2/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[24May2025 19:54:02.850] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[24May2025 19:54:02.850] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[24May2025 19:54:02.918] [modloading-worker-2/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[24May2025 19:54:02.949] [modloading-worker-0/INFO] [Waila/]: Registered plugin at net.blay09.mods.waystones.compat.WailaProvider
-[24May2025 19:54:02.955] [modloading-worker-0/INFO] [Waila/]: Registered plugin at com.blakebr0.mysticalagriculture.compat.HwylaCompat
-[24May2025 19:54:02.969] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[25May2025 02:04:35.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[25May2025 02:04:35.420] [modloading-worker-3/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[25May2025 02:04:35.430] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: UP_TO_DATE Current: 1.2.6 Target: null
+[25May2025 02:04:35.433] [Thread-1/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Starting version check at https://maxanier.de/projects/vampirism/versions.json
+[25May2025 02:04:35.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[25May2025 02:04:35.593] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[25May2025 02:04:35.594] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[25May2025 02:04:35.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 6.9.6 Target: null
+[25May2025 02:04:35.607] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://maxanier.de/projects/vampirism/versions.json
+[25May2025 02:04:35.614] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[25May2025 02:04:35.639] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:creeper_minion, use EntityAttributeCreationEvent instead.
+[25May2025 02:04:35.640] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:endersoul_clone, use EntityAttributeCreationEvent instead.
+[25May2025 02:04:35.640] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_creeper, use EntityAttributeCreationEvent instead.
+[25May2025 02:04:35.641] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_enderman, use EntityAttributeCreationEvent instead.
+[25May2025 02:04:35.641] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_skeleton, use EntityAttributeCreationEvent instead.
+[25May2025 02:04:35.641] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_snow_golem, use EntityAttributeCreationEvent instead.
+[25May2025 02:04:35.642] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_zombie, use EntityAttributeCreationEvent instead.
+[25May2025 02:04:35.645] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:spider_pig, use EntityAttributeCreationEvent instead.
+[25May2025 02:04:35.661] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for guardvillagers:guard, use EntityAttributeCreationEvent instead.
+[25May2025 02:04:36.046] [main/INFO] [de.teamlapen.vampirism.core.ModFeatures/]: Replacing vanilla village structure separation settings for the overworld dimension preset
+[25May2025 02:04:36.051] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[25May2025 02:04:36.052] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[25May2025 02:04:36.058] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[25May2025 02:04:36.058] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[25May2025 02:04:36.128] [modloading-worker-3/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[25May2025 02:04:36.173] [modloading-worker-1/INFO] [Waila/]: Registered plugin at net.blay09.mods.waystones.compat.WailaProvider
+[25May2025 02:04:36.192] [modloading-worker-1/INFO] [Waila/]: Registered plugin at com.blakebr0.mysticalagriculture.compat.HwylaCompat
+[25May2025 02:04:36.230] [modloading-worker-1/INFO] [Waila/]: Registered plugin at snownee.jade.JadePlugin
+[25May2025 02:04:36.231] [modloading-worker-1/INFO] [Waila/]: Registered plugin at snownee.jade.JadeClientPlugin
+[25May2025 02:04:36.243] [modloading-worker-1/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[25May2025 02:04:36.248] [modloading-worker-1/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[25May2025 02:04:36.258] [main/INFO] [de.teamlapen.vampirism.core.ModFeatures/]: Replacing vanilla village structure separation settings for the overworld dimension preset
+[25May2025 02:04:36.403] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[24May2025 19:54:03.003] [modloading-worker-0/INFO] [Waila/]: Registered plugin at snownee.jade.JadePlugin
-[24May2025 19:54:03.004] [modloading-worker-0/INFO] [Waila/]: Registered plugin at snownee.jade.JadeClientPlugin
-[24May2025 19:54:03.015] [modloading-worker-0/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[24May2025 19:54:03.021] [modloading-worker-0/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[24May2025 19:54:03.029] [main/INFO] [de.teamlapen.vampirism.core.ModFeatures/]: Replacing vanilla village structure separation settings for the overworld dimension preset
-[24May2025 19:54:10.112] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24May2025 19:54:11.169] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[24May2025 19:54:11.171] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24May2025 19:54:11.173] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24May2025 19:54:11.175] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[24May2025 19:54:11.177] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24May2025 19:54:11.228] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, SkyVillage_1.0.0_1.16.5.jar, mowziesmobs-1.5.27.jar, BetterDungeons-1.16.4-1.2.1.jar, Cucumber-1.16.5-4.1.12.jar, Philips ruins 1.16.5-2.8.jar, jei-1.16.5-7.8.0.1009.jar, dungeons_mobs-1.16.5-2.2.3.jar, goblintraders-1.7.3-1.16.5.jar, stalwart-dungeons-1.16.5-1.1.7.jar, Waystones_1.16.5-7.6.4.jar, XaerosWorldMap_1.39.4_Forge_1.16.5.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, NaturesCompass-1.16.5-1.9.1-forge.jar, Artifacts-1.16.5-2.10.6.jar, YungsApi-1.16.4-Forge-13.jar, DungeonCrawl-1.16.5-2.3.12.jar, MutantBeasts-1.16.4-1.1.3.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, guardvillagers-1.16.5.1.2.6.jar, ExplorersCompass-1.16.5-1.1.2-forge.jar, travellersboots-1.16.x-1.4.3.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, CataclysmWeaponery1.0.2-1.16.5.jar, JustEnoughResources-1.16.5-0.12.1.128.jar, Paraglider-1.16.5-1.3.2.14.jar, forge-1.16.5-36.2.42-universal.jar, embeddium-0.3.18+mc1.16.5.jar, MysticalAgriculture-1.16.5-4.2.6.jar, MysticalAgradditions-1.16.5-4.2.4.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, TConstruct-1.16.5-3.3.4.335.jar, FarmersDelight-1.16.5-0.6.0.jar, BiomesOPlenty-1.16.5-13.1.0.477-universal.jar, Jade-1.16.4-2.8.3.jar, Botania-1.16.5-420.3.jar, L_Enders Cataclysm-0.48 Changed Theme -1.16.5.jar, curios-forge-1.16.5-4.1.0.0.jar, SpartanShields-1.16.5-2.1.2.jar, Patchouli-1.16.4-53.3.jar, Mantle-1.16.5-1.6.157.jar, Xaeros_Minimap_25.2.6_Forge_1.16.5.jar, elevatorid-1.16.5-1.7.13.jar, tombstone-1.16.5-6.9.6.jar, BetterStrongholds-1.16.4-1.2.1.jar, swiaf-1.16.5-1.1.2.jar, SpartanWeaponry-1.16.5-2.2.2.jar, appleskin-forge-mc1.16.x-2.5.1.jar, Vampirism-1.16.5-1.9.10.jar, VampiresNeedUmbrellas-1.16.5-1.1.5.jar, lootr-1.16.5-0.2.19.51.jar, Aquaculture-1.16.5-2.1.23.jar, expandability-2.0.1-forge.jar, BetterMineshafts-Forge-1.16.4-2.0.4.jar, geckolib-forge-1.16.5-3.0.106.jar, dungeons_libraries-1.16.5-1.0.6.jar
-[24May2025 19:54:15.331] [Worker-Main-4/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 0 entities blood values
-[24May2025 19:54:15.351] [Worker-Main-5/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 0 items blood values
-[24May2025 19:54:15.359] [Worker-Main-6/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 0 fluids blood values
-[24May2025 19:54:15.925] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/aluminum_ingot as it's serializer returned null
-[24May2025 19:54:15.980] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
-[24May2025 19:54:16.029] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/constantan_ingot as it's serializer returned null
-[24May2025 19:54:16.039] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/tungsten_ingot as it's serializer returned null
-[24May2025 19:54:16.078] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/mithril_ingot as it's serializer returned null
-[24May2025 19:54:16.101] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/tin_ingot as it's serializer returned null
-[24May2025 19:54:16.110] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
-[24May2025 19:54:16.128] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/iridium_ingot as it's serializer returned null
-[24May2025 19:54:16.130] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/zinc_ingot as it's serializer returned null
-[24May2025 19:54:16.162] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/bronze_ingot as it's serializer returned null
-[24May2025 19:54:16.169] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/invar_ingot as it's serializer returned null
-[24May2025 19:54:16.185] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/gems/ruby as it's serializer returned null
-[24May2025 19:54:16.207] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/niter as it's serializer returned null
-[24May2025 19:54:16.228] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/chrome_ingot as it's serializer returned null
-[24May2025 19:54:16.286] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/electrum_ingot as it's serializer returned null
-[24May2025 19:54:16.291] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/silicon as it's serializer returned null
-[24May2025 19:54:16.324] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/gems/apatite as it's serializer returned null
-[24May2025 19:54:16.337] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/brass_ingot as it's serializer returned null
-[24May2025 19:54:16.372] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/saltpeter as it's serializer returned null
-[24May2025 19:54:16.375] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/steel_ingot as it's serializer returned null
-[24May2025 19:54:16.388] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/titanium_ingot as it's serializer returned null
-[24May2025 19:54:16.416] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/rubber as it's serializer returned null
-[24May2025 19:54:16.445] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/platinum_ingot as it's serializer returned null
-[24May2025 19:54:16.452] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/sulfur as it's serializer returned null
-[24May2025 19:54:16.460] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/lead_ingot as it's serializer returned null
-[24May2025 19:54:16.464] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/graphite_ingot as it's serializer returned null
-[24May2025 19:54:16.469] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/uranium_ingot as it's serializer returned null
-[24May2025 19:54:16.489] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
-[24May2025 19:54:16.493] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/nickel_ingot as it's serializer returned null
-[24May2025 19:54:16.521] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 37 recipes
-[24May2025 19:54:17.510] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[24May2025 19:54:17.564] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[24May2025 19:54:17.861] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[24May2025 19:54:18.497] [Worker-Main-4/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[24May2025 19:54:18.829] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3569 advancements
-[24May2025 19:54:18.836] [Worker-Main-4/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Beginning loading of data for data loader: ancient/mob_ancient_data
-[24May2025 19:54:18.837] [Worker-Main-4/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Data loader for ancient/mob_ancient_data loaded 1 finalized objects
-[24May2025 19:54:18.837] [Worker-Main-4/INFO] [Dungeon Crawl/]: Loading data...
-[24May2025 19:54:19.841] [Worker-Main-4/INFO] [Dungeon Crawl/]: Done.
-[24May2025 19:54:19.885] [Worker-Main-4/INFO] [de.teamlapen.vampirism.player.skills.SkillTree/]: Loaded 53 skill nodes
-[24May2025 19:54:19.889] [Worker-Main-4/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 12 convertibles
-[24May2025 19:54:19.891] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: summon
-[24May2025 19:54:19.891] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for summon loaded 8 jsons
-[24May2025 19:54:19.891] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: material/weapon
-[24May2025 19:54:19.892] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for material/weapon loaded 0 jsons
-[24May2025 19:54:19.892] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: material/armor
-[24May2025 19:54:19.893] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for material/armor loaded 2 jsons
-[24May2025 19:54:19.893] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/melee
-[24May2025 19:54:19.893] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/melee loaded 0 jsons
-[24May2025 19:54:19.893] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/armor
-[24May2025 19:54:19.893] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/armor loaded 15 jsons
-[24May2025 19:54:19.894] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/bow
-[24May2025 19:54:19.894] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/bow loaded 0 jsons
-[24May2025 19:54:19.894] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/crossbow
-[24May2025 19:54:19.894] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/crossbow loaded 0 jsons
-[24May2025 19:54:19.900] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: elite_mob
-[24May2025 19:54:19.901] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for elite_mob loaded 6 finalized objects
-[24May2025 19:54:19.901] [Worker-Main-4/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 0 ms
-[24May2025 19:54:19.918] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 55 materials in 16.269737 ms
-[24May2025 19:54:19.969] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 146 stats loaded for 73 materials in 50.558846 ms
-[24May2025 19:54:20.055] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 62 traits loaded for 73 materials in 86.33286 ms
-[24May2025 19:54:20.104] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 15 station slot layouts in 34.085968 ms
-[24May2025 19:54:26.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[24May2025 19:54:26.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24May2025 19:54:26.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24May2025 19:54:26.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24May2025 19:54:26.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24May2025 19:54:26.502] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[24May2025 19:54:26.584] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24May2025 19:54:26.585] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24May2025 19:54:26.585] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24May2025 19:54:26.585] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24May2025 19:54:26.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24May2025 19:54:27.035] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.infamous.dungeons_mobs.entities.summonables.ConstructEntity from class com.infamous.dungeons_mobs.entities.redstone.RedstoneMineEntity
-[24May2025 19:54:27.088] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityVoidWorm from class com.github.alexthe666.alexsmobs.entity.EntityVoidPortal
-[24May2025 19:54:27.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24May2025 19:54:28.216] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24May2025 19:54:28.217] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24May2025 19:54:28.226] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24May2025 19:54:28.662] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1436 ms
-[24May2025 19:54:28.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.063s)! For help, type "help"
-[24May2025 19:54:28.732] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
-[24May2025 19:54:28.737] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[24May2025 19:54:28.737] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[24May2025 19:54:35.998] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@da3d3d1
-[24May2025 19:54:36.049] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:42079] logged in with entity id 681 at (31.33248095671816, 71.0, -1696.9738830214064)
-[24May2025 19:54:36.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
-[24May2025 19:54:36.165] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
-[24May2025 19:54:36.312] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 19:54:36.312] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 19:55:00.542] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 19:55:00.542] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 19:55:05.278] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1c6b4054
-[24May2025 19:55:05.295] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:52803] logged in with entity id 1043 at (-7672.798019887175, 64.0, 8332.414546373615)
-[24May2025 19:55:05.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 19:55:05.355] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 19:55:10.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 19:55:47.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to 31.5, 71.5, -1696.5]
-[24May2025 19:55:54.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 19:56:06.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 19:57:24.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 19:57:43.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set the time to 13000]
-[24May2025 19:58:23.529] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@fb92b80
-[24May2025 19:58:23.547] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Prime9977[/127.110.123.215:59811] logged in with entity id 2709 at (-7696.370455161024, 18.0, 8098.841197743343)
-[24May2025 19:58:23.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 joined the game
-[24May2025 19:58:23.588] [Server thread/INFO] [Waila/]: Syncing config to Prime9977 (1e4d5421-dd37-3deb-a128-3bfbc8d1a346)
-[24May2025 19:58:23.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has reached the goal [Heliomancer]
-[24May2025 20:00:01.235] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj moved too quickly! 6.561633125106468,0.0,-7.996584629834615
-[24May2025 20:00:01.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
-[24May2025 20:01:13.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Eye Spy]
-[24May2025 20:01:43.206] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton'/2781, l='ServerLevel[world]', x=-7703.70, y=25.00, z=8098.49] to SunkenSkeletonEntity['Sunken Skeleton'/5715, l='ServerLevel[world]', x=-7703.70, y=25.00, z=8098.49]
-[24May2025 20:02:25.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Cobweb Entanglement]
-[24May2025 20:03:05.400] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Mason'/4036, l='ServerLevel[world]', x=227.99, y=79.00, z=-2428.25] died, message: 'Mason hit the ground too hard'
-[24May2025 20:04:04.231] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj was kicked for floating too long!
-[24May2025 20:04:04.232] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Flying is not enabled on this server
-[24May2025 20:04:04.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
-[24May2025 20:04:04.307] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[24May2025 20:04:17.028] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2282532d
-[24May2025 20:04:17.046] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:40961] logged in with entity id 7355 at (410.7315331710371, 32.50133597911215, -2553.2433308828295)
-[24May2025 20:04:17.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
-[24May2025 20:04:17.157] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 20:04:17.158] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 20:04:17.162] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
-[24May2025 20:04:33.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[24May2025 20:05:29.003] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite'/8212, l='ServerLevel[world]', x=425.26, y=30.66, z=-2587.40]
-[24May2025 20:05:29.003] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite Stairs'/8214, l='ServerLevel[world]', x=424.61, y=30.72, z=-2588.73]
-[24May2025 20:05:29.004] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Brick Wall'/8215, l='ServerLevel[world]', x=425.50, y=31.47, z=-2589.32]
-[24May2025 20:05:29.004] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Trapped Chest'/8218, l='ServerLevel[world]', x=425.62, y=31.32, z=-2587.60]
-[24May2025 20:05:42.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Cobweb Entanglement]
-[24May2025 20:06:29.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 20:06:31.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
-[24May2025 20:06:45.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 20:07:38.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
-[24May2025 20:07:47.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 did not like the sun
-[24May2025 20:07:47.672] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
-[24May2025 20:07:51.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 20:07:54.034] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-7911, y=33, z=7645} BlockPos{x=-7911, y=34, z=7645}
-[24May2025 20:07:54.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 20:07:55.427] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-7912, y=36, z=7645} BlockPos{x=-7912, y=35, z=7645}
-[24May2025 20:08:15.669] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-7913, y=37, z=7630} BlockPos{x=-7913, y=36, z=7630}
-[24May2025 20:08:15.721] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-7913, y=37, z=7630} BlockPos{x=-7913, y=36, z=7630}
-[24May2025 20:08:29.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 20:09:40.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[24May2025 20:09:55.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 20:10:30.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to leonardo412351]
-[24May2025 20:10:31.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Eye Spy]
-[24May2025 20:10:33.026] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-7711, y=19, z=7438} but found not block entity block Block{minecraft:stone} at location
-[24May2025 20:10:33.027] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-7711, y=19, z=7438}
-[24May2025 20:10:33.027] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-7708, y=17, z=7437} but found not block entity block Block{minecraft:stone} at location
-[24May2025 20:10:33.027] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-7708, y=17, z=7437}
-[24May2025 20:10:42.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 20:11:39.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 20:12:01.370] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 20:12:01.370] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 20:12:02.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [The End?]
-[24May2025 20:12:03.396] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Scanning for legacy world dragon fight...
-[24May2025 20:12:03.409] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Found that the dragon has not yet been killed in this world.
-[24May2025 20:13:21.315] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Brick Wall'/12514, l='ServerLevel[world]', x=-7773.64, y=31.35, z=8386.27]
-[24May2025 20:13:21.315] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Brick Wall'/12514, l='ServerLevel[world]', x=-7773.64, y=31.35, z=8386.27]
-[24May2025 20:13:21.315] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite'/12516, l='ServerLevel[world]', x=-7774.52, y=30.25, z=8388.44]
-[24May2025 20:13:21.316] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite'/12516, l='ServerLevel[world]', x=-7774.52, y=30.25, z=8388.44]
-[24May2025 20:13:21.316] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Mossy Stone Bricks'/12517, l='ServerLevel[world]', x=-7775.37, y=30.69, z=8387.45]
-[24May2025 20:13:21.316] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Mossy Stone Bricks'/12517, l='ServerLevel[world]', x=-7775.37, y=30.69, z=8387.45]
-[24May2025 20:13:21.316] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Trapped Chest'/12518, l='ServerLevel[world]', x=-7774.45, y=31.68, z=8388.53]
-[24May2025 20:13:21.317] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Trapped Chest'/12518, l='ServerLevel[world]', x=-7774.45, y=31.68, z=8388.53]
-[24May2025 20:13:21.317] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite Stairs'/12519, l='ServerLevel[world]', x=-7773.46, y=30.46, z=8387.59]
-[24May2025 20:13:21.317] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite Stairs'/12519, l='ServerLevel[world]', x=-7773.46, y=30.46, z=8387.59]
-[24May2025 20:15:27.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 20:16:12.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 20:16:13.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 20:16:38.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 20:17:11.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 20:17:19.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 20:20:30.864] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@71d4044d
-[24May2025 20:20:30.872] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TheTrimax[/127.204.212.124:38645] logged in with entity id 15152 at (-87.5, 66.0, -179.5)
-[24May2025 20:20:30.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax joined the game
-[24May2025 20:20:30.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Easter Egg Searcher]
-[24May2025 20:20:30.925] [Server thread/INFO] [Waila/]: Syncing config to TheTrimax (f3f574d6-b28a-36f8-b4ef-d285bf2bcc2c)
-[24May2025 20:20:30.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Ice and Fire]
-[24May2025 20:21:28.270] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj moved too quickly! -7.8245941962026,13.694859411058303,-2.659388981716212
-[24May2025 20:21:34.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Knowledge of Death]
-[24May2025 20:21:34.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Easter Food]
-[24May2025 20:21:34.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Alex's Mobs]
-[24May2025 20:21:39.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 20:22:18.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Prime9977> capiss
-[24May2025 20:22:19.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Prime9977> tepeame
-[24May2025 20:22:21.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Prime9977> a quispe
-[24May2025 20:22:25.022] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj moved too quickly! -0.5344143831891657,4.479338877713786,-9.298602626001784
-[24May2025 20:23:45.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 20:23:56.320] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj moved wrongly!
-[24May2025 20:24:44.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Free the End]
-[24May2025 20:25:32.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Monster Hunter]
-[24May2025 20:25:32.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [A Strange Grave Dust]
-[24May2025 20:25:48.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has reached the goal [The Next Generation]
-[24May2025 20:25:51.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Sweet Dreams]
-[24May2025 20:25:59.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement ['X' Marks the Spot]
-[24May2025 20:26:14.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Getting an Upgrade]
-[24May2025 20:27:20.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [The End?]
-[24May2025 20:27:21.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [The End?]
-[24May2025 20:27:28.146] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 moved too quickly! -7.3651338833588085,6.832203353366751,0.3469433382847975
-[24May2025 20:27:28.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6294ms or 125 ticks behind
-[24May2025 20:27:41.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Remote Getaway]
-[24May2025 20:27:53.091] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
-[24May2025 20:27:53.168] [Server thread/INFO] [explorerscompass/]: Search succeeded: 1331 radius, 5050 samples
-[24May2025 20:28:45.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax was shot by Skeleton
-[24May2025 20:28:45.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Your First Grave]
-[24May2025 20:28:45.977] [Server thread/INFO] [tombstone/]: The player TheTrimax has successfully been saved
-[24May2025 20:28:51.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has reached the goal [Here They Come]
-[24May2025 20:28:59.155] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj was kicked for floating too long!
-[24May2025 20:28:59.209] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Flying is not enabled on this server
-[24May2025 20:28:59.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
-[24May2025 20:29:04.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Remote Getaway]
-[24May2025 20:29:06.962] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
-[24May2025 20:29:06.971] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
-[24May2025 20:29:08.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of Enderman
-[24May2025 20:29:08.238] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
-[24May2025 20:29:12.874] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@58968d57
-[24May2025 20:29:12.887] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:36065] logged in with entity id 19761 at (-900.4749122892631, 56.024424088213685, 648.266209984937)
-[24May2025 20:29:12.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
-[24May2025 20:29:12.918] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
-[24May2025 20:29:13.006] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 20:29:13.006] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 20:29:38.619] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj was kicked for floating too long!
-[24May2025 20:29:38.668] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Flying is not enabled on this server
-[24May2025 20:29:38.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
-[24May2025 20:29:50.191] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8027e8e
-[24May2025 20:29:50.205] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:46607] logged in with entity id 20021 at (-897.2668374112453, 57.7531999805212, 617.4070899169263)
-[24May2025 20:29:50.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
-[24May2025 20:29:50.235] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
-[24May2025 20:29:50.329] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 20:29:50.329] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 20:29:54.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax was shot by Skeleton
-[24May2025 20:29:54.378] [Server thread/INFO] [tombstone/]: The player TheTrimax has successfully been saved
-[24May2025 20:30:15.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[24May2025 20:30:17.296] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
-[24May2025 20:31:03.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Acquire Hardware]
-[24May2025 20:31:17.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 was incinerated by Dropbear
-[24May2025 20:31:17.231] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
-[24May2025 20:32:56.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Remote Getaway]
-[24May2025 20:33:18.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Adventure Mode]
-[24May2025 20:33:19.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
-[24May2025 20:33:26.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Adventure Mode]
-[24May2025 20:34:11.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
-[24May2025 20:34:11.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Not Today, Thank You]
-[24May2025 20:34:12.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 20:34:19.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax was shot by Skeleton
-[24May2025 20:34:19.963] [Server thread/INFO] [tombstone/]: The player TheTrimax has successfully been saved
-[24May2025 20:36:12.408] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj was kicked for floating too long!
-[24May2025 20:36:12.458] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Flying is not enabled on this server
-[24May2025 20:36:12.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
-[24May2025 20:36:24.114] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@557dbe0b
-[24May2025 20:36:24.126] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:44437] logged in with entity id 24067 at (-846.5977784380838, 66.16610926093821, 711.4056051565904)
-[24May2025 20:36:24.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
-[24May2025 20:36:24.154] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
-[24May2025 20:36:24.259] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 20:36:24.260] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 20:36:26.962] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 was kicked for floating too long!
-[24May2025 20:36:27.008] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Flying is not enabled on this server
-[24May2025 20:36:27.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
-[24May2025 20:36:43.768] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1bd4e3b5
-[24May2025 20:36:43.783] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:58425] logged in with entity id 24233 at (-852.6022735812145, 63.17675927506424, 564.9938277525281)
-[24May2025 20:36:43.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 20:36:43.817] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 20:38:06.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
-[24May2025 20:38:17.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 20:38:28.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Spectator Mode]
-[24May2025 20:38:30.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 20:38:30.611] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj was kicked for floating too long!
-[24May2025 20:38:30.658] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Flying is not enabled on this server
-[24May2025 20:38:30.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
-[24May2025 20:38:43.013] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@70b86332
-[24May2025 20:38:43.024] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:47041] logged in with entity id 25514 at (-840.8372032269883, 60.7967356006687, 638.8827527505765)
-[24May2025 20:38:43.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
-[24May2025 20:38:43.054] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
-[24May2025 20:38:43.126] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 20:38:43.127] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 20:39:15.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Take Aim]
-[24May2025 20:39:16.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 20:39:57.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax was shot by Skeleton
-[24May2025 20:39:57.211] [Server thread/INFO] [tombstone/]: The player TheTrimax has successfully been saved
-[24May2025 20:40:05.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 20:40:11.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Ashes 'n Bones]
-[24May2025 20:40:21.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 20:40:23.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has reached the goal [Enderslime Island]
-[24May2025 20:40:37.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has reached the goal [Chain Death]
-[24May2025 20:40:37.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax was shot by Skeleton
-[24May2025 20:40:37.965] [Server thread/INFO] [tombstone/]: The player TheTrimax has successfully been saved
-[24May2025 20:40:39.756] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TheTrimax lost connection: Disconnected
-[24May2025 20:40:39.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax left the game
-[24May2025 20:40:48.812] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@76dfb7b5
-[24May2025 20:40:48.823] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TheTrimax[/127.204.212.124:49601] logged in with entity id 26380 at (165.5, 50.0, -277.5)
-[24May2025 20:40:48.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax joined the game
-[24May2025 20:40:48.837] [Server thread/INFO] [Waila/]: Syncing config to TheTrimax (f3f574d6-b28a-36f8-b4ef-d285bf2bcc2c)
-[24May2025 20:41:13.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 20:41:27.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 20:43:40.065] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
-[24May2025 20:43:40.067] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
-[24May2025 20:43:41.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of leonardo412351
-[24May2025 20:43:41.329] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
-[24May2025 20:44:09.562] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-87, y=69, z=-156} BlockPos{x=-84, y=64, z=-163}
-[24May2025 20:44:27.031] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-87, y=69, z=-156} BlockPos{x=-85, y=65, z=-165}
-[24May2025 20:44:27.171] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-87, y=69, z=-156} BlockPos{x=-85, y=64, z=-165}
-[24May2025 20:44:27.274] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-87, y=69, z=-156} BlockPos{x=-86, y=64, z=-164}
-[24May2025 20:44:27.314] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-87, y=69, z=-156} BlockPos{x=-86, y=64, z=-165}
-[24May2025 20:45:26.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 20:45:38.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 20:46:55.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [The City at the End of the Game]
-[24May2025 20:47:00.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Disme A Dozen]
-[24May2025 20:47:11.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
-[24May2025 20:47:11.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [The City at the End of the Game]
-[24May2025 20:47:24.017] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6e819afb
-[24May2025 20:47:24.025] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pngadeeber21[/127.228.184.36:35869] logged in with entity id 29725 at (240.78846842720554, 41.0, 748.1539901438167)
-[24May2025 20:47:24.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 joined the game
-[24May2025 20:47:24.069] [Server thread/INFO] [Waila/]: Syncing config to pngadeeber21 (d7ca879d-53b2-348f-8f1d-342f879506ff)
-[24May2025 20:47:28.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to leonardo412351]
-[24May2025 20:47:58.519] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pngadeeber21 lost connection: Disconnected
-[24May2025 20:47:58.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 left the game
-[24May2025 20:49:04.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Vampire Diaries]
-[24May2025 20:49:04.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Diamonds!]
-[24May2025 20:49:06.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has completed the challenge [Free Willy]
-[24May2025 20:49:07.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Stone Age]
-[24May2025 20:49:18.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has reached the goal [Bone Crusher]
-[24May2025 20:49:22.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Amateur Archaeologist]
-[24May2025 20:50:30.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Suit Up]
-[24May2025 20:51:18.059] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@18d9db32
-[24May2025 20:51:18.065] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pngadeeber21[/127.228.184.36:43503] logged in with entity id 31600 at (240.78846842720554, 41.0, 748.1539901438167)
-[24May2025 20:51:18.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 joined the game
-[24May2025 20:51:18.091] [Server thread/INFO] [Waila/]: Syncing config to pngadeeber21 (d7ca879d-53b2-348f-8f1d-342f879506ff)
-[24May2025 20:51:53.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> estoy comiendo esprn
-[24May2025 20:52:15.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> profe
-[24May2025 20:52:20.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> es de un amigo no malpiense xd
-[24May2025 20:52:29.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> jajajajaja
-[24May2025 20:53:05.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Quite the Renovation]
-[24May2025 20:53:52.616] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 was kicked for floating too long!
-[24May2025 20:53:52.667] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Flying is not enabled on this server
-[24May2025 20:53:52.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
-[24May2025 20:54:05.727] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7dd2879f
-[24May2025 20:54:05.738] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:39053] logged in with entity id 33320 at (-863.227340838364, -101.53518796636412, 199.36780679180697)
-[24May2025 20:54:05.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 20:54:05.746] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 20:54:12.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 fell out of the world
-[24May2025 20:54:12.236] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
-[24May2025 20:54:22.137] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
-java.lang.NullPointerException: null
-	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
-	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
-	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
-	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[24May2025 20:54:22.180] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
-java.lang.NullPointerException: null
-	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
-	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
-	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
-	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[24May2025 20:54:22.182] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 moved too quickly! 0.0,-23.25676438890794,0.0
-[24May2025 20:54:26.100] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
-[24May2025 20:54:26.533] [Server thread/INFO] [explorerscompass/]: Search succeeded: 1930 radius, 9729 samples
-[24May2025 20:54:46.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[24May2025 20:55:02.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to capibaramcj]
-[24May2025 20:55:04.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
-[24May2025 20:55:11.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to pngadeeber21]
-[24May2025 20:55:16.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to Prime9977]
-[24May2025 20:55:28.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> q fuee
-[24May2025 20:55:31.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Ender Distancing]
-[24May2025 20:55:33.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Race Against The Clock]
-[24May2025 20:55:42.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Capsid-19]
-[24May2025 20:55:58.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 20:56:20.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Capsid-19]
-[24May2025 20:57:30.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has reached the goal [Half a flight]
-[24May2025 20:57:39.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 20:58:31.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [A Ruined Citadel]
-[24May2025 20:59:01.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Palette Swap]
-[24May2025 20:59:23.700] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TheTrimax lost connection: Disconnected
-[24May2025 20:59:23.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax left the game
-[24May2025 20:59:26.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to Prime9977]
-[24May2025 20:59:32.569] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2d92ca6c
-[24May2025 20:59:32.577] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TheTrimax[/127.204.212.124:43587] logged in with entity id 38371 at (161.7238653908691, 43.348092296770645, -287.873455668647)
-[24May2025 20:59:32.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax joined the game
-[24May2025 20:59:32.594] [Server thread/INFO] [Waila/]: Syncing config to TheTrimax (f3f574d6-b28a-36f8-b4ef-d285bf2bcc2c)
-[24May2025 20:59:35.485] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TheTrimax lost connection: Disconnected
-[24May2025 20:59:35.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax left the game
-[24May2025 20:59:36.112] [Server thread/WARN] [tombstone/]: The death event of the player leonardo412351 was canceled by another mod
-[24May2025 20:59:36.114] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
-[24May2025 20:59:36.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [Your First Receptacle]
-[24May2025 20:59:37.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 died because of Prime9977
-[24May2025 20:59:37.875] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
-[24May2025 20:59:43.928] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@265d7ccb
-[24May2025 20:59:43.936] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TheTrimax[/127.204.212.124:33455] logged in with entity id 38856 at (161.7238653908691, 43.348092296770645, -287.873455668647)
-[24May2025 20:59:43.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax joined the game
-[24May2025 20:59:43.957] [Server thread/INFO] [Waila/]: Syncing config to TheTrimax (f3f574d6-b28a-36f8-b4ef-d285bf2bcc2c)
-[24May2025 21:00:08.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to Prime9977]
-[24May2025 21:00:26.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Bounty Box]
-[24May2025 21:00:26.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has completed the challenge [Socialised Loot]
-[24May2025 21:01:57.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [Will it Come Back?]
-[24May2025 21:02:03.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> viciados d mr
-[24May2025 21:02:08.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> Xd
-[24May2025 21:02:21.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> yaa
-[24May2025 21:02:24.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> tepeen
-[24May2025 21:02:29.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> ahi entro al caanal de voz
-[24May2025 21:02:40.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> estan en el end estos ñungis
-[24May2025 21:02:41.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has completed the challenge [Was that Shulker?]
-[24May2025 21:02:47.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> sumare
-[24May2025 21:03:17.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <leonardo412351> tepea
-[24May2025 21:03:32.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to capibaramcj]
-[24May2025 21:03:32.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [A Ruined Citadel]
-[24May2025 21:03:42.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
-[24May2025 21:03:42.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [A Ruined Citadel]
-[24May2025 21:04:17.721] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
-[24May2025 21:04:17.723] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
-[24May2025 21:04:19.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of capibaramcj
-[24May2025 21:04:19.178] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
-[24May2025 21:04:44.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
-[24May2025 21:04:54.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [Close Quarters]
-[24May2025 21:05:11.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <capibaramcj> explored compass
-[24May2025 21:05:44.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 fell from a high place
-[24May2025 21:05:44.071] [Server thread/INFO] [tombstone/]: The player pngadeeber21 has successfully been saved
-[24May2025 21:06:04.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> rompiste las camas hdp
-[24May2025 21:06:11.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Smash And Bash!]
-[24May2025 21:06:24.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has made the advancement [A Cut Above the Rest]
-[24May2025 21:06:31.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Blade of the Samurai]
-[24May2025 21:06:31.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Tip of the Spear]
-[24May2025 21:06:31.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Hunt and Gather]
-[24May2025 21:06:36.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> ptmr
-[24May2025 21:07:02.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Bounty Box]
-[24May2025 21:07:05.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Straightening the Scythes]
-[24May2025 21:07:05.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Hunt and Gather]
-[24May2025 21:07:18.722] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Disconnected
-[24May2025 21:07:18.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
-[24May2025 21:07:32.182] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6a7a799c
-[24May2025 21:07:32.192] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:39513] logged in with entity id 43755 at (-570.6638851554635, 60.32360926093821, 2433.0657668863137)
-[24May2025 21:07:32.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
-[24May2025 21:07:32.225] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
-[24May2025 21:07:32.297] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 21:07:32.297] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 21:07:53.666] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj was kicked for floating too long!
-[24May2025 21:07:53.722] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Flying is not enabled on this server
-[24May2025 21:07:53.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
-[24May2025 21:07:57.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Imitation Air]
-[24May2025 21:08:21.578] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5d6477b2
-[24May2025 21:08:21.588] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:39067] logged in with entity id 45147 at (-574.1651743090704, 61.024424088213685, 2423.1907837690874)
-[24May2025 21:08:21.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
-[24May2025 21:08:21.619] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
-[24May2025 21:08:21.684] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 21:08:21.685] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 21:08:27.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has reached the goal [A self-respecting Soul]
-[24May2025 21:08:35.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Not the Olympic Type]
-[24May2025 21:08:36.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 21:08:48.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Bounty Box]
-[24May2025 21:08:55.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [A Cut Above the Rest]
-[24May2025 21:08:58.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [Where Is The Stone Pen?]
-[24May2025 21:09:02.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has reached the goal [Greed may lead to loss]
-[24May2025 21:09:30.628] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
-[24May2025 21:09:30.677] [Server thread/INFO] [explorerscompass/]: Search succeeded: 419 radius, 747 samples
-[24May2025 21:09:43.470] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
-[24May2025 21:09:43.637] [Server thread/INFO] [explorerscompass/]: Search succeeded: 458 radius, 910 samples
-[24May2025 21:09:49.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 21:10:19.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to capibaramcj]
-[24May2025 21:10:27.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to capibaramcj]
-[24May2025 21:10:47.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> tepen
-[24May2025 21:10:50.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> tp
-[24May2025 21:11:02.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> capigay
-[24May2025 21:11:12.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [We Need to Go Deeper]
-[24May2025 21:11:18.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 burned to death
-[24May2025 21:11:18.575] [Server thread/INFO] [tombstone/]: The player pngadeeber21 has successfully been saved
-[24May2025 21:11:32.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Close Quarters]
-[24May2025 21:11:42.720] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
-[24May2025 21:11:42.782] [Server thread/INFO] [explorerscompass/]: Search succeeded: 214 radius, 27 samples
-[24May2025 21:11:58.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> capigay estoy en el spawn sin nada bien lejos de todo , no es divertido ctmr tepeame porfavor
-[24May2025 21:11:58.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Creative Mode]
-[24May2025 21:12:23.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported leonardo412351 to Prime9977]
-[24May2025 21:12:36.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Set own game mode to Survival Mode]
-[24May2025 21:12:56.531] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
-[24May2025 21:12:56.532] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
-[24May2025 21:12:57.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> a mi si tepeame perra
-[24May2025 21:12:57.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died because of leonardo412351
-[24May2025 21:12:57.833] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
-[24May2025 21:13:06.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> pedu de los pedus
-[24May2025 21:13:20.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [The End?]
-[24May2025 21:13:20.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported pngadeeber21 to leonardo412351]
-[24May2025 21:13:29.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported Prime9977 to leonardo412351]
-[24May2025 21:13:36.364] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Disconnected
-[24May2025 21:13:36.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
-[24May2025 21:13:39.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> dame comida perra
-[24May2025 21:13:40.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> me muero
-[24May2025 21:13:56.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> comida xd
-[24May2025 21:14:05.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Prime9977> ACA ABAJO
-[24May2025 21:14:16.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> tu vas trol
-[24May2025 21:14:38.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [A Ruined Citadel]
-[24May2025 21:14:51.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 was blasted by Blastling
-[24May2025 21:14:51.120] [Server thread/INFO] [tombstone/]: The player pngadeeber21 has successfully been saved
-[24May2025 21:14:56.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> tmre
-[24May2025 21:15:00.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> XD
-[24May2025 21:15:04.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> pedu denuevo p
-[24May2025 21:15:09.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Smash And Bash!]
-[24May2025 21:15:11.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Straightening the Scythes]
-[24May2025 21:15:12.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 has made the advancement [Not the Olympic Type]
-[24May2025 21:15:12.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> xfa
-[24May2025 21:15:15.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> ultima ultima
-[24May2025 21:15:19.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 has made the advancement [A Cut Above the Rest]
-[24May2025 21:15:55.310] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
-[24May2025 21:15:55.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
-[24May2025 21:15:58.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax has made the advancement [Isn't It Iron Pick]
-[24May2025 21:16:00.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> como voy a ir hsta alla perra
-[24May2025 21:16:08.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> que me tepee
-[24May2025 21:16:16.825] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@591c7d85
-[24May2025 21:16:16.836] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:32845] logged in with entity id 51657 at (-407.7366048720619, 64.0, 2465.2854939818662)
-[24May2025 21:16:16.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 21:16:16.864] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 21:16:18.011] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
-[24May2025 21:16:18.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
-[24May2025 21:16:29.120] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5a9e1814
-[24May2025 21:16:29.129] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:57787] logged in with entity id 51768 at (-1211.6507792608877, 72.0, 3004.6570628387317)
-[24May2025 21:16:29.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
-[24May2025 21:16:29.159] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
-[24May2025 21:16:29.233] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5ccce741 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 21:16:29.233] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@663916f8 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
-[24May2025 21:16:37.124] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@32188ca4
-[24May2025 21:16:37.133] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:45325] logged in with entity id 51925 at (-407.7366048720619, 64.0, 2465.2854939818662)
-[24May2025 21:16:37.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 21:16:37.156] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 21:16:38.016] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
-[24May2025 21:16:38.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
-[24May2025 21:16:44.723] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@571e12e3[id=<null>,name=leonardo412351,properties={},legacy=false] (/127.166.152.228:33467) lost connection: Disconnected
-[24May2025 21:16:47.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported pngadeeber21 to capibaramcj]
-[24May2025 21:16:47.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [The City at the End of the Game]
-[24May2025 21:16:51.972] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@64d751a2
-[24May2025 21:16:51.983] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:36605] logged in with entity id 52020 at (-407.7366048720619, 64.0, 2465.2854939818662)
-[24May2025 21:16:51.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 21:16:52.009] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 21:16:52.610] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
-[24May2025 21:16:52.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
-[24May2025 21:17:06.269] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@35eeeecb
-[24May2025 21:17:06.277] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:51809] logged in with entity id 52105 at (-407.7366048720619, 64.0, 2465.2854939818662)
-[24May2025 21:17:06.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 21:17:06.306] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 21:17:06.960] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
-[24May2025 21:17:06.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
-[24May2025 21:17:08.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> me das cosas?
-[24May2025 21:17:16.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [Cover Me With Diamonds]
-[24May2025 21:17:20.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> sa wbada
-[24May2025 21:17:22.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [The Bender of the 15th Century]
-[24May2025 21:17:25.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> pareces un boss mn
-[24May2025 21:17:26.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> xd
-[24May2025 21:17:28.531] [Server thread/WARN] [tombstone/]: The death event of the player Prime9977 was canceled by another mod
-[24May2025 21:17:28.532] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
-[24May2025 21:17:29.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 died
-[24May2025 21:17:29.834] [Server thread/INFO] [tombstone/]: The player Prime9977 has successfully been saved
-[24May2025 21:17:30.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [...And My Axe!]
-[24May2025 21:17:38.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax was shot by Stray
-[24May2025 21:17:38.265] [Server thread/INFO] [tombstone/]: The player TheTrimax has successfully been saved
-[24May2025 21:17:41.608] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TheTrimax lost connection: Disconnected
-[24May2025 21:17:41.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax left the game
-[24May2025 21:17:44.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> comda tienes
-[24May2025 21:17:45.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pngadeeber21> ?
-[24May2025 21:17:50.207] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3c54b6ae
-[24May2025 21:17:50.214] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TheTrimax[/127.204.212.124:36553] logged in with entity id 52708 at (165.5, 50.0, -277.5)
-[24May2025 21:17:50.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax joined the game
-[24May2025 21:17:50.227] [Server thread/INFO] [Waila/]: Syncing config to TheTrimax (f3f574d6-b28a-36f8-b4ef-d285bf2bcc2c)
-[24May2025 21:19:07.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[24May2025 21:19:16.423] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@37bf4349
-[24May2025 21:19:16.433] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:38509] logged in with entity id 53558 at (-407.7366048720619, 64.0, 2465.2854939818662)
-[24May2025 21:19:16.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 21:19:16.446] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 21:19:17.070] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
-[24May2025 21:19:17.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
-[24May2025 21:19:32.321] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5119010b
-[24May2025 21:19:32.330] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:58967] logged in with entity id 53746 at (-407.7366048720619, 64.0, 2465.2854939818662)
-[24May2025 21:19:32.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 21:19:32.342] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 21:19:32.976] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
-[24May2025 21:19:32.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
-[24May2025 21:19:59.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj has reached the goal [Sky's the Limit]
-[24May2025 21:20:02.124] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@436846e1
-[24May2025 21:20:02.134] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:40163] logged in with entity id 53941 at (-407.7366048720619, 64.0, 2465.2854939818662)
-[24May2025 21:20:02.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 21:20:02.149] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 21:20:02.733] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
-[24May2025 21:20:02.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
-[24May2025 21:20:11.072] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@57b4aae1
-[24May2025 21:20:11.080] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:49863] logged in with entity id 54041 at (-407.7366048720619, 64.0, 2465.2854939818662)
-[24May2025 21:20:11.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 21:20:11.095] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 21:20:11.931] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
-[24May2025 21:20:11.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
-[24May2025 21:20:54.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3698ms or 73 ticks behind
-[24May2025 21:21:13.923] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@401cf349
-[24May2025 21:21:13.933] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:44783] logged in with entity id 54713 at (-407.7366048720619, 64.0, 2465.2854939818662)
-[24May2025 21:21:13.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 21:21:13.948] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 21:21:14.558] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
-[24May2025 21:21:14.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
-[24May2025 21:21:58.968] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@32815d11[id=<null>,name=leonardo412351,properties={},legacy=false] (/127.166.152.228:60149) lost connection: Disconnected
-[24May2025 21:22:01.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 has made the advancement [Monster Hunter]
-[24May2025 21:22:04.267] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@68f98319[id=<null>,name=leonardo412351,properties={},legacy=false] (/127.166.152.228:56329) lost connection: Disconnected
-[24May2025 21:22:13.128] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5e9207aa
-[24May2025 21:22:13.137] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:48035] logged in with entity id 55149 at (-407.7366048720619, 64.0, 2465.2854939818662)
-[24May2025 21:22:13.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 21:22:13.152] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 21:22:13.773] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
-[24May2025 21:22:13.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
-[24May2025 21:22:26.079] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5ea979eb
-[24May2025 21:22:26.087] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:56835] logged in with entity id 55247 at (-407.7366048720619, 64.0, 2465.2854939818662)
-[24May2025 21:22:26.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
-[24May2025 21:22:26.101] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
-[24May2025 21:22:27.139] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Disconnected
-[24May2025 21:22:27.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
-[24May2025 21:22:33.623] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Disconnected
-[24May2025 21:22:33.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
-[24May2025 21:22:37.016] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Prime9977 lost connection: Disconnected
-[24May2025 21:22:37.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 left the game
-[24May2025 21:22:37.023] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pngadeeber21 lost connection: Disconnected
-[24May2025 21:22:37.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pngadeeber21 left the game
-[24May2025 21:22:37.027] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TheTrimax lost connection: Disconnected
-[24May2025 21:22:37.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheTrimax left the game
-[24May2025 21:22:37.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[24May2025 21:22:37.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[24May2025 21:22:37.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[24May2025 21:22:37.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[24May2025 21:22:39.222] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[24May2025 21:22:39.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[24May2025 21:22:39.224] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[24May2025 21:22:39.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[24May2025 21:22:39.751] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[24May2025 21:22:39.786] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[24May2025 21:22:39.996] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[24May2025 21:22:40.010] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25May2025 02:04:42.994] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[25May2025 02:04:43.952] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[25May2025 02:04:43.954] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[25May2025 02:04:43.956] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[25May2025 02:04:43.958] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[25May2025 02:04:43.960] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[25May2025 02:04:43.999] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, SkyVillage_1.0.0_1.16.5.jar, mowziesmobs-1.5.27.jar, BetterDungeons-1.16.4-1.2.1.jar, Cucumber-1.16.5-4.1.12.jar, Philips ruins 1.16.5-2.8.jar, jei-1.16.5-7.8.0.1009.jar, dungeons_mobs-1.16.5-2.2.3.jar, goblintraders-1.7.3-1.16.5.jar, stalwart-dungeons-1.16.5-1.1.7.jar, Waystones_1.16.5-7.6.4.jar, XaerosWorldMap_1.39.4_Forge_1.16.5.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, NaturesCompass-1.16.5-1.9.1-forge.jar, Artifacts-1.16.5-2.10.6.jar, YungsApi-1.16.4-Forge-13.jar, DungeonCrawl-1.16.5-2.3.12.jar, MutantBeasts-1.16.4-1.1.3.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, guardvillagers-1.16.5.1.2.6.jar, ExplorersCompass-1.16.5-1.1.2-forge.jar, travellersboots-1.16.x-1.4.3.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, CataclysmWeaponery1.0.2-1.16.5.jar, JustEnoughResources-1.16.5-0.12.1.128.jar, Paraglider-1.16.5-1.3.2.14.jar, forge-1.16.5-36.2.42-universal.jar, embeddium-0.3.18+mc1.16.5.jar, MysticalAgriculture-1.16.5-4.2.6.jar, MysticalAgradditions-1.16.5-4.2.4.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, TConstruct-1.16.5-3.3.4.335.jar, FarmersDelight-1.16.5-0.6.0.jar, BiomesOPlenty-1.16.5-13.1.0.477-universal.jar, Jade-1.16.4-2.8.3.jar, Botania-1.16.5-420.3.jar, L_Enders Cataclysm-0.48 Changed Theme -1.16.5.jar, curios-forge-1.16.5-4.1.0.0.jar, SpartanShields-1.16.5-2.1.2.jar, Patchouli-1.16.4-53.3.jar, Mantle-1.16.5-1.6.157.jar, Xaeros_Minimap_25.2.6_Forge_1.16.5.jar, elevatorid-1.16.5-1.7.13.jar, tombstone-1.16.5-6.9.6.jar, BetterStrongholds-1.16.4-1.2.1.jar, swiaf-1.16.5-1.1.2.jar, SpartanWeaponry-1.16.5-2.2.2.jar, appleskin-forge-mc1.16.x-2.5.1.jar, Vampirism-1.16.5-1.9.10.jar, VampiresNeedUmbrellas-1.16.5-1.1.5.jar, lootr-1.16.5-0.2.19.51.jar, Aquaculture-1.16.5-2.1.23.jar, expandability-2.0.1-forge.jar, BetterMineshafts-Forge-1.16.4-2.0.4.jar, geckolib-forge-1.16.5-3.0.106.jar, dungeons_libraries-1.16.5-1.0.6.jar
+[25May2025 02:04:47.894] [Worker-Main-6/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 0 entities blood values
+[25May2025 02:04:47.934] [Worker-Main-5/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 0 items blood values
+[25May2025 02:04:48.013] [Worker-Main-4/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 0 fluids blood values
+[25May2025 02:04:48.435] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/aluminum_ingot as it's serializer returned null
+[25May2025 02:04:48.470] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
+[25May2025 02:04:48.504] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/constantan_ingot as it's serializer returned null
+[25May2025 02:04:48.512] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/tungsten_ingot as it's serializer returned null
+[25May2025 02:04:48.556] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/mithril_ingot as it's serializer returned null
+[25May2025 02:04:48.568] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/tin_ingot as it's serializer returned null
+[25May2025 02:04:48.576] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
+[25May2025 02:04:48.588] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/iridium_ingot as it's serializer returned null
+[25May2025 02:04:48.589] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/zinc_ingot as it's serializer returned null
+[25May2025 02:04:48.621] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/bronze_ingot as it's serializer returned null
+[25May2025 02:04:48.626] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/invar_ingot as it's serializer returned null
+[25May2025 02:04:48.632] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/gems/ruby as it's serializer returned null
+[25May2025 02:04:48.647] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/niter as it's serializer returned null
+[25May2025 02:04:48.662] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/chrome_ingot as it's serializer returned null
+[25May2025 02:04:48.709] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/electrum_ingot as it's serializer returned null
+[25May2025 02:04:48.717] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/silicon as it's serializer returned null
+[25May2025 02:04:48.765] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/gems/apatite as it's serializer returned null
+[25May2025 02:04:48.781] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/brass_ingot as it's serializer returned null
+[25May2025 02:04:48.826] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/saltpeter as it's serializer returned null
+[25May2025 02:04:48.829] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/steel_ingot as it's serializer returned null
+[25May2025 02:04:48.841] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/titanium_ingot as it's serializer returned null
+[25May2025 02:04:48.863] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/rubber as it's serializer returned null
+[25May2025 02:04:48.877] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/platinum_ingot as it's serializer returned null
+[25May2025 02:04:48.880] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/sulfur as it's serializer returned null
+[25May2025 02:04:48.887] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/lead_ingot as it's serializer returned null
+[25May2025 02:04:48.889] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/graphite_ingot as it's serializer returned null
+[25May2025 02:04:48.892] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/uranium_ingot as it's serializer returned null
+[25May2025 02:04:48.904] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
+[25May2025 02:04:48.906] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/nickel_ingot as it's serializer returned null
+[25May2025 02:04:48.920] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 37 recipes
+[25May2025 02:04:50.052] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[25May2025 02:04:50.141] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[25May2025 02:04:50.528] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[25May2025 02:04:51.185] [Worker-Main-4/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[25May2025 02:04:51.439] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3569 advancements
+[25May2025 02:04:51.456] [Worker-Main-4/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Beginning loading of data for data loader: ancient/mob_ancient_data
+[25May2025 02:04:51.456] [Worker-Main-4/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Data loader for ancient/mob_ancient_data loaded 1 finalized objects
+[25May2025 02:04:51.456] [Worker-Main-4/INFO] [Dungeon Crawl/]: Loading data...
+[25May2025 02:04:52.401] [Worker-Main-4/INFO] [Dungeon Crawl/]: Done.
+[25May2025 02:04:52.477] [Worker-Main-4/INFO] [de.teamlapen.vampirism.player.skills.SkillTree/]: Loaded 53 skill nodes
+[25May2025 02:04:52.484] [Worker-Main-4/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 12 convertibles
+[25May2025 02:04:52.488] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: summon
+[25May2025 02:04:52.489] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for summon loaded 8 jsons
+[25May2025 02:04:52.489] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: material/weapon
+[25May2025 02:04:52.489] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for material/weapon loaded 0 jsons
+[25May2025 02:04:52.490] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: material/armor
+[25May2025 02:04:52.490] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for material/armor loaded 2 jsons
+[25May2025 02:04:52.490] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/melee
+[25May2025 02:04:52.491] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/melee loaded 0 jsons
+[25May2025 02:04:52.491] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/armor
+[25May2025 02:04:52.495] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/armor loaded 15 jsons
+[25May2025 02:04:52.495] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/bow
+[25May2025 02:04:52.495] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/bow loaded 0 jsons
+[25May2025 02:04:52.495] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: gearconfig/crossbow
+[25May2025 02:04:52.495] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for gearconfig/crossbow loaded 0 jsons
+[25May2025 02:04:52.501] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Beginning loading of data for data loader: elite_mob
+[25May2025 02:04:52.501] [Worker-Main-4/INFO] [com.infamous.dungeons_libraries.DungeonsLibraries/]: Data loader for elite_mob loaded 6 finalized objects
+[25May2025 02:04:52.502] [Worker-Main-4/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 0 ms
+[25May2025 02:04:52.519] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 55 materials in 16.65498 ms
+[25May2025 02:04:52.597] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 146 stats loaded for 73 materials in 78.36456 ms
+[25May2025 02:04:52.698] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 62 traits loaded for 73 materials in 100.225655 ms
+[25May2025 02:04:52.748] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 15 station slot layouts in 41.200264 ms
+[25May2025 02:04:57.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[25May2025 02:04:57.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[25May2025 02:04:57.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[25May2025 02:04:57.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[25May2025 02:04:57.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[25May2025 02:04:57.374] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[25May2025 02:04:57.445] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[25May2025 02:04:57.445] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[25May2025 02:04:57.445] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[25May2025 02:04:57.445] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[25May2025 02:04:57.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[25May2025 02:04:57.876] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.infamous.dungeons_mobs.entities.summonables.ConstructEntity from class com.infamous.dungeons_mobs.entities.redstone.RedstoneMineEntity
+[25May2025 02:04:57.923] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityVoidWorm from class com.github.alexthe666.alexsmobs.entity.EntityVoidPortal
+[25May2025 02:04:58.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[25May2025 02:04:59.078] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[25May2025 02:04:59.079] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[25May2025 02:04:59.079] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[25May2025 02:04:59.471] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1414 ms
+[25May2025 02:04:59.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.012s)! For help, type "help"
+[25May2025 02:04:59.546] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
+[25May2025 02:04:59.551] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[25May2025 02:04:59.551] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[25May2025 02:05:07.911] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@41d07ab7
+[25May2025 02:05:07.953] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:60905] logged in with entity id 690 at (-146.81104986859884, 76.12359090632644, 2105.3568009034043)
+[25May2025 02:05:07.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
+[25May2025 02:05:08.082] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
+[25May2025 02:05:09.509] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@69c7c08f
+[25May2025 02:05:09.529] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:52713] logged in with entity id 712 at (169.69999998807907, 50.0, -278.54824715488246)
+[25May2025 02:05:09.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
+[25May2025 02:05:09.714] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5debb46e (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[25May2025 02:05:09.715] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@6adec366 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[25May2025 02:05:09.745] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
+[25May2025 02:06:59.343] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1765878f
+[25May2025 02:06:59.359] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Prime9977[/127.110.123.215:39241] logged in with entity id 1846 at (-41.56158826087621, 133.1661092609382, 1936.8976739129819)
+[25May2025 02:06:59.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 joined the game
+[25May2025 02:06:59.419] [Server thread/INFO] [Waila/]: Syncing config to Prime9977 (1e4d5421-dd37-3deb-a128-3bfbc8d1a346)
+[25May2025 02:07:08.135] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Prime9977 was kicked for floating too long!
+[25May2025 02:07:08.136] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Prime9977 lost connection: Flying is not enabled on this server
+[25May2025 02:07:08.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 left the game
+[25May2025 02:07:08.208] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[25May2025 02:07:19.145] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@694437c7
+[25May2025 02:07:19.163] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Prime9977[/127.110.123.215:51203] logged in with entity id 2131 at (-41.56158826087621, 133.1661092609382, 1936.8976739129819)
+[25May2025 02:07:19.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Prime9977 joined the game
+[25May2025 02:07:19.188] [Server thread/INFO] [Waila/]: Syncing config to Prime9977 (1e4d5421-dd37-3deb-a128-3bfbc8d1a346)
+[25May2025 02:07:43.818] [Server thread/WARN] [tombstone/]: The death event of the player leonardo412351 was canceled by another mod
+[25May2025 02:07:43.850] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[25May2025 02:07:46.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 died because of Guard
+[25May2025 02:07:46.540] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[25May2025 02:08:21.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to leonardo412351]
+[25May2025 02:10:22.888] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:beehive @ BlockPos{x=-49, y=64, z=2556}
+[25May2025 02:10:23.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [capibaramcj: Teleported capibaramcj to Prime9977]
+[25May2025 02:10:55.374] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Timed out
+[25May2025 02:10:55.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
+[25May2025 02:11:26.598] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@425a101f
+[25May2025 02:11:26.620] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: capibaramcj[/127.167.203.14:48633] logged in with entity id 4678 at (-162.9299120862063, 69.0, 1928.954529658785)
+[25May2025 02:11:26.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj joined the game
+[25May2025 02:11:26.701] [Server thread/INFO] [Waila/]: Syncing config to capibaramcj (fea555bc-74db-39f6-bdea-4cb08e62df44)
+[25May2025 02:11:26.742] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@5debb46e (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[25May2025 02:11:26.742] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@6adec366 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[25May2025 02:11:27.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 was incinerated by Fire Dragon
+[25May2025 02:11:27.805] [Server thread/INFO] [tombstone/]: The player leonardo412351 has successfully been saved
+[25May2025 02:11:41.672] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 was kicked for floating too long!
+[25May2025 02:11:41.723] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Flying is not enabled on this server
+[25May2025 02:11:41.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
+[25May2025 02:11:57.030] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@525145d
+[25May2025 02:11:57.046] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:40437] logged in with entity id 4920 at (-6.1968235661750635, 121.96026947021554, 2019.0691563613022)
+[25May2025 02:11:57.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
+[25May2025 02:11:57.071] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
+[25May2025 02:12:15.582] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 was kicked for floating too long!
+[25May2025 02:12:15.635] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Flying is not enabled on this server
+[25May2025 02:12:15.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
+[25May2025 02:12:28.242] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5bc019d0
+[25May2025 02:12:28.258] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:35157] logged in with entity id 5392 at (-6.264002707672308, 111.25624676053717, 2023.6342528945552)
+[25May2025 02:12:28.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
+[25May2025 02:12:28.283] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
+[25May2025 02:12:46.979] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 was kicked for floating too long!
+[25May2025 02:12:47.032] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Flying is not enabled on this server
+[25May2025 02:12:47.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
+[25May2025 02:12:56.873] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: capibaramcj lost connection: Timed out
+[25May2025 02:12:56.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: capibaramcj left the game
+[25May2025 02:12:59.926] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@38c36e77
+[25May2025 02:12:59.939] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:58889] logged in with entity id 5694 at (-6.264002707672308, 100.5522240508588, 2023.6342528945552)
+[25May2025 02:12:59.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
+[25May2025 02:12:59.948] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
+[25May2025 02:13:17.197] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 was kicked for floating too long!
+[25May2025 02:13:17.235] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: leonardo412351 lost connection: Flying is not enabled on this server
+[25May2025 02:13:17.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 left the game
+[25May2025 02:13:30.224] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@19a01e58
+[25May2025 02:13:30.237] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leonardo412351[/127.166.152.228:37805] logged in with entity id 6092 at (-6.338733337252526, 90.37253258383986, 2032.1612211766924)
+[25May2025 02:13:30.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leonardo412351 joined the game
+[25May2025 02:13:30.253] [Server thread/INFO] [Waila/]: Syncing config to leonardo412351 (59a5eca1-9bd9-3095-b8e1-ecbe6e9538a4)
